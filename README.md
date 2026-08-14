@@ -14,14 +14,17 @@ Run locally:
 ```
 pip install -r requirements.txt
 python fetch_trending.py --limit 5 --out repo_data.json
-python make_carousel.py repo_data.json out --handle "@yourdailyoss.bsky.social" --link "yourdailyoss.com"
-python make_captions.py repo_data.json --link "yourdailyoss.com" --out captions.json
+python make_carousel.py repo_data.json out --handle "@yourdailyoss.bsky.social"
+python make_captions.py repo_data.json --out captions.json
 python post_bluesky.py out repo_data.json captions.json --dry-run
 python post_mastodon.py out repo_data.json captions.json --dry-run
 ```
 Drop `--dry-run` to actually post. `make_captions.py` calls the Claude API for
 punchier copy if `ANTHROPIC_API_KEY` is set, and falls back to a flatter
-rule-based caption otherwise.
+rule-based caption otherwise. Pass `--link "your-url"` to both
+`make_carousel.py` and `make_captions.py` once there's a real CTA
+destination (newsletter/affiliate link) -- omitted above since there
+isn't one yet.
 
 ## GitHub Actions
 - **daily-draft.yml** (cron, see file for run time) fetches trending repos,

@@ -39,11 +39,14 @@ jobs:
           DATE=$(date -u +%Y-%m-%d)
           DIR="content/$DATE"
           mkdir -p "$DIR"
+          # --link intentionally omitted below until there's a real CTA
+          # destination (newsletter/affiliate link) -- add `--link "..."`
+          # to both commands once one's chosen.
           python fetch_trending.py --limit 5 --out "$DIR/repo_data.json"
           python make_carousel.py "$DIR/repo_data.json" "$DIR/out" \
-            --handle "@yourdailyoss.bsky.social" --link "yourdailyoss.com"
+            --handle "@yourdailyoss.bsky.social"
           python make_captions.py "$DIR/repo_data.json" \
-            --link "yourdailyoss.com" --out "$DIR/captions.json"
+            --out "$DIR/captions.json"
           echo "CONTENT_DIR=$DIR" >> "$GITHUB_ENV"
           echo "DATE=$DATE" >> "$GITHUB_ENV"
 

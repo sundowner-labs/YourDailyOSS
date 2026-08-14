@@ -24,7 +24,7 @@ Two generation modes:
     LLM mode -- use it to sanity-check the pipeline, not to ship posts.
 
 Usage:
-    python3 make_captions.py repo_data.json --link yourdailyoss.com --out captions.json
+    python3 make_captions.py repo_data.json --link "your-url" --out captions.json
     python3 make_captions.py repo_data.json --no-llm --out captions.json
 """
 import argparse
