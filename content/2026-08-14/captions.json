@@ -1,0 +1,16 @@
+{
+  "mastodon": "A 14MB AI model just landed for your smartwatch—and it actually runs.\n\n• Finally, diagrams Claude Code can read without looking like a fever dream.\n• On-device inference without the megabytes or the cloud tax.\n• Email reconnaissance at scale: find which breaches actually know about you.\n• Slack + email + docs + CRM in one workspace, all talking to the same AI brain.\n• Turn OSINT into routine, not a separate tool you'll forget to run.\n\nWhich one are you deploying first—or are…",
+  "bluesky": "A 14MB AI model just landed for your smartwatch—and it actually runs.\nWhich one are you deploying first—or are you still waiting for the GitHub Actions integration?",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A 14MB AI model just landed for your smartwatch—and it actually runs.",
+    "repo_lines": [
+      "Finally, diagrams Claude Code can read without looking like a fever dream.",
+      "On-device inference without the megabytes or the cloud tax.",
+      "Email reconnaissance at scale: find which breaches actually know about you.",
+      "Slack + email + docs + CRM in one workspace, all talking to the same AI brain.",
+      "Turn OSINT into routine, not a separate tool you'll forget to run."
+    ],
+    "closing_question": "Which one are you deploying first—or are you still waiting for the GitHub Actions integration?"
+  }
+}
