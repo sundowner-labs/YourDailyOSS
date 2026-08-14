@@ -30,7 +30,9 @@ jobs:
 
       - name: Resolve content dir
         run: |
-          DATE="${GITHUB_HEAD_REF#draft/}"
+          # Branch is draft/<DATE>-<run-id>; DATE is always YYYY-MM-DD (10 chars).
+          SUFFIX="${GITHUB_HEAD_REF#draft/}"
+          DATE="${SUFFIX:0:10}"
           echo "CONTENT_DIR=content/$DATE" >> "$GITHUB_ENV"
         env:
           GITHUB_HEAD_REF: ${{ github.event.pull_request.head.ref }}

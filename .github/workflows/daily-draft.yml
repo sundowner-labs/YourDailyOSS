@@ -54,7 +54,11 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          BRANCH="draft/$DATE"
+          # Suffix with the run ID so a manual re-run or a retry on the same
+          # UTC date doesn't collide with an already-pushed branch (this bit
+          # us: a manual test run and the real scheduled run landed on the
+          # same date and the second push was rejected).
+          BRANCH="draft/$DATE-${GITHUB_RUN_ID}"
           echo "BRANCH_NAME=$BRANCH" >> "$GITHUB_ENV"
           git config user.name "yourdailyoss-bot"
           git config user.email "actions@users.noreply.github.com"
