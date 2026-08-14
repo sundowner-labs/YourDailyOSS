@@ -178,19 +178,27 @@ def repo_card(repo, idx, total_cards, handle, out_path):
     img.save(out_path)
 
 
-def cta_card(handle, link, monetization_note, total_cards, out_path):
+def cta_card(handle, headline, subtext, link, monetization_note, total_cards, out_path):
     img, d = base_canvas()
-    d.text((60, 200), "WANT MORE?", font=font(FONT_DIR_BOLD, 64), fill=FG)
-    d.text((60, 300), "Follow for the best repos,", font=font(FONT_DIR_REG, 38), fill=MUTED)
-    d.text((60, 344), "every single day.", font=font(FONT_DIR_REG, 38), fill=MUTED)
+    headline_font = font(FONT_DIR_BOLD, 64 if len(headline) < 22 else 48)
+    y = 200
+    for line in wrap_text(d, headline, headline_font, W - 120)[:2]:
+        d.text((60, y), line, font=headline_font, fill=FG)
+        y += headline_font.size + 10
 
+    y += 30
+    for line in wrap_text(d, subtext, font(FONT_DIR_REG, 38), W - 120)[:3]:
+        d.text((60, y), line, font=font(FONT_DIR_REG, 38), fill=MUTED)
+        y += 48
+
+    y += 40
     if link:
-        d.rounded_rectangle([60, 460, W - 60, 540], radius=16, fill=BG_ACCENT, outline=ACCENT, width=3)
-        d.text((90, 480), link, font=font(FONT_DIR_BOLD, 34), fill=ACCENT)
+        d.rounded_rectangle([60, y, W - 60, y + 80], radius=16, fill=BG_ACCENT, outline=ACCENT, width=3)
+        d.text((90, y + 20), link, font=font(FONT_DIR_BOLD, 34), fill=ACCENT)
+        y += 80 + 60
 
     if monetization_note:
         lines = wrap_text(d, monetization_note, font(FONT_DIR_REG, 28), W - 120)
-        y = 600
         for line in lines:
             d.text((60, y), line, font=font(FONT_DIR_REG, 28), fill=MUTED)
             y += 38
@@ -206,6 +214,8 @@ def main():
     ap.add_argument("--handle", default="@yourhandle")
     ap.add_argument("--link", default="")
     ap.add_argument("--tagline", default="Hand-picked from GitHub Trending, no fluff.")
+    ap.add_argument("--cta-headline", default="DON'T MISS TOMORROW'S FIND")
+    ap.add_argument("--cta-subtext", default="Follow now -- the next repo like this drops in 24 hours.")
     ap.add_argument("--monetization-note", default="")
     args = ap.parse_args()
 
@@ -226,7 +236,7 @@ def main():
         paths.append(p)
 
     pN = os.path.join(args.out_dir, f"{len(repos)+1:02d}_cta.png")
-    cta_card(args.handle, args.link, args.monetization_note, total_cards, pN)
+    cta_card(args.handle, args.cta_headline, args.cta_subtext, args.link, args.monetization_note, total_cards, pN)
     paths.append(pN)
 
     print("\n".join(paths))

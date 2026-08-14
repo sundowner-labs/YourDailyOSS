@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """
-Generate the post caption to go with the carousel images.
+Generate the post caption to go with the carousel images, plus the two
+short pieces of carousel copy that need the same punch: the title card's
+tagline and the closing CTA card's headline/subtext.
 
 Style brief (per project handoff): hook opener leading with the most
 surprising stat (not "here are today's repos"), one punchy "why this
 matters" line per repo instead of the raw GitHub description, and an
 engagement-driving close -- a question, since that's what reply/comment
-counts reward in these platforms' algorithms.
+counts reward in these platforms' algorithms. The CTA text needs a real,
+specific incentive to follow -- not generic "follow for more" filler.
 
 Two output lengths are produced from the same content:
   - "long"  -- for Mastodon (default instance limit ~500 chars)
@@ -16,9 +19,9 @@ Two output lengths are produced from the same content:
 
 Two generation modes:
   - LLM mode (default): calls the Claude API to write the hook, the
-    per-repo lines, and the closing question, so the copy has actual
-    variety instead of reading like five iterations of one template.
-    Requires ANTHROPIC_API_KEY.
+    per-repo lines, the closing question, and the carousel copy, so it
+    reads like one energetic piece of writing instead of five iterations
+    of one template. Requires ANTHROPIC_API_KEY.
   - --no-llm: rule-based fallback with no external calls, for offline
     testing or if the API key isn't set yet. Noticeably flatter than the
     LLM mode -- use it to sanity-check the pipeline, not to ship posts.
@@ -49,6 +52,10 @@ CLOSING_QUESTIONS = [
     "What'd we miss from today's trending page?",
 ]
 
+DEFAULT_TAGLINE = "Hand-picked from GitHub Trending, no fluff."
+DEFAULT_CTA_HEADLINE = "DON'T MISS TOMORROW'S FIND"
+DEFAULT_CTA_SUBTEXT = "Follow now -- the next repo like this drops in 24 hours."
+
 
 def _int_or(value, default=0):
     try:
@@ -69,10 +76,12 @@ def call_claude(repos, model):
         for r in repos
     )
 
-    prompt = f"""You write social captions for a daily "GitHub Trending" carousel post
-(Bluesky + Mastodon). The images already show each repo's name, description,
-stars, and language -- your job is the caption text, which should add
-punch, not repeat the images.
+    prompt = f"""You write social copy for a daily "GitHub Trending" carousel post
+(Bluesky + Mastodon): the caption text AND the two short lines of copy
+printed on the carousel images themselves (title card tagline, closing
+CTA card). The repo images already show name/description/stars/language
+-- your job is everything else, and it should read like one high-energy
+piece of writing, not five separate flat labels bolted together.
 
 Today's repos:
 {repo_lines}
@@ -89,6 +98,14 @@ Write JSON with exactly these keys:
 - "closing_question": one short question inviting replies (e.g. asking
   which repo people are trying first). Do not use generic phrasing like
   "let us know your thoughts".
+- "tagline": one line (under 60 characters) printed under the title card
+  headline. It should set an energetic tone for the whole carousel, not
+  read as a boilerplate subtitle like "hand-picked, no fluff."
+- "cta_headline": 3-6 words, printed big on the final card. A real hook
+  to follow -- urgency, FOMO, or a specific promise -- not "want more?".
+- "cta_subtext": one sentence (under 90 characters) giving a SPECIFIC,
+  concrete reason to follow -- what they get, and why now, not vague
+  phrasing like "follow for the best repos every day."
 
 Tone: confident, informal, zero corporate voice, no hashtag stuffing, no
 emoji spam (a single emoji max, optional). Output ONLY the JSON object,
@@ -115,7 +132,15 @@ no markdown fences, no commentary."""
 
     if len(data.get("repo_lines", [])) != len(repos):
         raise ValueError("Claude returned the wrong number of repo lines")
-    return data["hook"], data["repo_lines"], data["closing_question"]
+
+    return {
+        "hook": data["hook"],
+        "repo_lines": data["repo_lines"],
+        "closing_question": data["closing_question"],
+        "tagline": data.get("tagline") or DEFAULT_TAGLINE,
+        "cta_headline": data.get("cta_headline") or DEFAULT_CTA_HEADLINE,
+        "cta_subtext": data.get("cta_subtext") or DEFAULT_CTA_SUBTEXT,
+    }
 
 
 def rule_based_fallback(repos):
@@ -131,8 +156,14 @@ def rule_based_fallback(repos):
         lang = r.get("language") or "code"
         repo_lines.append(f"{r['full_name']} ({lang}): {desc}." if desc else f"{r['full_name']} ({lang}).")
 
-    closing_question = random.choice(CLOSING_QUESTIONS)
-    return hook, repo_lines, closing_question
+    return {
+        "hook": hook,
+        "repo_lines": repo_lines,
+        "closing_question": random.choice(CLOSING_QUESTIONS),
+        "tagline": DEFAULT_TAGLINE,
+        "cta_headline": DEFAULT_CTA_HEADLINE,
+        "cta_subtext": DEFAULT_CTA_SUBTEXT,
+    }
 
 
 def truncate(text, limit):
@@ -141,7 +172,10 @@ def truncate(text, limit):
     return text[: limit - 1].rstrip() + "…"
 
 
-def build_captions(repos, hook, repo_lines, closing_question, link):
+def build_captions(content, link):
+    hook = content["hook"]
+    repo_lines = content["repo_lines"]
+    closing_question = content["closing_question"]
     link_line = f"\U0001f517 {link}" if link else ""
 
     long_parts = [hook, ""] + [f"• {line}" for line in repo_lines] + [""]
@@ -178,19 +212,22 @@ def main():
         sys.exit(1)
 
     if args.no_llm:
-        hook, repo_lines, closing_question = rule_based_fallback(repos)
+        content = rule_based_fallback(repos)
         mode = "rule-based"
     else:
         try:
-            hook, repo_lines, closing_question = call_claude(repos, args.model)
+            content = call_claude(repos, args.model)
             mode = f"llm ({args.model})"
         except Exception as e:
             print(f"LLM caption generation failed ({e}); falling back to rule-based.", file=sys.stderr)
-            hook, repo_lines, closing_question = rule_based_fallback(repos)
+            content = rule_based_fallback(repos)
             mode = "rule-based (fallback)"
 
-    captions = build_captions(repos, hook, repo_lines, closing_question, args.link)
-    captions["_meta"] = {"mode": mode, "hook": hook, "repo_lines": repo_lines, "closing_question": closing_question}
+    captions = build_captions(content, args.link)
+    captions["tagline"] = content["tagline"]
+    captions["cta_headline"] = content["cta_headline"]
+    captions["cta_subtext"] = content["cta_subtext"]
+    captions["_meta"] = {"mode": mode, **content}
 
     with open(args.out, "w", encoding="utf-8") as f:
         json.dump(captions, f, indent=2, ensure_ascii=False)
@@ -200,6 +237,10 @@ def main():
     print(captions["mastodon"])
     print("\n--- Bluesky ---")
     print(captions["bluesky"])
+    print("\n--- Carousel copy ---")
+    print(f"tagline: {captions['tagline']}")
+    print(f"cta_headline: {captions['cta_headline']}")
+    print(f"cta_subtext: {captions['cta_subtext']}")
 
 
 if __name__ == "__main__":

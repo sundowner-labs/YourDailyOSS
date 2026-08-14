@@ -43,10 +43,22 @@ jobs:
           # destination (newsletter/affiliate link) -- add `--link "..."`
           # to both commands once one's chosen.
           python fetch_trending.py --limit 5 --out "$DIR/repo_data.json"
-          python make_carousel.py "$DIR/repo_data.json" "$DIR/out" \
-            --handle "@yourdailyoss.bsky.social"
+
+          # Captions run first -- it's also where the carousel's tagline
+          # and CTA copy get written, so the carousel needs its output.
           python make_captions.py "$DIR/repo_data.json" \
             --out "$DIR/captions.json"
+
+          TAGLINE=$(jq -r '.tagline' "$DIR/captions.json")
+          CTA_HEADLINE=$(jq -r '.cta_headline' "$DIR/captions.json")
+          CTA_SUBTEXT=$(jq -r '.cta_subtext' "$DIR/captions.json")
+
+          python make_carousel.py "$DIR/repo_data.json" "$DIR/out" \
+            --handle "@yourdailyoss.bsky.social" \
+            --tagline "$TAGLINE" \
+            --cta-headline "$CTA_HEADLINE" \
+            --cta-subtext "$CTA_SUBTEXT"
+
           echo "CONTENT_DIR=$DIR" >> "$GITHUB_ENV"
           echo "DATE=$DATE" >> "$GITHUB_ENV"
 
