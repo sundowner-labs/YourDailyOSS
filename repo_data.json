@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "usestrix/strix",
+    "description": "Open-source AI penetration testing tool to find and fix your app's vulnerabilities.",
+    "language": "Python",
+    "stars": 34325,
+    "stars_today": 2804,
+    "url": "https://github.com/usestrix/strix"
+  },
+  {
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": 45441,
+    "stars_today": 404,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  },
+  {
+    "full_name": "facebook/astryx",
+    "description": "Open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 4448,
+    "stars_today": 943,
+    "url": "https://github.com/facebook/astryx"
+  },
+  {
+    "full_name": "ogulcancelik/herdr",
+    "description": "Agent multiplexer that lives in your terminal.",
+    "language": "Rust",
+    "stars": 10651,
+    "stars_today": 513,
+    "url": "https://github.com/ogulcancelik/herdr"
+  },
+  {
+    "full_name": "harvard-edge/cs249r_book",
+    "description": "Machine Learning Systems",
+    "language": "Python",
+    "stars": 26085,
+    "stars_today": 792,
+    "url": "https://github.com/harvard-edge/cs249r_book"
+  }
+]

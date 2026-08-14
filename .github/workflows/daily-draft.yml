@@ -1,0 +1,65 @@
+name: Daily Draft
+
+# Generates today's carousel + captions from GitHub Trending and opens a
+# PR for review. Merging the PR triggers publish-on-merge.yml, which
+# actually posts to Bluesky + Mastodon -- nothing goes out automatically.
+#
+# Runs at 19:00 UTC = 05:00 AEST (Sydney, standard time, roughly Apr-Oct).
+# GitHub Actions cron is always UTC and doesn't shift for daylight saving,
+# so during AEDT (roughly Oct-Apr) this lands at 06:00 Sydney time instead
+# of 05:00. Bump the cron hour by 1 (to "0 18 * * *") if you want to
+# correct for that during AEDT months, and back to 19 when AEST resumes.
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - name: Generate today's content
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          DATE=$(date -u +%Y-%m-%d)
+          DIR="content/$DATE"
+          mkdir -p "$DIR"
+          python fetch_trending.py --limit 5 --out "$DIR/repo_data.json"
+          python make_carousel.py "$DIR/repo_data.json" "$DIR/out" \
+            --handle "@yourdailyoss.bsky.social" --link "yourdailyoss.com"
+          python make_captions.py "$DIR/repo_data.json" \
+            --link "yourdailyoss.com" --out "$DIR/captions.json"
+          echo "CONTENT_DIR=$DIR" >> "$GITHUB_ENV"
+          echo "DATE=$DATE" >> "$GITHUB_ENV"
+
+      - name: Open review PR
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          BRANCH="draft/$DATE"
+          echo "BRANCH_NAME=$BRANCH" >> "$GITHUB_ENV"
+          git config user.name "yourdailyoss-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add "$CONTENT_DIR"
+          git commit -m "Daily draft: $DATE"
+          git push origin "$BRANCH"
+
+          BRANCH_NAME="$BRANCH" python .github/scripts/build_pr_body.py "$CONTENT_DIR" > pr_body.md
+          gh pr create --title "Daily draft: $DATE" --body-file pr_body.md \
+            --head "$BRANCH" --base main

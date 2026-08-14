@@ -1,0 +1,51 @@
+name: Publish Draft
+
+# Fires when a draft/* PR from daily-draft.yml is merged, and actually
+# posts that day's carousel to Bluesky + Mastodon. Closing the PR
+# without merging skips the day -- nothing posts.
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.head.ref, 'draft/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.merge_commit_sha }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - name: Resolve content dir
+        run: |
+          DATE="${GITHUB_HEAD_REF#draft/}"
+          echo "CONTENT_DIR=content/$DATE" >> "$GITHUB_ENV"
+        env:
+          GITHUB_HEAD_REF: ${{ github.event.pull_request.head.ref }}
+
+      - name: Post to Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: |
+          python post_bluesky.py "$CONTENT_DIR/out" "$CONTENT_DIR/repo_data.json" "$CONTENT_DIR/captions.json"
+
+      - name: Post to Mastodon
+        if: always()
+        env:
+          MASTODON_INSTANCE_URL: ${{ secrets.MASTODON_INSTANCE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        run: |
+          python post_mastodon.py "$CONTENT_DIR/out" "$CONTENT_DIR/repo_data.json" "$CONTENT_DIR/captions.json"

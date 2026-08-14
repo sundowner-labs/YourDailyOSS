@@ -147,6 +147,12 @@ activemq-data/
 # SageMath parsed files
 *.sage.py
 
+# Local pipeline test output (root-level only -- content/<date>/ archives
+# from the daily workflow are intentional and should be committed)
+/out/
+/captions.json
+/pr_body.md
+
 # Environments
 .env
 .envrc
