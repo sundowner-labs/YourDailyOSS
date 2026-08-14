@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "cathrynlavery/diagram-design",
+    "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "language": "HTML",
+    "stars": 17146,
+    "stars_today": 3651,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "full_name": "cactus-compute/needle",
+    "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+    "language": "Python",
+    "stars": 5572,
+    "stars_today": 661,
+    "url": "https://github.com/cactus-compute/needle"
+  },
+  {
+    "full_name": "megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "stars": 12823,
+    "stars_today": 427,
+    "url": "https://github.com/megadose/holehe"
+  },
+  {
+    "full_name": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM \u2014 @-linked together with shared AI memory.",
+    "language": "Rust",
+    "stars": 3009,
+    "stars_today": 435,
+    "url": "https://github.com/macro-inc/macro"
+  },
+  {
+    "full_name": "smicallef/spiderfoot",
+    "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+    "language": "Python",
+    "stars": 20926,
+    "stars_today": 292,
+    "url": "https://github.com/smicallef/spiderfoot"
+  }
+]
