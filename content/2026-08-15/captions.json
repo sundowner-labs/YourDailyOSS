@@ -1,0 +1,22 @@
+{
+  "mastodon": "A diagram design library just hit 18K stars in a single day—that's 1,619 upvotes before breakfast.\n\n• Cordis turns composable patterns into actual products. Build faster.\n• 29 diagram types, zero design debt. Claude devs are shipping these today.\n• Cursor just formalized plugins. If you build extensions, read the spec.\n• 14MB LLM that runs on your phone. No cloud, no lag, actual inference.\n• Fine-tune DeepSeek, FLUX, Qwen on your machine without the VRAM tax.\n\nWhich one are…",
+  "bluesky": "A diagram design library just hit 18K stars in a single day—that's 1,619 upvotes before breakfast.\nWhich one are you shipping with first?",
+  "tagline": "five repos reshaping what's actually buildable",
+  "cta_headline": "New trending repos daily.",
+  "cta_subtext": "Tomorrow's architectural wins are in today's trending list—don't miss the momentum shift.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A diagram design library just hit 18K stars in a single day—that's 1,619 upvotes before breakfast.",
+    "repo_lines": [
+      "Cordis turns composable patterns into actual products. Build faster.",
+      "29 diagram types, zero design debt. Claude devs are shipping these today.",
+      "Cursor just formalized plugins. If you build extensions, read the spec.",
+      "14MB LLM that runs on your phone. No cloud, no lag, actual inference.",
+      "Fine-tune DeepSeek, FLUX, Qwen on your machine without the VRAM tax."
+    ],
+    "closing_question": "Which one are you shipping with first?",
+    "tagline": "five repos reshaping what's actually buildable",
+    "cta_headline": "New trending repos daily.",
+    "cta_subtext": "Tomorrow's architectural wins are in today's trending list—don't miss the momentum shift."
+  }
+}
