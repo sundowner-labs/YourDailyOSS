@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "language": "TypeScript",
+    "stars": 4632,
+    "stars_today": 719,
+    "url": "https://github.com/cordiverse/cordis"
+  },
+  {
+    "full_name": "basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "language": "Shell",
+    "stars": 25282,
+    "stars_today": 225,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "full_name": "unslothai/unsloth",
+    "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "language": "Python",
+    "stars": 72451,
+    "stars_today": 580,
+    "url": "https://github.com/unslothai/unsloth"
+  },
+  {
+    "full_name": "OpenCut-app/OpenCut",
+    "description": "The open-source CapCut alternative",
+    "language": "TypeScript",
+    "stars": 83751,
+    "stars_today": 134,
+    "url": "https://github.com/OpenCut-app/OpenCut"
+  },
+  {
+    "full_name": "public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stars": 461429,
+    "stars_today": 1583,
+    "url": "https://github.com/public-apis/public-apis"
+  }
+]

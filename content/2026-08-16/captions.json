@@ -1,0 +1,22 @@
+{
+  "mastodon": "Public APIs just gained 1,583 stars in a single day—the internet's cheat code collection is exploding.\n\n• Spatiotemporal composability for framework builders who think different\n• Linux distro that actually respects your setup preferences\n• Run & train LLMs locally without melting your hardware or wallet\n• Finally, a CapCut clone that doesn't phone home to Beijing\n• 46k+ free APIs organized so you never rebuild the wheel again\n\nWhich one are you cloning into your machine fir…",
+  "bluesky": "Public APIs just gained 1,583 stars in a single day—the internet's cheat code collection is exploding.\nWhich one are you cloning into your machine first?",
+  "tagline": "Five repos reshaping how we build",
+  "cta_headline": "Stay ahead of the surge",
+  "cta_subtext": "Get trending repos before Hacker News floods them—fresh every morning.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Public APIs just gained 1,583 stars in a single day—the internet's cheat code collection is exploding.",
+    "repo_lines": [
+      "Spatiotemporal composability for framework builders who think different",
+      "Linux distro that actually respects your setup preferences",
+      "Run & train LLMs locally without melting your hardware or wallet",
+      "Finally, a CapCut clone that doesn't phone home to Beijing",
+      "46k+ free APIs organized so you never rebuild the wheel again"
+    ],
+    "closing_question": "Which one are you cloning into your machine first?",
+    "tagline": "Five repos reshaping how we build",
+    "cta_headline": "Stay ahead of the surge",
+    "cta_subtext": "Get trending repos before Hacker News floods them—fresh every morning."
+  }
+}
