@@ -1,0 +1,22 @@
+{
+  "mastodon": "MoneyPrinterTurbo hit +1,275 stars in a single day—AI video generation just entered the \"too easy to ignore\" phase.\n\n• One-click AI video generation is now a GitHub problem, not a SaaS problem.\n• Your app's vulnerabilities laid bare by the same AI agents you're already worried about.\n• Rust traders are done waiting—deterministic, microsecond-precise, production-ready.\n• Agents forgetting context between tasks? Solved. Long-term memory for code CLIs is here.\n• 817 structured…",
+  "bluesky": "MoneyPrinterTurbo hit +1,275 stars in a single day—AI video generation just entered the \"too easy to ignore\" phase.\nWhich of these are you deploying first: automation, security, or trading infrastructure?",
+  "tagline": "AI's getting serious about shipping.",
+  "cta_headline": "New trending repos, daily.",
+  "cta_subtext": "See what just hit escape velocity before everyone else catches up.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "MoneyPrinterTurbo hit +1,275 stars in a single day—AI video generation just entered the \"too easy to ignore\" phase.",
+    "repo_lines": [
+      "One-click AI video generation is now a GitHub problem, not a SaaS problem.",
+      "Your app's vulnerabilities laid bare by the same AI agents you're already worried about.",
+      "Rust traders are done waiting—deterministic, microsecond-precise, production-ready.",
+      "Agents forgetting context between tasks? Solved. Long-term memory for code CLIs is here.",
+      "817 structured security skills for agents—turns AI from wild card into controllable threat hunter."
+    ],
+    "closing_question": "Which of these are you deploying first: automation, security, or trading infrastructure?",
+    "tagline": "AI's getting serious about shipping.",
+    "cta_headline": "New trending repos, daily.",
+    "cta_subtext": "See what just hit escape velocity before everyone else catches up."
+  }
+}
