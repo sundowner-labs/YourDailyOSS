@@ -1,0 +1,22 @@
+{
+  "mastodon": "A single Python script just crossed 108k stars by turning AI into a video factory—one topic, infinite short-form content.\n\n• Automate your entire content pipeline: topic → script → HD video in seconds\n• Multi-agent orchestration finally has a standard harness that doesn't require PhD-level setup\n• Your AI agents forget everything after the conversation ends—this Rust tool fixes that\n• Memory, RAG, and agent skills unified in one database—no more frankenstein architectures\n•…",
+  "bluesky": "A single Python script just crossed 108k stars by turning AI into a video factory—one topic, infinite short-form content.\nWhich one are you shipping with first—the video factory or the memory upgrade?",
+  "tagline": "AI agents leveled up: memory, skills, and scale",
+  "cta_headline": "Don't sleep on agent infrastructure",
+  "cta_subtext": "These repos are shipping in production this week—catch the ones reshaping AI workflows daily",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A single Python script just crossed 108k stars by turning AI into a video factory—one topic, infinite short-form content.",
+    "repo_lines": [
+      "Automate your entire content pipeline: topic → script → HD video in seconds",
+      "Multi-agent orchestration finally has a standard harness that doesn't require PhD-level setup",
+      "Your AI agents forget everything after the conversation ends—this Rust tool fixes that",
+      "Memory, RAG, and agent skills unified in one database—no more frankenstein architectures",
+      "817 cybersecurity skills mapped to 6 frameworks: agents that actually understand threat models"
+    ],
+    "closing_question": "Which one are you shipping with first—the video factory or the memory upgrade?",
+    "tagline": "AI agents leveled up: memory, skills, and scale",
+    "cta_headline": "Don't sleep on agent infrastructure",
+    "cta_subtext": "These repos are shipping in production this week—catch the ones reshaping AI workflows daily"
+  }
+}
