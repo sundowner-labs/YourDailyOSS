@@ -1,0 +1,22 @@
+{
+  "mastodon": "MoneyPrinterTurbo just hit 110K stars—and gained 2,221 in a single day—because AI video generation at scale is no longer theoretical.\n\n• One-click HD videos from keywords: the YouTuber's fever dream, now real.\n• Agents need memory that actually works. OpenViking unifies knowledge, skills, and context in one system.\n• Multi-agent orchestration without the headache—local, deterministic, production-ready.\n• Every cybersecurity framework mapped to agent skills: the missing trans…",
+  "bluesky": "MoneyPrinterTurbo just hit 110K stars—and gained 2,221 in a single day—because AI video generation at scale is no longer theoretical.\nWhich one are you shipping with first—video automation, agent memory, or something wilder?",
+  "tagline": "AI agents leveling up, fast.",
+  "cta_headline": "Don't miss tomorrow's surge",
+  "cta_subtext": "Trending hits before your feed does. New repos every morning.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "MoneyPrinterTurbo just hit 110K stars—and gained 2,221 in a single day—because AI video generation at scale is no longer theoretical.",
+    "repo_lines": [
+      "One-click HD videos from keywords: the YouTuber's fever dream, now real.",
+      "Agents need memory that actually works. OpenViking unifies knowledge, skills, and context in one system.",
+      "Multi-agent orchestration without the headache—local, deterministic, production-ready.",
+      "Every cybersecurity framework mapped to agent skills: the missing translation layer for AI security.",
+      "Trading bots that don't blow up: deterministic event-driven Rust engine for real money."
+    ],
+    "closing_question": "Which one are you shipping with first—video automation, agent memory, or something wilder?",
+    "tagline": "AI agents leveling up, fast.",
+    "cta_headline": "Don't miss tomorrow's surge",
+    "cta_subtext": "Trending hits before your feed does. New repos every morning."
+  }
+}
