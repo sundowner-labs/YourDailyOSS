@@ -38,12 +38,16 @@ otherwise. Pass `--link "your-url"` to both `make_carousel.py` and
 link) -- omitted above since there isn't one yet.
 
 ## GitHub Actions
-- **daily-draft.yml** (cron, see file for run time) fetches trending repos,
-  generates the carousel + captions into `content/<date>/`, and opens a PR
-  for review with the images and captions inline.
-- **publish-on-merge.yml** fires when a `draft/*` PR is merged and posts
-  that day's content to Bluesky + Mastodon. Closing the PR instead of
-  merging skips the day -- nothing posts automatically.
+- **daily-post.yml** (cron, see file for run time) fetches trending repos,
+  generates the carousel + captions, commits `content/<date>/` to `main` as
+  an archive, and posts directly to Bluesky + Mastodon -- fully automatic,
+  no review step. `workflow_dispatch` triggers a real post immediately.
+
+  This replaced an earlier draft-PR-then-merge-to-publish flow (open a PR
+  for review, merging it triggered the actual post) that ran for the first
+  five days while output quality was being validated. Switch back to that
+  model by reintroducing a two-workflow split if auto-publish ever produces
+  something you'd rather have caught first.
 
 Repo secrets required for the workflows:
 | Secret | Where to get it |

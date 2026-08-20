@@ -1,14 +1,20 @@
-name: Daily Draft
+name: Daily Post
 
-# Generates today's carousel + captions from GitHub Trending and opens a
-# PR for review. Merging the PR triggers publish-on-merge.yml, which
-# actually posts to Bluesky + Mastodon -- nothing goes out automatically.
+# Fetches trending GitHub repos, generates the carousel + captions, commits
+# that day's content to main as an archive, and posts directly to Bluesky +
+# Mastodon -- fully automatic, no review step. (Replaces the old
+# daily-draft.yml + publish-on-merge.yml PR-review flow, used while output
+# quality was being validated; switched to auto-publish after five days of
+# reviewed output.)
 #
 # Runs at 19:00 UTC = 05:00 AEST (Sydney, standard time, roughly Apr-Oct).
 # GitHub Actions cron is always UTC and doesn't shift for daylight saving,
 # so during AEDT (roughly Oct-Apr) this lands at 06:00 Sydney time instead
 # of 05:00. Bump the cron hour by 1 (to "0 18 * * *") if you want to
 # correct for that during AEDT months, and back to 19 when AEST resumes.
+#
+# workflow_dispatch triggers a real post immediately -- there's no draft
+# stage to intercept it.
 
 on:
   schedule:
@@ -17,10 +23,9 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
-  draft:
+  post:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -62,23 +67,26 @@ jobs:
           echo "CONTENT_DIR=$DIR" >> "$GITHUB_ENV"
           echo "DATE=$DATE" >> "$GITHUB_ENV"
 
-      - name: Open review PR
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Archive today's content on main
         run: |
-          # Suffix with the run ID so a manual re-run or a retry on the same
-          # UTC date doesn't collide with an already-pushed branch (this bit
-          # us: a manual test run and the real scheduled run landed on the
-          # same date and the second push was rejected).
-          BRANCH="draft/$DATE-${GITHUB_RUN_ID}"
-          echo "BRANCH_NAME=$BRANCH" >> "$GITHUB_ENV"
           git config user.name "yourdailyoss-bot"
           git config user.email "actions@users.noreply.github.com"
-          git checkout -b "$BRANCH"
           git add "$CONTENT_DIR"
-          git commit -m "Daily draft: $DATE"
-          git push origin "$BRANCH"
+          git commit -m "Daily content: $DATE"
+          git pull --rebase origin main
+          git push origin main
 
-          BRANCH_NAME="$BRANCH" python .github/scripts/build_pr_body.py "$CONTENT_DIR" > pr_body.md
-          gh pr create --title "Daily draft: $DATE" --body-file pr_body.md \
-            --head "$BRANCH" --base main
+      - name: Post to Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: |
+          python post_bluesky.py "$CONTENT_DIR/out" "$CONTENT_DIR/repo_data.json" "$CONTENT_DIR/captions.json"
+
+      - name: Post to Mastodon
+        if: always()
+        env:
+          MASTODON_INSTANCE_URL: ${{ secrets.MASTODON_INSTANCE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        run: |
+          python post_mastodon.py "$CONTENT_DIR/out" "$CONTENT_DIR/repo_data.json" "$CONTENT_DIR/captions.json"
