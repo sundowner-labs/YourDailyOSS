@@ -1,0 +1,22 @@
+{
+  "mastodon": "One repo just hit 112K stars with an AI video generator that's gaining 2,200+ stars *per day*.\n\n• Turn any keyword into broadcast-ready video in seconds—no crew, no budget required.\n• Your AI agents just got long-term memory that actually scales across conversations.\n• Multi-agent orchestration without the infrastructure headache or vendor lock-in.\n• 817 cybersecurity skills mapped to every framework—drop it into Claude, Copilot, or Cursor.\n• Agents that remember context acr…",
+  "bluesky": "One repo just hit 112K stars with an AI video generator that's gaining 2,200+ stars *per day*.\nWhich one are you deploying first—video automation or agent memory?",
+  "tagline": "Today's agents got smarter, faster, and way more capable.",
+  "cta_headline": "Don't miss tomorrow's wave.",
+  "cta_subtext": "We surface repos hitting escape velocity before everyone else finds them.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "One repo just hit 112K stars with an AI video generator that's gaining 2,200+ stars *per day*.",
+    "repo_lines": [
+      "Turn any keyword into broadcast-ready video in seconds—no crew, no budget required.",
+      "Your AI agents just got long-term memory that actually scales across conversations.",
+      "Multi-agent orchestration without the infrastructure headache or vendor lock-in.",
+      "817 cybersecurity skills mapped to every framework—drop it into Claude, Copilot, or Cursor.",
+      "Agents that remember context across handoffs? This is how you build it in Rust."
+    ],
+    "closing_question": "Which one are you deploying first—video automation or agent memory?",
+    "tagline": "Today's agents got smarter, faster, and way more capable.",
+    "cta_headline": "Don't miss tomorrow's wave.",
+    "cta_subtext": "We surface repos hitting escape velocity before everyone else finds them."
+  }
+}
