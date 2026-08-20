@@ -1,42 +1,42 @@
 [
   {
-    "full_name": "harry0703/MoneyPrinterTurbo",
-    "description": "\u5229\u7528 AI \u5927\u6a21\u578b\u548c\u81ea\u52a8\u5316\u5de5\u4f5c\u6d41\uff0c\u6839\u636e\u4e3b\u9898\u6216\u5173\u952e\u8bcd\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891\u3002Generate HD short videos from a topic or keyword with an automated AI workflow.",
-    "language": "Python",
-    "stars": 112253,
-    "stars_today": 2221,
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo"
+    "full_name": "modular/modular",
+    "description": "The Modular Platform (includes MAX & Mojo)",
+    "language": "Mojo",
+    "stars": 27810,
+    "stars_today": 340,
+    "url": "https://github.com/modular/modular"
   },
   {
-    "full_name": "volcengine/OpenViking",
-    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "language": "Python",
-    "stars": 30709,
-    "stars_today": 804,
-    "url": "https://github.com/volcengine/OpenViking"
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 225985,
+    "stars_today": 2267,
+    "url": "https://github.com/mattpocock/skills"
   },
   {
-    "full_name": "chaitanyagiri/munder-difflin",
-    "description": "local multi-agent harness",
-    "language": "TypeScript",
-    "stars": 2925,
-    "stars_today": 795,
-    "url": "https://github.com/chaitanyagiri/munder-difflin"
-  },
-  {
-    "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
-    "description": "817 structured cybersecurity skills for AI agents \u00b7 Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) \u00b7 agentskills.io standard \u00b7 Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms \u00b7 29 security domains \u00b7 Apache 2.0",
-    "language": "Python",
-    "stars": 30175,
-    "stars_today": 766,
-    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
-  },
-  {
-    "full_name": "akitaonrails/ai-memory",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "full_name": "AprilNEA/OpenLogi",
+    "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
     "language": "Rust",
-    "stars": 3345,
-    "stars_today": 606,
-    "url": "https://github.com/akitaonrails/ai-memory"
+    "stars": 11623,
+    "stars_today": 1540,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  },
+  {
+    "full_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 274847,
+    "stars_today": 749,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "full_name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 3996,
+    "stars_today": 473,
+    "url": "https://github.com/cursor/plugins"
   }
 ]

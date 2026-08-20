@@ -1,22 +1,22 @@
 {
-  "mastodon": "One repo just hit 112K stars with an AI video generator that's gaining 2,200+ stars *per day*.\n\n• Turn any keyword into broadcast-ready video in seconds—no crew, no budget required.\n• Your AI agents just got long-term memory that actually scales across conversations.\n• Multi-agent orchestration without the infrastructure headache or vendor lock-in.\n• 817 cybersecurity skills mapped to every framework—drop it into Claude, Copilot, or Cursor.\n• Agents that remember context acr…",
-  "bluesky": "One repo just hit 112K stars with an AI video generator that's gaining 2,200+ stars *per day*.\nWhich one are you deploying first—video automation or agent memory?",
-  "tagline": "Today's agents got smarter, faster, and way more capable.",
-  "cta_headline": "Don't miss tomorrow's wave.",
-  "cta_subtext": "We surface repos hitting escape velocity before everyone else finds them.",
+  "mastodon": "A 225K-starred skills repo just gained 2,267 stars in one day—here's what engineers are actually building with right now.\n\n• Mojo's gaining 340 stars daily: the systems language that compiles to MLIR is getting serious adoption.\n• Matt Pocock's turning his personal agent playbook into open source—actual engineering workflows, not theory.\n• Rust devs are ditching Logitech bloatware: native, offline-first input remapping with zero telemetry.\n• An agentic framework that actuall…",
+  "bluesky": "A 225K-starred skills repo just gained 2,267 stars in one day—here's what engineers are actually building with right now.\nWhich one are you installing first—the performance stack or the workflow upgrade?",
+  "tagline": "When 27K engineers move at once, something's worth your time.",
+  "cta_headline": "Never miss the shift",
+  "cta_subtext": "New repos hit different when you see them before everyone else catches on.",
   "_meta": {
     "mode": "llm (claude-haiku-4-5-20251001)",
-    "hook": "One repo just hit 112K stars with an AI video generator that's gaining 2,200+ stars *per day*.",
+    "hook": "A 225K-starred skills repo just gained 2,267 stars in one day—here's what engineers are actually building with right now.",
     "repo_lines": [
-      "Turn any keyword into broadcast-ready video in seconds—no crew, no budget required.",
-      "Your AI agents just got long-term memory that actually scales across conversations.",
-      "Multi-agent orchestration without the infrastructure headache or vendor lock-in.",
-      "817 cybersecurity skills mapped to every framework—drop it into Claude, Copilot, or Cursor.",
-      "Agents that remember context across handoffs? This is how you build it in Rust."
+      "Mojo's gaining 340 stars daily: the systems language that compiles to MLIR is getting serious adoption.",
+      "Matt Pocock's turning his personal agent playbook into open source—actual engineering workflows, not theory.",
+      "Rust devs are ditching Logitech bloatware: native, offline-first input remapping with zero telemetry.",
+      "An agentic framework that actually ships: 750 new stars today because it solves real development friction.",
+      "Cursor's plugin spec is exploding: IDE customization finally has a standard, and people are building on it."
     ],
-    "closing_question": "Which one are you deploying first—video automation or agent memory?",
-    "tagline": "Today's agents got smarter, faster, and way more capable.",
-    "cta_headline": "Don't miss tomorrow's wave.",
-    "cta_subtext": "We surface repos hitting escape velocity before everyone else finds them."
+    "closing_question": "Which one are you installing first—the performance stack or the workflow upgrade?",
+    "tagline": "When 27K engineers move at once, something's worth your time.",
+    "cta_headline": "Never miss the shift",
+    "cta_subtext": "New repos hit different when you see them before everyone else catches on."
   }
 }
