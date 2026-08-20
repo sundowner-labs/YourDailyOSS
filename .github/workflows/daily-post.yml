@@ -1,8 +1,8 @@
 name: Daily Post
 
 # Fetches trending GitHub repos, generates the carousel + captions, commits
-# that day's content to main as an archive, and posts directly to Bluesky +
-# Mastodon -- fully automatic, no review step. (Replaces the old
+# that day's content to main as an archive, and posts directly to Bluesky,
+# Mastodon, and Instagram -- fully automatic, no review step. (Replaces the old
 # daily-draft.yml + publish-on-merge.yml PR-review flow, used while output
 # quality was being validated; switched to auto-publish after five days of
 # reviewed output.)
@@ -27,6 +27,12 @@ permissions:
 jobs:
   post:
     runs-on: ubuntu-latest
+    env:
+      # Secrets can't be referenced directly in a step's `if:` -- route
+      # through job-level env so the Instagram step below can check
+      # whether it's configured yet without secrets in the condition.
+      INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+      INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
@@ -90,3 +96,11 @@ jobs:
           MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
         run: |
           python post_mastodon.py "$CONTENT_DIR/out" "$CONTENT_DIR/repo_data.json" "$CONTENT_DIR/captions.json"
+
+      - name: Post to Instagram
+        # Skipped (not failed) until INSTAGRAM_ACCOUNT_ID/ACCESS_TOKEN are
+        # set as repo secrets -- see README's Instagram setup section.
+        if: always() && env.INSTAGRAM_ACCOUNT_ID != '' && env.INSTAGRAM_ACCESS_TOKEN != ''
+        run: |
+          python post_instagram.py "$CONTENT_DIR/out" "$CONTENT_DIR/repo_data.json" "$CONTENT_DIR/captions.json" \
+            --repo "${{ github.repository }}" --content-dir "$CONTENT_DIR"

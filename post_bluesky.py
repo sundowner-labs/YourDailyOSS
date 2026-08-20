@@ -59,7 +59,7 @@ def main():
     with open(args.captions_json, encoding="utf-8") as f:
         captions = json.load(f)
 
-    image_paths = sorted(glob.glob(os.path.join(args.images_dir, "*.png")))
+    image_paths = sorted(glob.glob(os.path.join(args.images_dir, "*.jpg")))
     alts = build_alts(repos)
     if len(image_paths) != len(alts):
         print(

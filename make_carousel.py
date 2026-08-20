@@ -125,7 +125,7 @@ def title_card(handle, tagline, n_repos, total_cards, out_path):
 
     d.text((60, H - 260), "SWIPE →", font=font(FONT_DIR_BOLD, 42), fill=ACCENT)
     footer(d, handle, f"1 / {total_cards}")
-    img.save(out_path)
+    img.save(out_path, quality=90)
 
 
 def repo_card(repo, idx, total_cards, handle, out_path):
@@ -175,7 +175,7 @@ def repo_card(repo, idx, total_cards, handle, out_path):
     d.text((60, H - 150), repo["url"].replace("https://", ""), font=url_font, fill=MUTED)
 
     footer(d, handle, f"{idx + 2} / {total_cards}")
-    img.save(out_path)
+    img.save(out_path, quality=90)
 
 
 def cta_card(handle, headline, subtext, link, monetization_note, total_cards, out_path):
@@ -204,7 +204,7 @@ def cta_card(handle, headline, subtext, link, monetization_note, total_cards, ou
             y += 38
 
     footer(d, handle, f"{total_cards} / {total_cards}")
-    img.save(out_path)
+    img.save(out_path, quality=90)
 
 
 def main():
@@ -226,16 +226,16 @@ def main():
     total_cards = len(repos) + 2
 
     paths = []
-    p0 = os.path.join(args.out_dir, "00_title.png")
+    p0 = os.path.join(args.out_dir, "00_title.jpg")
     title_card(args.handle, args.tagline, len(repos), total_cards, p0)
     paths.append(p0)
 
     for i, repo in enumerate(repos):
-        p = os.path.join(args.out_dir, f"{i+1:02d}_repo.png")
+        p = os.path.join(args.out_dir, f"{i+1:02d}_repo.jpg")
         repo_card(repo, i, total_cards, args.handle, p)
         paths.append(p)
 
-    pN = os.path.join(args.out_dir, f"{len(repos)+1:02d}_cta.png")
+    pN = os.path.join(args.out_dir, f"{len(repos)+1:02d}_cta.jpg")
     cta_card(args.handle, args.cta_headline, args.cta_subtext, args.link, args.monetization_note, total_cards, pN)
     paths.append(pN)
 
