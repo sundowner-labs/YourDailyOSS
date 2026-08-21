@@ -1,0 +1,22 @@
+{
+  "mastodon": "Matt Pocock's skills repo just gained 3,368 stars in one day—the internet is collectively downloading the actual playbook.\n\n• Mojo hits 905 new stars today: Python's speed problem finally has a native answer.\n• Not just a list. This is how senior engineers actually think about their craft.\n• Local-first Logitech alternative that respects your privacy and your hardware.\n• Agentic workflows that don't just sound good in demos—they actually ship products.\n• Cursor's plugin ecos…",
+  "bluesky": "Matt Pocock's skills repo just gained 3,368 stars in one day—the internet is collectively downloading the actual playbook.\nWhich one are you installing first—MAX, or the privacy-first mouse remap?",
+  "tagline": "Five repos reshaping how we build.",
+  "cta_headline": "Stay ahead of the wave",
+  "cta_subtext": "New trending repos land here before HN and Reddit. Follow for the stuff that matters.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Matt Pocock's skills repo just gained 3,368 stars in one day—the internet is collectively downloading the actual playbook.",
+    "repo_lines": [
+      "Mojo hits 905 new stars today: Python's speed problem finally has a native answer.",
+      "Not just a list. This is how senior engineers actually think about their craft.",
+      "Local-first Logitech alternative that respects your privacy and your hardware.",
+      "Agentic workflows that don't just sound good in demos—they actually ship products.",
+      "Cursor's plugin ecosystem is live. Extend your AI editor before everyone else does."
+    ],
+    "closing_question": "Which one are you installing first—MAX, or the privacy-first mouse remap?",
+    "tagline": "Five repos reshaping how we build.",
+    "cta_headline": "Stay ahead of the wave",
+    "cta_subtext": "New trending repos land here before HN and Reddit. Follow for the stuff that matters."
+  }
+}
