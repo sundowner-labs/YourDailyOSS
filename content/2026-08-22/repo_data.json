@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": 112938,
+    "stars_today": 4159,
+    "url": "https://github.com/openai/codex"
+  },
+  {
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 231650,
+    "stars_today": 2684,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "full_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 242102,
+    "stars_today": 428,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "full_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 276091,
+    "stars_today": 592,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "full_name": "Wei-Shaw/sub2api",
+    "description": "Sub2API \u4e00\u7ad9\u5f0f\u5f00\u6e90\u4e2d\u8f6c\u670d\u52a1\uff0c\u8ba9 Claude\u3001Openai \u3001Gemini\u3001Grok\u8ba2\u9605\u7edf\u4e00\u63a5\u5165\uff0c\u652f\u6301\u62fc\u8f66\u5171\u4eab\uff0c\u66f4\u9ad8\u6548\u5206\u644a\u6210\u672c\uff0c\u539f\u751f\u5de5\u5177\u65e0\u7f1d\u4f7f\u7528\u3002",
+    "language": "Go",
+    "stars": 38752,
+    "stars_today": 264,
+    "url": "https://github.com/Wei-Shaw/sub2api"
+  }
+]

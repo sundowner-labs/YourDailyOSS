@@ -1,0 +1,22 @@
+{
+  "mastodon": "A single repo just crossed 276k stars—and it's not what you think it is.\n\n• Terminal coding agent that actually ships. Rust speed, zero overhead.\n• Real engineer playbooks from someone's actual .agents directory. No BS.\n• Claude + Codex + Cursor all speaking the same language for the first time.\n• The framework that turned \"agentic\" from buzzword into reproducible methodology.\n• One API gateway handles Claude, OpenAI, Gemini, Grok. Split costs with your team.\n\nWhich one are…",
+  "bluesky": "A single repo just crossed 276k stars—and it's not what you think it is.\nWhich one are you spinning up first?",
+  "tagline": "The AI dev tools you'll actually use",
+  "cta_headline": "Don't miss tomorrow's shift",
+  "cta_subtext": "Fresh repos every morning before your standup—actually useful ones.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A single repo just crossed 276k stars—and it's not what you think it is.",
+    "repo_lines": [
+      "Terminal coding agent that actually ships. Rust speed, zero overhead.",
+      "Real engineer playbooks from someone's actual .agents directory. No BS.",
+      "Claude + Codex + Cursor all speaking the same language for the first time.",
+      "The framework that turned \"agentic\" from buzzword into reproducible methodology.",
+      "One API gateway handles Claude, OpenAI, Gemini, Grok. Split costs with your team."
+    ],
+    "closing_question": "Which one are you spinning up first?",
+    "tagline": "The AI dev tools you'll actually use",
+    "cta_headline": "Don't miss tomorrow's shift",
+    "cta_subtext": "Fresh repos every morning before your standup—actually useful ones."
+  }
+}
