@@ -29,7 +29,7 @@ TAGLINE=$(jq -r '.tagline' captions.json)
 CTA_HEADLINE=$(jq -r '.cta_headline' captions.json)
 CTA_SUBTEXT=$(jq -r '.cta_subtext' captions.json)
 
-python make_carousel.py repo_data.json out --handle "@yourdailyoss.bsky.social" \
+python make_carousel.py repo_data.json out --handle "@yourdailyoss" \
   --tagline "$TAGLINE" --cta-headline "$CTA_HEADLINE" --cta-subtext "$CTA_SUBTEXT"
 
 python post_bluesky.py out repo_data.json captions.json --dry-run

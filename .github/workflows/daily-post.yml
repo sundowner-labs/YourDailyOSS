@@ -65,7 +65,7 @@ jobs:
           CTA_SUBTEXT=$(jq -r '.cta_subtext' "$DIR/captions.json")
 
           python make_carousel.py "$DIR/repo_data.json" "$DIR/out" \
-            --handle "@yourdailyoss.bsky.social" \
+            --handle "@yourdailyoss" \
             --tagline "$TAGLINE" \
             --cta-headline "$CTA_HEADLINE" \
             --cta-subtext "$CTA_SUBTEXT"
