@@ -1,0 +1,22 @@
+{
+  "mastodon": "A single day just added 2,729 stars to a terminal coding agent—here's what else the ecosystem shipped.\n\n• Your AI pair programmer finally fits in a terminal window\n• 470+ reverse-engineered prompts to stop writing them from scratch\n• 233K stars because engineers are tired of pretending they know everything\n• Linux distro that doesn't ask permission for every system setting\n• Logitech Options without the phone home—pure local-first hardware control\n\nWhich one are you installi…",
+  "bluesky": "A single day just added 2,729 stars to a terminal coding agent—here's what else the ecosystem shipped.\nWhich one are you installing first: the coding agent or the mouse remapper?",
+  "tagline": "five repos redefining what developers actually want",
+  "cta_headline": "Get tomorrow's before everyone else",
+  "cta_subtext": "New picks hit daily—catch the momentum before these hit 10K+ stars today.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A single day just added 2,729 stars to a terminal coding agent—here's what else the ecosystem shipped.",
+    "repo_lines": [
+      "Your AI pair programmer finally fits in a terminal window",
+      "470+ reverse-engineered prompts to stop writing them from scratch",
+      "233K stars because engineers are tired of pretending they know everything",
+      "Linux distro that doesn't ask permission for every system setting",
+      "Logitech Options without the phone home—pure local-first hardware control"
+    ],
+    "closing_question": "Which one are you installing first: the coding agent or the mouse remapper?",
+    "tagline": "five repos redefining what developers actually want",
+    "cta_headline": "Get tomorrow's before everyone else",
+    "cta_subtext": "New picks hit daily—catch the momentum before these hit 10K+ stars today."
+  }
+}

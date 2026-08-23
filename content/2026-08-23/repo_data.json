@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": 115043,
+    "stars_today": 2729,
+    "url": "https://github.com/openai/codex"
+  },
+  {
+    "full_name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c470+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+    "language": "JavaScript",
+    "stars": 12624,
+    "stars_today": 440,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 233619,
+    "stars_today": 2448,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "full_name": "basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "language": "Shell",
+    "stars": 28954,
+    "stars_today": 803,
+    "url": "https://github.com/basecamp/omarchy"
+  },
+  {
+    "full_name": "AprilNEA/OpenLogi",
+    "description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+    "language": "Rust",
+    "stars": 14749,
+    "stars_today": 1008,
+    "url": "https://github.com/AprilNEA/OpenLogi"
+  }
+]
