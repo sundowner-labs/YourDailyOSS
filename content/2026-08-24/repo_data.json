@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+    "language": "Python",
+    "stars": 48798,
+    "stars_today": 889,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "full_name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "language": "Rust",
+    "stars": 116929,
+    "stars_today": 1990,
+    "url": "https://github.com/openai/codex"
+  },
+  {
+    "full_name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "stars": 33860,
+    "stars_today": 378,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "full_name": "multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": null,
+    "stars": 206376,
+    "stars_today": 491,
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills"
+  },
+  {
+    "full_name": "makeplane/plane",
+    "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+    "language": "TypeScript",
+    "stars": 57824,
+    "stars_today": 268,
+    "url": "https://github.com/makeplane/plane"
+  }
+]

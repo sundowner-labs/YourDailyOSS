@@ -1,0 +1,22 @@
+{
+  "mastodon": "A 206K-starred prompt file just rewrote how people teach Claude to code.\n\n• Free Claude tokens from your terminal—no API bill, infinite side projects.\n• Rust agent that lives in your shell and actually knows when to stop.\n• Stop applying manually: AI that reads jobs, rewrites your CV, crushes interviews.\n• One .md file unlocking Claude's coding superpowers. Game-changer for builders.\n• Open-source Jira killer that doesn't bloat your workflow or your wallet.\n\nWhich one are yo…",
+  "bluesky": "A 206K-starred prompt file just rewrote how people teach Claude to code.\nWhich one are you spinning up first—the free Claude terminal or the job autopilot?",
+  "tagline": "Five repos that ship faster, cost less, stay yours.",
+  "cta_headline": "Tomorrow's best ships today",
+  "cta_subtext": "New trending repos before everyone else notices—subscribe now and stop missing the signal.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A 206K-starred prompt file just rewrote how people teach Claude to code.",
+    "repo_lines": [
+      "Free Claude tokens from your terminal—no API bill, infinite side projects.",
+      "Rust agent that lives in your shell and actually knows when to stop.",
+      "Stop applying manually: AI that reads jobs, rewrites your CV, crushes interviews.",
+      "One .md file unlocking Claude's coding superpowers. Game-changer for builders.",
+      "Open-source Jira killer that doesn't bloat your workflow or your wallet."
+    ],
+    "closing_question": "Which one are you spinning up first—the free Claude terminal or the job autopilot?",
+    "tagline": "Five repos that ship faster, cost less, stay yours.",
+    "cta_headline": "Tomorrow's best ships today",
+    "cta_subtext": "New trending repos before everyone else notices—subscribe now and stop missing the signal."
+  }
+}
