@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+    "language": "JavaScript",
+    "stars": 17435,
+    "stars_today": 1698,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-community",
+    "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror \u2014 submit plugins at clau.de/plugin-directory-submission.",
+    "language": "Python",
+    "stars": 1667,
+    "stars_today": 350,
+    "url": "https://github.com/anthropics/claude-plugins-community"
+  },
+  {
+    "full_name": "apache/maka",
+    "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+    "language": "TypeScript",
+    "stars": 3261,
+    "stars_today": 538,
+    "url": "https://github.com/apache/maka"
+  },
+  {
+    "full_name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars": 100094,
+    "stars_today": 191,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "full_name": "AgriciDaniel/claude-obsidian",
+    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+    "language": "Python",
+    "stars": 12571,
+    "stars_today": 810,
+    "url": "https://github.com/AgriciDaniel/claude-obsidian"
+  }
+]

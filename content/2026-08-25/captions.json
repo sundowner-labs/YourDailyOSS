@@ -1,0 +1,22 @@
+{
+  "mastodon": "A financial trading agent framework just crossed 100k stars—here's what's actually shipping in AI right now.\n\n• 530+ reverse-engineered prompts turned into production-grade templates. Prompt engineering got a manual.\n• Claude plugins ecosystem just got a public registry. The plugin gold rush is officially here.\n• Local-first AI workspace that logs everything as immutable events. Auditability meets agent autonomy.\n• Multi-agent LLM framework designed specifically for trading.…",
+  "bluesky": "A financial trading agent framework just crossed 100k stars—here's what's actually shipping in AI right now.\nWhich one are you building with first—the prompt library, the agent framework, or the knowledge system?",
+  "tagline": "AI that actually ships. Five heavy hitters trending today.",
+  "cta_headline": "Never miss a breakout repo",
+  "cta_subtext": "Trending hits your feed daily. Catch the next 100k-star tool before everyone else does.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A financial trading agent framework just crossed 100k stars—here's what's actually shipping in AI right now.",
+    "repo_lines": [
+      "530+ reverse-engineered prompts turned into production-grade templates. Prompt engineering got a manual.",
+      "Claude plugins ecosystem just got a public registry. The plugin gold rush is officially here.",
+      "Local-first AI workspace that logs everything as immutable events. Auditability meets agent autonomy.",
+      "Multi-agent LLM framework designed specifically for trading. When AI agents handle real money.",
+      "Your second brain auto-organizes itself. Drop a PDF, get a connected knowledge graph in Markdown."
+    ],
+    "closing_question": "Which one are you building with first—the prompt library, the agent framework, or the knowledge system?",
+    "tagline": "AI that actually ships. Five heavy hitters trending today.",
+    "cta_headline": "Never miss a breakout repo",
+    "cta_subtext": "Trending hits your feed daily. Catch the next 100k-star tool before everyone else does."
+  }
+}
