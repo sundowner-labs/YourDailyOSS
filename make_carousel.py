@@ -9,6 +9,7 @@ Usage:
 """
 import json
 import os
+import re
 import sys
 import argparse
 import textwrap
@@ -63,6 +64,30 @@ def font(path, size):
     if key not in _font_cache:
         _font_cache[key] = ImageFont.truetype(path, size)
     return _font_cache[key]
+
+
+# FONT_DIR_REG/BOLD (Arial/DejaVu) only cover Latin + a handful of other
+# scripts -- CJK and similar characters render as tofu boxes. Strip them
+# rather than draw broken glyphs; repo descriptions occasionally have a
+# CJK segment mixed into otherwise-English text.
+_UNSUPPORTED_SCRIPT_RANGES = re.compile(
+    "["
+    "　-〿"   # CJK punctuation
+    "぀-ヿ"   # Hiragana, Katakana
+    "㐀-䶿"   # CJK extension A
+    "一-鿿"   # CJK unified ideographs
+    "가-힣"   # Hangul syllables
+    "豈-﫿"   # CJK compatibility ideographs
+    "＀-￯"   # Fullwidth forms
+    "]+"
+)
+
+
+def sanitize_text(text):
+    if not text:
+        return text
+    cleaned = _UNSUPPORTED_SCRIPT_RANGES.sub(" ", text)
+    return re.sub(r"\s+", " ", cleaned).strip()
 
 
 def wrap_text(draw, text, f, max_width):
@@ -142,7 +167,8 @@ def repo_card(repo, idx, total_cards, handle, out_path):
 
     y += 20
     desc_font = font(FONT_DIR_REG, 34)
-    for line in wrap_text(d, repo.get("description") or "", desc_font, W - 120)[:5]:
+    description = sanitize_text(repo.get("description")) or "No description provided."
+    for line in wrap_text(d, description, desc_font, W - 120)[:5]:
         d.text((60, y), line, font=desc_font, fill=MUTED)
         y += 44
 
@@ -219,7 +245,7 @@ def main():
     ap.add_argument("--monetization-note", default="")
     args = ap.parse_args()
 
-    with open(args.repo_json) as f:
+    with open(args.repo_json, encoding="utf-8") as f:
         repos = json.load(f)
 
     os.makedirs(args.out_dir, exist_ok=True)
