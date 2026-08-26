@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+    "language": "HTML",
+    "stars": 17691,
+    "stars_today": 1002,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "full_name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+    "language": "JavaScript",
+    "stars": 21192,
+    "stars_today": 4044,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 34338,
+    "stars_today": 307,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "full_name": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+    "language": "Python",
+    "stars": 50317,
+    "stars_today": 566,
+    "url": "https://github.com/Alishahryar1/free-claude-code"
+  },
+  {
+    "full_name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "stars": 36378,
+    "stars_today": 1299,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  }
+]

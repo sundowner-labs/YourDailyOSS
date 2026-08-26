@@ -1,0 +1,22 @@
+{
+  "mastodon": "Someone just yanked 4,044 stars in a single day from a prompt engineering library that reverse-engineered 530+ GPT-Image2 cases into production templates.\n\n• Stop manually sketching architectures—generate exportable diagrams with motion built in\n• 530+ real prompts dissected so you don't have to reverse-engineer image generation\n• Official blessing from Anthropic: the vetted plugin ecosystem Claude actually wants\n• 1.3B+ free tokens from your terminal—Claude, Codex, Pi all u…",
+  "bluesky": "Someone just yanked 4,044 stars in a single day from a prompt engineering library that reverse-engineered 530+ GPT-Image2 cases into production templates.\nWhich one ships first in your workflow—the free Claude tokens or the job search bot?",
+  "tagline": "Five repos reshaping how we build, prompt, and automate.",
+  "cta_headline": "Trending daily, shipped faster",
+  "cta_subtext": "Five new repos every morning before they hit 50k stars—catch them early.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Someone just yanked 4,044 stars in a single day from a prompt engineering library that reverse-engineered 530+ GPT-Image2 cases into production templates.",
+    "repo_lines": [
+      "Stop manually sketching architectures—generate exportable diagrams with motion built in",
+      "530+ real prompts dissected so you don't have to reverse-engineer image generation",
+      "Official blessing from Anthropic: the vetted plugin ecosystem Claude actually wants",
+      "1.3B+ free tokens from your terminal—Claude, Codex, Pi all unlocked without the bill",
+      "Your machine runs the job hunt now: CV tailoring, cover letters, interview prep, automated"
+    ],
+    "closing_question": "Which one ships first in your workflow—the free Claude tokens or the job search bot?",
+    "tagline": "Five repos reshaping how we build, prompt, and automate.",
+    "cta_headline": "Trending daily, shipped faster",
+    "cta_subtext": "Five new repos every morning before they hit 50k stars—catch them early."
+  }
+}
