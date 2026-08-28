@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 8493,
+    "stars_today": 1984,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "full_name": "zedeus/nitter",
+    "description": "Alternative Twitter front-end",
+    "language": "Nim",
+    "stars": 13921,
+    "stars_today": 71,
+    "url": "https://github.com/zedeus/nitter"
+  },
+  {
+    "full_name": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT-Image2 \u5de5\u4e1a\u7ea7\u63d0\u793a\u8bcd\u5f15\u64ce\u4e0e\u6a21\u677f\u5e93\uff0c530+ \u4e2a\u6848\u4f8b\u9006\u5411\u5de5\u7a0b\uff0c20+ \u5957\u5de5\u4e1a\u7ea7\u6a21\u677f\uff0c\u5e76\u63d0\u70bc\u51faSkills\uff0c\u6301\u7eed\u66f4\u65b0\u4e2d",
+    "language": "JavaScript",
+    "stars": 23274,
+    "stars_today": 2096,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+  },
+  {
+    "full_name": "tt-a1i/archify",
+    "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams\u2014self-contained HTML with motion and crisp export.",
+    "language": "JavaScript",
+    "stars": 23938,
+    "stars_today": 4239,
+    "url": "https://github.com/tt-a1i/archify"
+  },
+  {
+    "full_name": "JetBrains/go-modern-guidelines",
+    "description": "Help AI coding agents write modern Go",
+    "language": "Go",
+    "stars": 2202,
+    "stars_today": 300,
+    "url": "https://github.com/JetBrains/go-modern-guidelines"
+  }
+]

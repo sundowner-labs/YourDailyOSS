@@ -1,0 +1,22 @@
+{
+  "mastodon": "One repo gained 4,239 stars in 24 hours—here's what's moving the needle in open source right now.\n\n• Real satellite data, live 3D globe, zero subscription—espionage without the felony.\n• Twitter's choke hold on third-party clients? Nitter says not today.\n• 530+ reverse-engineered prompts + industrial templates = your GPT image game just leveled up.\n• Diagrams that actually look good AND export clean—no Figma tax required.\n• AI agents writing Go code that doesn't embarrass yo…",
+  "bluesky": "One repo gained 4,239 stars in 24 hours—here's what's moving the needle in open source right now.\nWhich of these are you spinning up first—satellite maps, the prompt vault, or auto-diagrams?",
+  "tagline": "Five repos reshaping what's possible today",
+  "cta_headline": "Trending moves faster now",
+  "cta_subtext": "Get tomorrow's breakout repos before they hit 5k stars—daily, no noise.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "One repo gained 4,239 stars in 24 hours—here's what's moving the needle in open source right now.",
+    "repo_lines": [
+      "Real satellite data, live 3D globe, zero subscription—espionage without the felony.",
+      "Twitter's choke hold on third-party clients? Nitter says not today.",
+      "530+ reverse-engineered prompts + industrial templates = your GPT image game just leveled up.",
+      "Diagrams that actually look good AND export clean—no Figma tax required.",
+      "AI agents writing Go code that doesn't embarrass you in code review."
+    ],
+    "closing_question": "Which of these are you spinning up first—satellite maps, the prompt vault, or auto-diagrams?",
+    "tagline": "Five repos reshaping what's possible today",
+    "cta_headline": "Trending moves faster now",
+    "cta_subtext": "Get tomorrow's breakout repos before they hit 5k stars—daily, no noise."
+  }
+}
