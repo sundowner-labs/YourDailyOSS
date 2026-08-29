@@ -1,0 +1,22 @@
+{
+  "mastodon": "A spy satellite simulator just gained 3,829 stars in 24 hours—and the geospatial data is 100% real.\n\n• Stop exporting diagrams as PDFs. Interactive, motion-rich architecture visuals that actually work.\n• 175k scientists aren't building their own skill libraries anymore. This is the standard now.\n• Anthropic's official plugin directory just hit 35k stars—the Claude ecosystem is crystallizing.\n• Real-time Earth intelligence from your browser. No credentials, no servers, just l…",
+  "bluesky": "A spy satellite simulator just gained 3,829 stars in 24 hours—and the geospatial data is 100% real.\nWhich of these are you spinning up in the next hour?",
+  "tagline": "Five repos reshaping how we build, explore, and understand code",
+  "cta_headline": "Get trending repos first",
+  "cta_subtext": "Fresh picks every morning before they hit HN. No noise, just signal.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A spy satellite simulator just gained 3,829 stars in 24 hours—and the geospatial data is 100% real.",
+    "repo_lines": [
+      "Stop exporting diagrams as PDFs. Interactive, motion-rich architecture visuals that actually work.",
+      "175k scientists aren't building their own skill libraries anymore. This is the standard now.",
+      "Anthropic's official plugin directory just hit 35k stars—the Claude ecosystem is crystallizing.",
+      "Real-time Earth intelligence from your browser. No credentials, no servers, just live spatial data.",
+      "Drop a repo, get a knowledge graph instantly. Code exploration just stopped being painful."
+    ],
+    "closing_question": "Which of these are you spinning up in the next hour?",
+    "tagline": "Five repos reshaping how we build, explore, and understand code",
+    "cta_headline": "Get trending repos first",
+    "cta_subtext": "Fresh picks every morning before they hit HN. No noise, just signal."
+  }
+}
