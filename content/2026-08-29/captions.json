@@ -1,22 +1,22 @@
 {
-  "mastodon": "A spy satellite simulator just gained 3,829 stars in 24 hours—and the geospatial data is 100% real.\n\n• Stop exporting diagrams as PDFs. Interactive, motion-rich architecture visuals that actually work.\n• 175k scientists aren't building their own skill libraries anymore. This is the standard now.\n• Anthropic's official plugin directory just hit 35k stars—the Claude ecosystem is crystallizing.\n• Real-time Earth intelligence from your browser. No credentials, no servers, just l…",
-  "bluesky": "A spy satellite simulator just gained 3,829 stars in 24 hours—and the geospatial data is 100% real.\nWhich of these are you spinning up in the next hour?",
-  "tagline": "Five repos reshaping how we build, explore, and understand code",
-  "cta_headline": "Get trending repos first",
-  "cta_subtext": "Fresh picks every morning before they hit HN. No noise, just signal.",
+  "mastodon": "190,000+ scientists are already using one of these repos—and today we're showing you all five that just blew up the charts.\n\n• Turn messy architecture docs into interactive, exportable diagrams AI actually understands.\n• Real satellite data, real-time 3D globe, zero NASA credentials required.\n• The agent skills library that turned researchers into AI scientists overnight.\n• NetCat's sleeker cousin—direct tunnel over your VPN, no extra infrastructure headache.\n• Drop five AI…",
+  "bluesky": "190,000+ scientists are already using one of these repos—and today we're showing you all five that just blew up the charts.\nWhich one are you spinning up first—the diagram generator or the spy satellite?",
+  "tagline": "From diagrams to satellites to AI science. Today hits different.",
+  "cta_headline": "New trending repos. Every single day.",
+  "cta_subtext": "Catch tomorrow's breakouts before they blow up—the best code moves fast.",
   "_meta": {
     "mode": "llm (claude-haiku-4-5-20251001)",
-    "hook": "A spy satellite simulator just gained 3,829 stars in 24 hours—and the geospatial data is 100% real.",
+    "hook": "190,000+ scientists are already using one of these repos—and today we're showing you all five that just blew up the charts.",
     "repo_lines": [
-      "Stop exporting diagrams as PDFs. Interactive, motion-rich architecture visuals that actually work.",
-      "175k scientists aren't building their own skill libraries anymore. This is the standard now.",
-      "Anthropic's official plugin directory just hit 35k stars—the Claude ecosystem is crystallizing.",
-      "Real-time Earth intelligence from your browser. No credentials, no servers, just live spatial data.",
-      "Drop a repo, get a knowledge graph instantly. Code exploration just stopped being painful."
+      "Turn messy architecture docs into interactive, exportable diagrams AI actually understands.",
+      "Real satellite data, real-time 3D globe, zero NASA credentials required.",
+      "The agent skills library that turned researchers into AI scientists overnight.",
+      "NetCat's sleeker cousin—direct tunnel over your VPN, no extra infrastructure headache.",
+      "Drop five AI tutors into a classroom with one click. Actually works."
     ],
-    "closing_question": "Which of these are you spinning up in the next hour?",
-    "tagline": "Five repos reshaping how we build, explore, and understand code",
-    "cta_headline": "Get trending repos first",
-    "cta_subtext": "Fresh picks every morning before they hit HN. No noise, just signal."
+    "closing_question": "Which one are you spinning up first—the diagram generator or the spy satellite?",
+    "tagline": "From diagrams to satellites to AI science. Today hits different.",
+    "cta_headline": "New trending repos. Every single day.",
+    "cta_subtext": "Catch tomorrow's breakouts before they blow up—the best code moves fast."
   }
 }
