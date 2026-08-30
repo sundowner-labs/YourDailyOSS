@@ -1,0 +1,22 @@
+{
+  "mastodon": "3,730 stars in one day—archify just became the fastest-climbing repo on GitHub, and it's solving a problem every architect secretly dreads.\n\n• Multi-agent classrooms that actually work—no setup friction, pure immersion\n• 190K scientists already using this; your AI just became a legit research partner\n• Swift CLI that does something so useful the GitHub description couldn't contain it\n• Stop hand-drawing diagrams. Self-contained, animated, exportable architecture in seconds\n•…",
+  "bluesky": "3,730 stars in one day—archify just became the fastest-climbing repo on GitHub, and it's solving a problem every architect secretly dreads.\nWhich one are you spinning up first—the classroom, the scientist, or the diagram generator?",
+  "tagline": "Five repos redefining what AI can actually do",
+  "cta_headline": "Get the full breakdown daily",
+  "cta_subtext": "Tomorrow's trending includes the repos that shipped while you slept. Follow for the real signal.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "3,730 stars in one day—archify just became the fastest-climbing repo on GitHub, and it's solving a problem every architect secretly dreads.",
+    "repo_lines": [
+      "Multi-agent classrooms that actually work—no setup friction, pure immersion",
+      "190K scientists already using this; your AI just became a legit research partner",
+      "Swift CLI that does something so useful the GitHub description couldn't contain it",
+      "Stop hand-drawing diagrams. Self-contained, animated, exportable architecture in seconds",
+      "Language models that can think freely—no guardrails choking the reasoning"
+    ],
+    "closing_question": "Which one are you spinning up first—the classroom, the scientist, or the diagram generator?",
+    "tagline": "Five repos redefining what AI can actually do",
+    "cta_headline": "Get the full breakdown daily",
+    "cta_subtext": "Tomorrow's trending includes the repos that shipped while you slept. Follow for the real signal."
+  }
+}
