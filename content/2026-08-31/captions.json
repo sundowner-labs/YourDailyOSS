@@ -1,0 +1,22 @@
+{
+  "mastodon": "190,000+ scientists are already using one of these repos to supercharge their AI agents—and 3,993 new developers joined the diagram revolution today.\n\n• Multi-agent classrooms that actually work—no setup nightmare\n• Diagrams so sharp they export crisp; motion included, no janky SVG\n• 165 validated science skills + 100+ databases = instant researcher AI\n• Stop fighting Wand's limitations—this extension fixes it all\n• Download any iOS app via CLI—faster than tapping the App St…",
+  "bluesky": "190,000+ scientists are already using one of these repos to supercharge their AI agents—and 3,993 new developers joined the diagram revolution today.\nWhich one are you spinning up first—the classroom, the scientist agent, or the diagram tool?",
+  "tagline": "Agent superpowers, five new flavors",
+  "cta_headline": "Every day, smarter repos",
+  "cta_subtext": "Tomorrow's trending before it hits HN. Follow for the unfiltered daily breakdown.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "190,000+ scientists are already using one of these repos to supercharge their AI agents—and 3,993 new developers joined the diagram revolution today.",
+    "repo_lines": [
+      "Multi-agent classrooms that actually work—no setup nightmare",
+      "Diagrams so sharp they export crisp; motion included, no janky SVG",
+      "165 validated science skills + 100+ databases = instant researcher AI",
+      "Stop fighting Wand's limitations—this extension fixes it all",
+      "Download any iOS app via CLI—faster than tapping the App Store"
+    ],
+    "closing_question": "Which one are you spinning up first—the classroom, the scientist agent, or the diagram tool?",
+    "tagline": "Agent superpowers, five new flavors",
+    "cta_headline": "Every day, smarter repos",
+    "cta_subtext": "Tomorrow's trending before it hits HN. Follow for the unfiltered daily breakdown."
+  }
+}
