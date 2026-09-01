@@ -1,0 +1,22 @@
+{
+  "mastodon": "A 64M-parameter LLM trained from scratch in 2 hours just hit 57K stars—and that's not even today's biggest move.\n\n• Claude anywhere, any setup—stop rewriting integrations for every environment.\n• Turn messy research into publication-ready work in one workflow loop.\n• Multi-agent classrooms exploded 3K stars today—immersive learning just got real.\n• YouTube's algorithm fatigue got you? Invidious strips it down to pure video.\n• DIY your own LLM without the $100K compute bill o…",
+  "bluesky": "A 64M-parameter LLM trained from scratch in 2 hours just hit 57K stars—and that's not even today's biggest move.\nWhich one are you spinning up first—the local Claude setup or your own tiny LLM?",
+  "tagline": "five repos changing how code and learning actually work",
+  "cta_headline": "Trending earlier means staying ahead",
+  "cta_subtext": "Follow daily for the repos shipping breakthroughs before they're everywhere else.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A 64M-parameter LLM trained from scratch in 2 hours just hit 57K stars—and that's not even today's biggest move.",
+    "repo_lines": [
+      "Claude anywhere, any setup—stop rewriting integrations for every environment.",
+      "Turn messy research into publication-ready work in one workflow loop.",
+      "Multi-agent classrooms exploded 3K stars today—immersive learning just got real.",
+      "YouTube's algorithm fatigue got you? Invidious strips it down to pure video.",
+      "DIY your own LLM without the $100K compute bill or PhD in optimization."
+    ],
+    "closing_question": "Which one are you spinning up first—the local Claude setup or your own tiny LLM?",
+    "tagline": "five repos changing how code and learning actually work",
+    "cta_headline": "Trending earlier means staying ahead",
+    "cta_subtext": "Follow daily for the repos shipping breakthroughs before they're everywhere else."
+  }
+}

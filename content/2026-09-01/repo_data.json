@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "Gitlawb/openclaude",
+    "description": "runs anywhere. uses anything",
+    "language": "TypeScript",
+    "stars": 31215,
+    "stars_today": 37,
+    "url": "https://github.com/Gitlawb/openclaude"
+  },
+  {
+    "full_name": "Imbad0202/academic-research-skills",
+    "description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize",
+    "language": "Python",
+    "stars": 44827,
+    "stars_today": 161,
+    "url": "https://github.com/Imbad0202/academic-research-skills"
+  },
+  {
+    "full_name": "THU-MAIC/OpenMAIC",
+    "description": "Open Multi-Agent Interactive Classroom \u2014 Get an immersive, multi-agent learning experience in just one click",
+    "language": "TypeScript",
+    "stars": 29363,
+    "stars_today": 3122,
+    "url": "https://github.com/THU-MAIC/OpenMAIC"
+  },
+  {
+    "full_name": "iv-org/invidious",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "language": "Crystal",
+    "stars": 23732,
+    "stars_today": 583,
+    "url": "https://github.com/iv-org/invidious"
+  },
+  {
+    "full_name": "jingyaogong/minimind",
+    "description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!",
+    "language": "Python",
+    "stars": 56985,
+    "stars_today": 1005,
+    "url": "https://github.com/jingyaogong/minimind"
+  }
+]
