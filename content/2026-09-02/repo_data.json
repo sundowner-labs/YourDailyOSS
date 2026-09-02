@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars": 24185,
+    "stars_today": 3,
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "full_name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "stars": 29626,
+    "stars_today": 326,
+    "url": "https://github.com/google-research/timesfm"
+  },
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 121324,
+    "stars_today": 1364,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 14530,
+    "stars_today": 834,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "full_name": "sngyai/Sequoia-X",
+    "description": "A\u80a1\u81ea\u52a8\u9009\u80a1\u7cfb\u7edf \u2014 \u591a\u79cd\u6280\u672f\u5f62\u6001\u81ea\u52a8\u626b\u63cf\uff0c\u6536\u76d8\u540e\u81ea\u52a8\u8fd0\u884c\u5e76\u63a8\u9001\u98de\u4e66",
+    "language": "Python",
+    "stars": 6014,
+    "stars_today": 138,
+    "url": "https://github.com/sngyai/Sequoia-X"
+  }
+]

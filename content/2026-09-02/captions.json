@@ -1,0 +1,22 @@
+{
+  "mastodon": "A JavaScript repo just gained 1,364 stars in one day by promising to make your AI agent code like a burnt-out senior dev.\n\n• Modern C++ formatting that's fast enough to replace printf forever\n• Google's time-series model trained on 2T data points—your forecast just leveled up\n• Laziness as a feature: write less code by making AI do the boring parts\n• Clone voices in 646 languages without touching Eleven Labs' API or wallet\n• Automated stock picking system that runs after hou…",
+  "bluesky": "A JavaScript repo just gained 1,364 stars in one day by promising to make your AI agent code like a burnt-out senior dev.\nWhich one are you shipping into production first?",
+  "tagline": "5 repos that earned their hype today",
+  "cta_headline": "Trending every single day",
+  "cta_subtext": "Don't scroll GitHub—we deliver the repos actually moving needles straight to you.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A JavaScript repo just gained 1,364 stars in one day by promising to make your AI agent code like a burnt-out senior dev.",
+    "repo_lines": [
+      "Modern C++ formatting that's fast enough to replace printf forever",
+      "Google's time-series model trained on 2T data points—your forecast just leveled up",
+      "Laziness as a feature: write less code by making AI do the boring parts",
+      "Clone voices in 646 languages without touching Eleven Labs' API or wallet",
+      "Automated stock picking system that runs after hours and hits your Slack"
+    ],
+    "closing_question": "Which one are you shipping into production first?",
+    "tagline": "5 repos that earned their hype today",
+    "cta_headline": "Trending every single day",
+    "cta_subtext": "Don't scroll GitHub—we deliver the repos actually moving needles straight to you."
+  }
+}
