@@ -1,0 +1,22 @@
+{
+  "mastodon": "ponytail hit 2,138 stars today—an AI agent framework that literally writes less code so you don't have to.\n\n• fmt: The formatting library that makes C++ devs stop reinventing the wheel\n• skills: 1,576 new stars today—real engineers sharing real agent patterns\n• hermes-agent: An agent that actually learns from your feedback loop\n• ponytail: Lazy > clever. Ship faster by doing less.\n• anthropics/skills: Agents that know their lane and stay in it\n\nWhich one are you dropping int…",
+  "bluesky": "ponytail hit 2,138 stars today—an AI agent framework that literally writes less code so you don't have to.\nWhich one are you dropping into a project this week?",
+  "tagline": "Five ways to ship smarter, today",
+  "cta_headline": "Don't miss tomorrow's builders",
+  "cta_subtext": "New trending repos, zero hype—just tools that ship. Every morning.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "ponytail hit 2,138 stars today—an AI agent framework that literally writes less code so you don't have to.",
+    "repo_lines": [
+      "fmt: The formatting library that makes C++ devs stop reinventing the wheel",
+      "skills: 1,576 new stars today—real engineers sharing real agent patterns",
+      "hermes-agent: An agent that actually learns from your feedback loop",
+      "ponytail: Lazy > clever. Ship faster by doing less.",
+      "anthropics/skills: Agents that know their lane and stay in it"
+    ],
+    "closing_question": "Which one are you dropping into a project this week?",
+    "tagline": "Five ways to ship smarter, today",
+    "cta_headline": "Don't miss tomorrow's builders",
+    "cta_subtext": "New trending repos, zero hype—just tools that ship. Every morning."
+  }
+}

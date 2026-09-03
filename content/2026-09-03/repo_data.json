@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars": 25019,
+    "stars_today": 955,
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 247185,
+    "stars_today": 1576,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "full_name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "stars": 240778,
+    "stars_today": 778,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 123280,
+    "stars_today": 2138,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "full_name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 173599,
+    "stars_today": 277,
+    "url": "https://github.com/anthropics/skills"
+  }
+]
