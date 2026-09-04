@@ -1,0 +1,22 @@
+{
+  "mastodon": "250k stars and climbing: the engineer's playbook that treats your .agents directory like sacred code.\n\n• Real engineers don't reinvent wheels—they steal the best ones and ship faster.\n• Write less code by thinking like someone who gets paid to do nothing.\n• Modern C++ formatting that doesn't make you want to flip your desk.\n• The secret sauce: agent performance isn't about smarts, it's about the right harness.\n• Skills library that actually ships with your AI, not a wishlist…",
+  "bluesky": "250k stars and climbing: the engineer's playbook that treats your .agents directory like sacred code.\nWhich one are you integrating into your stack first?",
+  "tagline": "The code that scales because it refuses to.",
+  "cta_headline": "Stay ahead of the build",
+  "cta_subtext": "Daily repos trending *before* they hit the mainstream—catch the moves that matter.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "250k stars and climbing: the engineer's playbook that treats your .agents directory like sacred code.",
+    "repo_lines": [
+      "Real engineers don't reinvent wheels—they steal the best ones and ship faster.",
+      "Write less code by thinking like someone who gets paid to do nothing.",
+      "Modern C++ formatting that doesn't make you want to flip your desk.",
+      "The secret sauce: agent performance isn't about smarts, it's about the right harness.",
+      "Skills library that actually ships with your AI, not a wishlist you'll never touch."
+    ],
+    "closing_question": "Which one are you integrating into your stack first?",
+    "tagline": "The code that scales because it refuses to.",
+    "cta_headline": "Stay ahead of the build",
+    "cta_subtext": "Daily repos trending *before* they hit the mainstream—catch the moves that matter."
+  }
+}

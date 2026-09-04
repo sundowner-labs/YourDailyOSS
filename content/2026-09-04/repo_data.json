@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 250145,
+    "stars_today": 2757,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 125651,
+    "stars_today": 1683,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "full_name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "stars": 25451,
+    "stars_today": 681,
+    "url": "https://github.com/fmtlib/fmt"
+  },
+  {
+    "full_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 248374,
+    "stars_today": 1139,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "full_name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 174080,
+    "stars_today": 512,
+    "url": "https://github.com/anthropics/skills"
+  }
+]
