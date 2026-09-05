@@ -1,0 +1,22 @@
+{
+  "mastodon": "2,813 stars in a single day for a repo that makes your AI write less code—not more.\n\n• The playbook every senior engineer wishes they'd read first.\n• Claude, Cursor, Codex—unified optimization for every AI coding partner.\n• Lazy > productive. Finally, a framework that gets it.\n• Open-source agent that actually improves the more you use it.\n• Formatting so clean it ships in production codebases everywhere.\n\nWhich one are you installing in your workflow first?",
+  "bluesky": "2,813 stars in a single day for a repo that makes your AI write less code—not more.\nWhich one are you installing in your workflow first?",
+  "tagline": "When your AI tools level up faster than you do",
+  "cta_headline": "Stay ahead of the AI shift",
+  "cta_subtext": "Trending repos before they're everywhere—plus the context everyone else misses.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "2,813 stars in a single day for a repo that makes your AI write less code—not more.",
+    "repo_lines": [
+      "The playbook every senior engineer wishes they'd read first.",
+      "Claude, Cursor, Codex—unified optimization for every AI coding partner.",
+      "Lazy > productive. Finally, a framework that gets it.",
+      "Open-source agent that actually improves the more you use it.",
+      "Formatting so clean it ships in production codebases everywhere."
+    ],
+    "closing_question": "Which one are you installing in your workflow first?",
+    "tagline": "When your AI tools level up faster than you do",
+    "cta_headline": "Stay ahead of the AI shift",
+    "cta_subtext": "Trending repos before they're everywhere—plus the context everyone else misses."
+  }
+}
