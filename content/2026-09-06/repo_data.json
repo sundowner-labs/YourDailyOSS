@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 251115,
+    "stars_today": 1486,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 254354,
+    "stars_today": 2206,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "full_name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 32253,
+    "stars_today": 621,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "full_name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "stars": 242489,
+    "stars_today": 520,
+    "url": "https://github.com/NousResearch/hermes-agent"
+  },
+  {
+    "full_name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "stars": 25583,
+    "stars_today": 44,
+    "url": "https://github.com/openai/skills"
+  }
+]

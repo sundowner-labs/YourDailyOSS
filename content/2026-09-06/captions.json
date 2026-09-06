@@ -1,0 +1,22 @@
+{
+  "mastodon": "Matt Pocock's skills repo just gained 2,206 stars in one day—here's what's actually moving the needle in agent engineering.\n\n• Claude Code optimization hitting 251k stars: the performance tuning layer nobody knew they needed\n• Real engineers' playbook: Pocock's agent skills are now canonical reference material\n• 38 diagram patterns that make Claude actually *show* its work instead of hallucinating visuals\n• Hermes grows smarter as you use it—the anti-static agent framework\n•…",
+  "bluesky": "Matt Pocock's skills repo just gained 2,206 stars in one day—here's what's actually moving the needle in agent engineering.\nWhich one are you shipping with first—the optimization layer or the skills framework?",
+  "tagline": "The agent stack everyone's quietly deploying",
+  "cta_headline": "Don't miss tomorrow's builders",
+  "cta_subtext": "Get the trending repos before your whole team does—curated for people actually shipping.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Matt Pocock's skills repo just gained 2,206 stars in one day—here's what's actually moving the needle in agent engineering.",
+    "repo_lines": [
+      "Claude Code optimization hitting 251k stars: the performance tuning layer nobody knew they needed",
+      "Real engineers' playbook: Pocock's agent skills are now canonical reference material",
+      "38 diagram patterns that make Claude actually *show* its work instead of hallucinating visuals",
+      "Hermes grows smarter as you use it—the anti-static agent framework",
+      "OpenAI's official skills catalog: the API-native alternative to everything else here"
+    ],
+    "closing_question": "Which one are you shipping with first—the optimization layer or the skills framework?",
+    "tagline": "The agent stack everyone's quietly deploying",
+    "cta_headline": "Don't miss tomorrow's builders",
+    "cta_subtext": "Get the trending repos before your whole team does—curated for people actually shipping."
+  }
+}
