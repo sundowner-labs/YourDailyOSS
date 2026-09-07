@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 45705,
+    "stars_today": 734,
+    "url": "https://github.com/heygen-com/hyperframes"
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "description": "Python tool for converting files and office documents to Markdown.",
+    "language": "Python",
+    "stars": 180067,
+    "stars_today": 771,
+    "url": "https://github.com/microsoft/markitdown"
+  },
+  {
+    "full_name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 20774,
+    "stars_today": 147,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "full_name": "jo-inc/camofox-browser",
+    "description": "Stealth headless browser for AI agents \u2014 bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+    "language": "JavaScript",
+    "stars": 9611,
+    "stars_today": 285,
+    "url": "https://github.com/jo-inc/camofox-browser"
+  },
+  {
+    "full_name": "MoonTechLab/LunaTV",
+    "description": "\u672c\u9879\u76ee\u91c7\u7528 CC BY-NC-SA \u534f\u8bae\uff0c\u7981\u6b62\u4efb\u4f55\u5546\u4e1a\u5316\u884c\u4e3a\uff0c\u4efb\u4f55\u884d\u751f\u9879\u76ee\u5fc5\u987b\u4fdd\u7559\u672c\u9879\u76ee\u5730\u5740\u5e76\u4ee5\u76f8\u540c\u534f\u8bae\u5f00\u6e90",
+    "language": "TypeScript",
+    "stars": 9681,
+    "stars_today": 171,
+    "url": "https://github.com/MoonTechLab/LunaTV"
+  }
+]

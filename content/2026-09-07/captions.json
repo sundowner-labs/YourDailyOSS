@@ -1,0 +1,22 @@
+{
+  "mastodon": "180k stars: Microsoft just dropped a Python tool that converts literally any file format to Markdown, and it's free.\n\n• HTML → video in one step. Agents can now generate entire video outputs from code.\n• Stop wrestling with Word docs, PDFs, and Excel sheets manually—one command does it all.\n• AI agents were drowning in context. This cuts noise by 98% and keeps memory alive across sessions.\n• Your scraper keeps getting blocked? Drop this in instead of Puppeteer and ghost righ…",
+  "bluesky": "180k stars: Microsoft just dropped a Python tool that converts literally any file format to Markdown, and it's free.\nWhich one are you shipping into production first?",
+  "tagline": "Five repos reshaping how AI agents build, think, and bypass limits.",
+  "cta_headline": "Don't miss tomorrow's surge.",
+  "cta_subtext": "We surface the repos that gain 500+ stars overnight—before your feed does.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "180k stars: Microsoft just dropped a Python tool that converts literally any file format to Markdown, and it's free.",
+    "repo_lines": [
+      "HTML → video in one step. Agents can now generate entire video outputs from code.",
+      "Stop wrestling with Word docs, PDFs, and Excel sheets manually—one command does it all.",
+      "AI agents were drowning in context. This cuts noise by 98% and keeps memory alive across sessions.",
+      "Your scraper keeps getting blocked? Drop this in instead of Puppeteer and ghost right through.",
+      "Self-hosted streaming platform built on open protocols—community-first, no corporate lock-in."
+    ],
+    "closing_question": "Which one are you shipping into production first?",
+    "tagline": "Five repos reshaping how AI agents build, think, and bypass limits.",
+    "cta_headline": "Don't miss tomorrow's surge.",
+    "cta_subtext": "We surface the repos that gain 500+ stars overnight—before your feed does."
+  }
+}
