@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "stars": 30024,
+    "stars_today": 422,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "full_name": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 34609,
+    "stars_today": 1020,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "full_name": "openai/skills",
+    "description": "Skills Catalog for Codex",
+    "language": "Python",
+    "stars": 26464,
+    "stars_today": 490,
+    "url": "https://github.com/openai/skills"
+  },
+  {
+    "full_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 254196,
+    "stars_today": 1426,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "full_name": "heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "stars": 47674,
+    "stars_today": 2628,
+    "url": "https://github.com/heygen-com/hyperframes"
+  }
+]

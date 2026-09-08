@@ -1,0 +1,22 @@
+{
+  "mastodon": "A JavaScript repo just hit 254K stars in a single day—meet the agent performance system that's reshaping how Claude, Cursor, and friends actually work.\n\n• ADHD-friendly coding agents that actually show you the answer instead of burying it.\n• 38 diagrams Claude can render instantly—no Mermaid, no shadows, pure clarity.\n• The skills catalog that teaches agents what they're actually supposed to do.\n• The harness that makes agents fast: memory, security, instincts, and research…",
+  "bluesky": "A JavaScript repo just hit 254K stars in a single day—meet the agent performance system that's reshaping how Claude, Cursor, and friends actually work.\nWhich one are you plugging into your agent stack first?",
+  "tagline": "Five repos reshaping agent architecture, right now.",
+  "cta_headline": "Agent trends hit daily",
+  "cta_subtext": "New repos every morning before the hype cycle catches up to the code.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A JavaScript repo just hit 254K stars in a single day—meet the agent performance system that's reshaping how Claude, Cursor, and friends actually work.",
+    "repo_lines": [
+      "ADHD-friendly coding agents that actually show you the answer instead of burying it.",
+      "38 diagrams Claude can render instantly—no Mermaid, no shadows, pure clarity.",
+      "The skills catalog that teaches agents what they're actually supposed to do.",
+      "The harness that makes agents fast: memory, security, instincts, and research built in.",
+      "Write HTML once, get video output. The bridge between code and motion agents needed."
+    ],
+    "closing_question": "Which one are you plugging into your agent stack first?",
+    "tagline": "Five repos reshaping agent architecture, right now.",
+    "cta_headline": "Agent trends hit daily",
+    "cta_subtext": "New repos every morning before the hype cycle catches up to the code."
+  }
+}
