@@ -1,0 +1,22 @@
+{
+  "mastodon": "A shell framework just crossed 283k stars—and it's reshaping how agents actually ship code that works.\n\n• Stop your AI from drowning you in output—ADHD-friendly formatting for agents that respect attention.\n• Make your whole team think like AI natives without rewriting your stack from scratch.\n• The agentic methodology that went from 0 to 283k stars because it actually solves real dev problems.\n• 3D CAD gets an open-source editor built for humans *and* agents working in sync…",
+  "bluesky": "A shell framework just crossed 283k stars—and it's reshaping how agents actually ship code that works.\nWhich one are you shipping into production first?",
+  "tagline": "Five tools redefining how agents and humans build together",
+  "cta_headline": "New trending drops tomorrow",
+  "cta_subtext": "Get daily repos that actually matter before the hype cycle hits everywhere else.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A shell framework just crossed 283k stars—and it's reshaping how agents actually ship code that works.",
+    "repo_lines": [
+      "Stop your AI from drowning you in output—ADHD-friendly formatting for agents that respect attention.",
+      "Make your whole team think like AI natives without rewriting your stack from scratch.",
+      "The agentic methodology that went from 0 to 283k stars because it actually solves real dev problems.",
+      "3D CAD gets an open-source editor built for humans *and* agents working in sync.",
+      "Prompt your CAD models into existence—agent skills that turn text into manufacturable designs."
+    ],
+    "closing_question": "Which one are you shipping into production first?",
+    "tagline": "Five tools redefining how agents and humans build together",
+    "cta_headline": "New trending drops tomorrow",
+    "cta_subtext": "Get daily repos that actually matter before the hype cycle hits everywhere else."
+  }
+}

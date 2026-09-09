@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "stars": 34292,
+    "stars_today": 4624,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "full_name": "Tencent/teamai-cli",
+    "description": "Make Every Team AI Native",
+    "language": "TypeScript",
+    "stars": 2907,
+    "stars_today": 563,
+    "url": "https://github.com/Tencent/teamai-cli"
+  },
+  {
+    "full_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 283972,
+    "stars_today": 690,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "full_name": "pascalorg/editor",
+    "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+    "language": "TypeScript",
+    "stars": 22853,
+    "stars_today": 171,
+    "url": "https://github.com/pascalorg/editor"
+  },
+  {
+    "full_name": "earthtojake/text-to-cad",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "language": "Python",
+    "stars": 14998,
+    "stars_today": 97,
+    "url": "https://github.com/earthtojake/text-to-cad"
+  }
+]
