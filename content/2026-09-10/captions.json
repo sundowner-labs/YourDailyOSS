@@ -1,0 +1,22 @@
+{
+  "mastodon": "A single repo gained 3,854 stars today by solving the one problem every AI coder has: actually readable output.\n\n• Your AI agent stops word-vomiting. ADHD-friendly focus returns.\n• Watch real satellites live. Espionage, but make it browser tabs.\n• 280K+ stars. The agentic framework that actually ships production.\n• Your trading bot works 24/7 across 1000+ markets. You sleep.\n• Turn your whole team into AI power users. No training required.\n\nWhich one are you deploying first—…",
+  "bluesky": "A single repo gained 3,854 stars today by solving the one problem every AI coder has: actually readable output.\nWhich one are you deploying first—the silent coder or the sleeping trader?",
+  "tagline": "Today's repos do the work while you think.",
+  "cta_headline": "Every day. New agents. New powers.",
+  "cta_subtext": "Trending repos hit different at 9am—first-mover advantage on what ships next week.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A single repo gained 3,854 stars today by solving the one problem every AI coder has: actually readable output.",
+    "repo_lines": [
+      "Your AI agent stops word-vomiting. ADHD-friendly focus returns.",
+      "Watch real satellites live. Espionage, but make it browser tabs.",
+      "280K+ stars. The agentic framework that actually ships production.",
+      "Your trading bot works 24/7 across 1000+ markets. You sleep.",
+      "Turn your whole team into AI power users. No training required."
+    ],
+    "closing_question": "Which one are you deploying first—the silent coder or the sleeping trader?",
+    "tagline": "Today's repos do the work while you think.",
+    "cta_headline": "Every day. New agents. New powers.",
+    "cta_subtext": "Trending repos hit different at 9am—first-mover advantage on what ships next week."
+  }
+}
