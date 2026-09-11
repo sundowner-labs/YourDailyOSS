@@ -1,0 +1,22 @@
+{
+  "mastodon": "+3,642 stars in one day: a real-time satellite simulator just dropped and it's running live orbital data in your browser.\n\n• Your AI coding agent finally learned to *answer* the question instead of drowning you in wall-of-text.\n• Watch Earth from space right now—actual satellite imagery, actual physics, actual open source.\n• Tired of proprietary sideloaders? This one actually respects your workflow.\n• WhatsApp-native CRM that doesn't spy on you—built for businesses that sell…",
+  "bluesky": "+3,642 stars in one day: a real-time satellite simulator just dropped and it's running live orbital data in your browser.\nWhich one are you spinning up first—the satellite view or the local agent?",
+  "tagline": "Five projects reshaping how we code, see, and sell",
+  "cta_headline": "Trending repos that actually matter",
+  "cta_subtext": "Get the full breakdown every morning before the algo decides what you see.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "+3,642 stars in one day: a real-time satellite simulator just dropped and it's running live orbital data in your browser.",
+    "repo_lines": [
+      "Your AI coding agent finally learned to *answer* the question instead of drowning you in wall-of-text.",
+      "Watch Earth from space right now—actual satellite imagery, actual physics, actual open source.",
+      "Tired of proprietary sideloaders? This one actually respects your workflow.",
+      "WhatsApp-native CRM that doesn't spy on you—built for businesses that sell via chat.",
+      "Local AI coding agent that runs on your machine, not somebody's cloud bill."
+    ],
+    "closing_question": "Which one are you spinning up first—the satellite view or the local agent?",
+    "tagline": "Five projects reshaping how we code, see, and sell",
+    "cta_headline": "Trending repos that actually matter",
+    "cta_subtext": "Get the full breakdown every morning before the algo decides what you see."
+  }
+}
