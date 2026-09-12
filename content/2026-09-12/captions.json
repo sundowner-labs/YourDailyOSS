@@ -1,0 +1,22 @@
+{
+  "mastodon": "65K stars for a repo that just dropped the actual system prompts from Claude, ChatGPT, Gemini, and Grok.\n\n• Real satellite imagery + live geospatial data = spy thriller vibes without leaving your browser.\n• Stop paying Kommo $200/mo: self-hosted AI sales OS that actually talks WhatsApp, runs on your server.\n• The AI jailbreak archive everyone's quietly bookmarking (updated as new prompts leak).\n• Sideloading made so easy your grandma could do it.\n• A YouTube/Discord workarou…",
+  "bluesky": "65K stars for a repo that just dropped the actual system prompts from Claude, ChatGPT, Gemini, and Grok.\nWhich one are you installing first — the satellite tracker or the CRM?",
+  "tagline": "Five repos reshaping what's possible right now.",
+  "cta_headline": "Trending repos, daily heat.",
+  "cta_subtext": "New GitHub projects hitting critical mass—delivered before the hype machine normalizes them.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "65K stars for a repo that just dropped the actual system prompts from Claude, ChatGPT, Gemini, and Grok.",
+    "repo_lines": [
+      "Real satellite imagery + live geospatial data = spy thriller vibes without leaving your browser.",
+      "Stop paying Kommo $200/mo: self-hosted AI sales OS that actually talks WhatsApp, runs on your server.",
+      "The AI jailbreak archive everyone's quietly bookmarking (updated as new prompts leak).",
+      "Sideloading made so easy your grandma could do it.",
+      "A YouTube/Discord workaround so effective it's spreading faster than we can track."
+    ],
+    "closing_question": "Which one are you installing first — the satellite tracker or the CRM?",
+    "tagline": "Five repos reshaping what's possible right now.",
+    "cta_headline": "Trending repos, daily heat.",
+    "cta_subtext": "New GitHub projects hitting critical mass—delivered before the hype machine normalizes them."
+  }
+}

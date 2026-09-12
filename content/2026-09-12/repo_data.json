@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 29597,
+    "stars_today": 2265,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "full_name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "language": "TypeScript",
+    "stars": 1744,
+    "stars_today": 505,
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  },
+  {
+    "full_name": "asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "language": "JavaScript",
+    "stars": 65338,
+    "stars_today": 357,
+    "url": "https://github.com/asgeirtj/system_prompts_leaks"
+  },
+  {
+    "full_name": "nab138/iloader",
+    "description": "User friendly sideloader",
+    "language": "TypeScript",
+    "stars": 3058,
+    "stars_today": 209,
+    "url": "https://github.com/nab138/iloader"
+  },
+  {
+    "full_name": "Flowseal/zapret-discord-youtube",
+    "description": "",
+    "language": "Batchfile",
+    "stars": 33199,
+    "stars_today": 52,
+    "url": "https://github.com/Flowseal/zapret-discord-youtube"
+  }
+]
