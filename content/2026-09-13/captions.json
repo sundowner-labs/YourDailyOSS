@@ -1,0 +1,22 @@
+{
+  "mastodon": "A spy satellite simulator just gained 2,898 stars in one day—and it's running real-time orbital intelligence in your browser.\n\n• Run 100B+ parameter models on your laptop. Pure C, streaming from disk, no GPU required.\n• One platform replacing five: ERP, CRM, HRM, ATS, and project management in a single open-source stack.\n• Stop orbiting hypotheticals—watch actual satellites, real-time tracking, on a photorealistic globe.\n• Trained, tested, locked-down skills for Claude, Curs…",
+  "bluesky": "A spy satellite simulator just gained 2,898 stars in one day—and it's running real-time orbital intelligence in your browser.\nWhich one are you building with first?",
+  "tagline": "Five repos reshaping how we compute, build, and sell.",
+  "cta_headline": "Trending repos land here first",
+  "cta_subtext": "Fresh open-source shipped daily—nothing you'll find elsewhere until tomorrow.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A spy satellite simulator just gained 2,898 stars in one day—and it's running real-time orbital intelligence in your browser.",
+    "repo_lines": [
+      "Run 100B+ parameter models on your laptop. Pure C, streaming from disk, no GPU required.",
+      "One platform replacing five: ERP, CRM, HRM, ATS, and project management in a single open-source stack.",
+      "Stop orbiting hypotheticals—watch actual satellites, real-time tracking, on a photorealistic globe.",
+      "Trained, tested, locked-down skills for Claude, Cursor, Copilot. Deploy AI agents without the anxiety.",
+      "WhatsApp-native AI sales agent that self-hosts. LGPD-compliant, multi-tenant, ready for production chat ops."
+    ],
+    "closing_question": "Which one are you building with first?",
+    "tagline": "Five repos reshaping how we compute, build, and sell.",
+    "cta_headline": "Trending repos land here first",
+    "cta_subtext": "Fresh open-source shipped daily—nothing you'll find elsewhere until tomorrow."
+  }
+}

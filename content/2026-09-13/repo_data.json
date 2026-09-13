@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+    "language": "C",
+    "stars": 29609,
+    "stars_today": 960,
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "full_name": "ever-co/ever-gauzy",
+    "description": "Ever\u00ae Gauzy\u2122 - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+    "language": "TypeScript",
+    "stars": 4958,
+    "stars_today": 58,
+    "url": "https://github.com/ever-co/ever-gauzy"
+  },
+  {
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 31684,
+    "stars_today": 2898,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "full_name": "tech-leads-club/agent-skills",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "language": "TypeScript",
+    "stars": 5589,
+    "stars_today": 215,
+    "url": "https://github.com/tech-leads-club/agent-skills"
+  },
+  {
+    "full_name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS \u2014 self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "language": "TypeScript",
+    "stars": 2133,
+    "stars_today": 444,
+    "url": "https://github.com/melgarafael/DeskcommCRM"
+  }
+]
