@@ -1,0 +1,22 @@
+{
+  "mastodon": "2,774 stars in one day: someone just dropped a fully local voice cloning tool that replaces ElevenLabs in 646 languages.\n\n• Run 70B+ models on your laptop with pure C—no cloud, no compromises, just streaming.\n• Alibaba spent years perfecting this; now code review gets AI that actually understands intent.\n• AI finally generates music that knows what a bridge is—symbolic planning changes everything.\n• Video dubbing, voice design, transcription—all local, all open, zero vendor…",
+  "bluesky": "2,774 stars in one day: someone just dropped a fully local voice cloning tool that replaces ElevenLabs in 646 languages.\nWhich of these is shipping to production first at your place?",
+  "tagline": "Five tools that just rewrote the rules.",
+  "cta_headline": "Never miss a breakthrough.",
+  "cta_subtext": "Trending repos hit different when you catch them before everyone else does.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "2,774 stars in one day: someone just dropped a fully local voice cloning tool that replaces ElevenLabs in 646 languages.",
+    "repo_lines": [
+      "Run 70B+ models on your laptop with pure C—no cloud, no compromises, just streaming.",
+      "Alibaba spent years perfecting this; now code review gets AI that actually understands intent.",
+      "AI finally generates music that knows what a bridge is—symbolic planning changes everything.",
+      "Video dubbing, voice design, transcription—all local, all open, zero vendor lock-in.",
+      "Swarm intelligence for prediction: one engine, infinite problems, folklore + ML."
+    ],
+    "closing_question": "Which of these is shipping to production first at your place?",
+    "tagline": "Five tools that just rewrote the rules.",
+    "cta_headline": "Never miss a breakthrough.",
+    "cta_subtext": "Trending repos hit different when you catch them before everyone else does."
+  }
+}

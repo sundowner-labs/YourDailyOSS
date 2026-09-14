@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own \u2014 pure C, zero deps, experts streamed from disk. Tiny engine, immense model. \ud83d\udc26",
+    "language": "C",
+    "stars": 31941,
+    "stars_today": 2233,
+    "url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "full_name": "alibaba/open-code-review",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars": 25535,
+    "stars_today": 1796,
+    "url": "https://github.com/alibaba/open-code-review"
+  },
+  {
+    "full_name": "multimodal-art-projection/YuE",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "language": "Python",
+    "stars": 8291,
+    "stars_today": 578,
+    "url": "https://github.com/multimodal-art-projection/YuE"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 29043,
+    "stars_today": 2774,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "full_name": "666ghj/MiroFish",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
+    "language": "Python",
+    "stars": 73090,
+    "stars_today": 524,
+    "url": "https://github.com/666ghj/MiroFish"
+  }
+]
