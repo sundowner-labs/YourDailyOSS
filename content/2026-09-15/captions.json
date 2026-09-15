@@ -1,0 +1,22 @@
+{
+  "mastodon": "Alibaba just open-sourced a code review tool that caught 2,751 stars in a single day—built on the same hybrid pipeline that scales to their entire engineering org.\n\n• Deterministic pipelines meet LLM agents: code review that actually understands context, not just lint rules.\n• Run massive MoE models on your laptop in pure C—no cloud bills, no dependencies, just raw efficiency.\n• Open ERP/CRM/HRM all-in-one: the enterprise stack that doesn't require selling your soul to a Saa…",
+  "bluesky": "Alibaba just open-sourced a code review tool that caught 2,751 stars in a single day—built on the same hybrid pipeline that scales to their entire engineering org.\nWhich one are you installing first—the code reviewer or the local voice AI?",
+  "tagline": "Five repos that redefine what scale actually means.",
+  "cta_headline": "Stay ahead of the wave",
+  "cta_subtext": "Tomorrow's infra is already on GitHub—get it before your competitors do.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Alibaba just open-sourced a code review tool that caught 2,751 stars in a single day—built on the same hybrid pipeline that scales to their entire engineering org.",
+    "repo_lines": [
+      "Deterministic pipelines meet LLM agents: code review that actually understands context, not just lint rules.",
+      "Run massive MoE models on your laptop in pure C—no cloud bills, no dependencies, just raw efficiency.",
+      "Open ERP/CRM/HRM all-in-one: the enterprise stack that doesn't require selling your soul to a SaaS vendor.",
+      "Local voice cloning in 646 languages—build your own ElevenLabs, keep your data, pay zero per API call.",
+      "Homebrew finally got a GUI that doesn't feel like a rejection from 1995."
+    ],
+    "closing_question": "Which one are you installing first—the code reviewer or the local voice AI?",
+    "tagline": "Five repos that redefine what scale actually means.",
+    "cta_headline": "Stay ahead of the wave",
+    "cta_subtext": "Tomorrow's infra is already on GitHub—get it before your competitors do."
+  }
+}
