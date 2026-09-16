@@ -1,0 +1,22 @@
+{
+  "mastodon": "54K stars for an open-source AI voice studio that lets you clone, dictate, and create—all without paying OpenAI's voice tax.\n\n• Alibaba's code review system catches NPE/XSS/SQL injection at line level—LLM agents that actually know your codebase.\n• Security audits that machines can verify independently. No more PDF reports gathering dust.\n• Run cutting-edge MoE models on your laptop in pure C. Desktop inference just got a massive upgrade.\n• macOS power user essential: native…",
+  "bluesky": "54K stars for an open-source AI voice studio that lets you clone, dictate, and create—all without paying OpenAI's voice tax.\nWhich of these are you spinning up first—the code reviewer or the voice cloner?",
+  "tagline": "Code audits meet AI voices. Here we go.",
+  "cta_headline": "New repos drop daily",
+  "cta_subtext": "Follow for trending repos that actually ship—tools, not toys. No fluff, real impact.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "54K stars for an open-source AI voice studio that lets you clone, dictate, and create—all without paying OpenAI's voice tax.",
+    "repo_lines": [
+      "Alibaba's code review system catches NPE/XSS/SQL injection at line level—LLM agents that actually know your codebase.",
+      "Security audits that machines can verify independently. No more PDF reports gathering dust.",
+      "Run cutting-edge MoE models on your laptop in pure C. Desktop inference just got a massive upgrade.",
+      "macOS power user essential: native launcher + hotkeys + clipboard history that doesn't spy on you.",
+      "Stop paying per voice clone. Own your AI voice studio, no subscriptions, full control."
+    ],
+    "closing_question": "Which of these are you spinning up first—the code reviewer or the voice cloner?",
+    "tagline": "Code audits meet AI voices. Here we go.",
+    "cta_headline": "New repos drop daily",
+    "cta_subtext": "Follow for trending repos that actually ship—tools, not toys. No fluff, real impact."
+  }
+}
