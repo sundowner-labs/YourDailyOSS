@@ -1,0 +1,22 @@
+{
+  "mastodon": "Cloudflare's security audit tool shot up 3,606 stars in one day—and it's just one of five AI agent breakthroughs trending hard right now.\n\n• Alibaba's code review agent catches NPE, XSS, SQL injection at line level—production-proven at scale.\n• Machine-readable security findings that actually hold up to independent verification, not vibes.\n• 95k stars. The canonical skills library for AI devs who ship real code, not experiments.\n• Control your logged-in browser from any CLI…",
+  "bluesky": "Cloudflare's security audit tool shot up 3,606 stars in one day—and it's just one of five AI agent breakthroughs trending hard right now.\nWhich one are you wiring into your stack first?",
+  "tagline": "Five tools reshaping how agents review, audit, and build.",
+  "cta_headline": "Agent infrastructure moves fast",
+  "cta_subtext": "Follow for the repos that actually change how AI engineering works, not the hype ones.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Cloudflare's security audit tool shot up 3,606 stars in one day—and it's just one of five AI agent breakthroughs trending hard right now.",
+    "repo_lines": [
+      "Alibaba's code review agent catches NPE, XSS, SQL injection at line level—production-proven at scale.",
+      "Machine-readable security findings that actually hold up to independent verification, not vibes.",
+      "95k stars. The canonical skills library for AI devs who ship real code, not experiments.",
+      "Control your logged-in browser from any CLI agent without losing your session or your mind.",
+      "Your coding agent just became a research agent. Systematically explore, analyze, and synthesize."
+    ],
+    "closing_question": "Which one are you wiring into your stack first?",
+    "tagline": "Five tools reshaping how agents review, audit, and build.",
+    "cta_headline": "Agent infrastructure moves fast",
+    "cta_subtext": "Follow for the repos that actually change how AI engineering works, not the hype ones."
+  }
+}
