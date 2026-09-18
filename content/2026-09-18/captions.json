@@ -1,0 +1,22 @@
+{
+  "mastodon": "ECC just crossed 261,954 stars with nearly 1,000 new ones today—the agent optimization layer that's quietly reshaping how Claude, Cursor, and every other coding AI actually *works*.\n\n• Security audits that verify themselves. Multi-phase findings, machine-readable proof.\n• Your codebase in Claude's hands—git workflows, explanations, execution, all via chat.\n• LLM agents + deterministic pipelines = code review that scales to Alibaba's codebase.\n• The performance multiplier for…",
+  "bluesky": "ECC just crossed 261,954 stars with nearly 1,000 new ones today—the agent optimization layer that's quietly reshaping how Claude, Cursor, and every other coding AI actually *works*.\nWhich of these are you shipping with first—the auditor, the terminal agent, or the browser control?",
+  "tagline": "Five repos reshaping agent-driven development",
+  "cta_headline": "Ship faster with AI agents",
+  "cta_subtext": "Daily repos built for the post-Claude era—follow for the tools actually winning.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "ECC just crossed 261,954 stars with nearly 1,000 new ones today—the agent optimization layer that's quietly reshaping how Claude, Cursor, and every other coding AI actually *works*.",
+    "repo_lines": [
+      "Security audits that verify themselves. Multi-phase findings, machine-readable proof.",
+      "Your codebase in Claude's hands—git workflows, explanations, execution, all via chat.",
+      "LLM agents + deterministic pipelines = code review that scales to Alibaba's codebase.",
+      "The performance multiplier for coding agents. Skills, memory, and research baked in.",
+      "Log into your real browser, let AI use it. No interruptions, zero friction."
+    ],
+    "closing_question": "Which of these are you shipping with first—the auditor, the terminal agent, or the browser control?",
+    "tagline": "Five repos reshaping agent-driven development",
+    "cta_headline": "Ship faster with AI agents",
+    "cta_subtext": "Daily repos built for the post-Claude era—follow for the tools actually winning."
+  }
+}
