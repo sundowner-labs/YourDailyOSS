@@ -1,0 +1,22 @@
+{
+  "mastodon": "Claude Code just hit 146K stars—an AI that actually lives in your terminal and ships code autonomously.\n\n• Cloudflare's security audit agent catches vulns machines can independently verify—no human gatekeeping needed.\n• CUA scales computer-use AI across Windows, Mac, Linux with open benchmarks so you're not guessing if it works.\n• Agent Skills is the production playbook: engineering patterns that actually work when your AI needs to deploy real code.\n• Coder gives your dev te…",
+  "bluesky": "Claude Code just hit 146K stars—an AI that actually lives in your terminal and ships code autonomously.\nWhich one are you spinning up first: the audit agent, the code executor, or the fleet infrastructure?",
+  "tagline": "The AI coding tier is here—and it's open.",
+  "cta_headline": "AI agents shipping code daily",
+  "cta_subtext": "Get the repos that actually move the needle before your team's building the same thing from scratch.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Claude Code just hit 146K stars—an AI that actually lives in your terminal and ships code autonomously.",
+    "repo_lines": [
+      "Cloudflare's security audit agent catches vulns machines can independently verify—no human gatekeeping needed.",
+      "CUA scales computer-use AI across Windows, Mac, Linux with open benchmarks so you're not guessing if it works.",
+      "Agent Skills is the production playbook: engineering patterns that actually work when your AI needs to deploy real code.",
+      "Coder gives your dev team isolated, secure sandboxes—for humans *and* AI agents running side by side.",
+      "Terminal-native AI that reads your codebase, executes tasks, manages git—basically a senior dev you SSH into."
+    ],
+    "closing_question": "Which one are you spinning up first: the audit agent, the code executor, or the fleet infrastructure?",
+    "tagline": "The AI coding tier is here—and it's open.",
+    "cta_headline": "AI agents shipping code daily",
+    "cta_subtext": "Get the repos that actually move the needle before your team's building the same thing from scratch."
+  }
+}
