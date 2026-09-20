@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 263636,
+    "stars_today": 837,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "full_name": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "language": "TypeScript",
+    "stars": 5150,
+    "stars_today": 89,
+    "url": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "full_name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 17899,
+    "stars_today": 2375,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "full_name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "HTML",
+    "stars": 25089,
+    "stars_today": 1012,
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "full_name": "anthropics/financial-services",
+    "description": "",
+    "language": "Python",
+    "stars": 35319,
+    "stars_today": 236,
+    "url": "https://github.com/anthropics/financial-services"
+  }
+]

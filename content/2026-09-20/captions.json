@@ -1,0 +1,22 @@
+{
+  "mastodon": "Cloudflare's security audit skill jumped 2,375 stars overnight—the AI agent arms race just hit infrastructure.\n\n• Claude's performance tuning layer that actually moves the needle on speed & reliability.\n• Stop bolting agents onto frameworks—build them native from day one.\n• Autonomous security audits that spit out machine-readable proof instead of vibes.\n• Computer use just scaled. Open source. Your hardware. Your rules.\n• Financial services AI that's already running in prod…",
+  "bluesky": "Cloudflare's security audit skill jumped 2,375 stars overnight—the AI agent arms race just hit infrastructure.\nWhich one are you shipping with first—the audit tool or the agent framework?",
+  "tagline": "The agent stack is solidifying. Here's what won.",
+  "cta_headline": "Agent trends hit your feed first",
+  "cta_subtext": "Catch tomorrow's breakout repos before they hit 10k stars—fresh every morning.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Cloudflare's security audit skill jumped 2,375 stars overnight—the AI agent arms race just hit infrastructure.",
+    "repo_lines": [
+      "Claude's performance tuning layer that actually moves the needle on speed & reliability.",
+      "Stop bolting agents onto frameworks—build them native from day one.",
+      "Autonomous security audits that spit out machine-readable proof instead of vibes.",
+      "Computer use just scaled. Open source. Your hardware. Your rules.",
+      "Financial services AI that's already running in production (no description needed)."
+    ],
+    "closing_question": "Which one are you shipping with first—the audit tool or the agent framework?",
+    "tagline": "The agent stack is solidifying. Here's what won.",
+    "cta_headline": "Agent trends hit your feed first",
+    "cta_subtext": "Catch tomorrow's breakout repos before they hit 10k stars—fresh every morning."
+  }
+}
