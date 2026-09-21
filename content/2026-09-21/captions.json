@@ -1,0 +1,22 @@
+{
+  "mastodon": "OpenStock just hit 25k stars in a single day—the open-source market platform rebellion is real.\n\n• Agent apps aren't theoretical anymore—this is the framework actually shipping them.\n• Computer-use automation just got a whole fleet upgrade; benchmark your own agents at scale.\n• Real-time stock tracking without the $500/month SaaS tax. Finally.\n• Agents need memory that persists across sessions and vendor switches—this solves it.\n• Your agents need locked-down dev environment…",
+  "bluesky": "OpenStock just hit 25k stars in a single day—the open-source market platform rebellion is real.\nWhich one are you spinning up first—the agent framework or the stock tracker?",
+  "tagline": "Five repos reshaping what agents can actually do",
+  "cta_headline": "Get tomorrow's before everyone else",
+  "cta_subtext": "Fresh trending repos every morning, the ones developers are shipping with *today*.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "OpenStock just hit 25k stars in a single day—the open-source market platform rebellion is real.",
+    "repo_lines": [
+      "Agent apps aren't theoretical anymore—this is the framework actually shipping them.",
+      "Computer-use automation just got a whole fleet upgrade; benchmark your own agents at scale.",
+      "Real-time stock tracking without the $500/month SaaS tax. Finally.",
+      "Agents need memory that persists across sessions and vendor switches—this solves it.",
+      "Your agents need locked-down dev environments; this is how you actually ship that safely."
+    ],
+    "closing_question": "Which one are you spinning up first—the agent framework or the stock tracker?",
+    "tagline": "Five repos reshaping what agents can actually do",
+    "cta_headline": "Get tomorrow's before everyone else",
+    "cta_subtext": "Fresh trending repos every morning, the ones developers are shipping with *today*."
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "BuilderIO/agent-native",
+    "description": "A framework for building agentic apps",
+    "language": "TypeScript",
+    "stars": 5847,
+    "stars_today": 607,
+    "url": "https://github.com/BuilderIO/agent-native"
+  },
+  {
+    "full_name": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "HTML",
+    "stars": 25666,
+    "stars_today": 609,
+    "url": "https://github.com/trycua/cua"
+  },
+  {
+    "full_name": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights \u2014 built openly, for everyone, forever free.",
+    "language": "TypeScript",
+    "stars": 17656,
+    "stars_today": 843,
+    "url": "https://github.com/Open-Dev-Society/OpenStock"
+  },
+  {
+    "full_name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "stars": 7636,
+    "stars_today": 217,
+    "url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "full_name": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "stars": 16394,
+    "stars_today": 461,
+    "url": "https://github.com/coder/coder"
+  }
+]
