@@ -1,0 +1,22 @@
+{
+  "mastodon": "Google's agentic orchestration runtime just gained 2,324 stars in one day—here's what else is moving the needle in agent infrastructure.\n\n• Anthropic's financial playbook: enterprise AI agents that actually handle money.\n• Agent Substrate is building the nervous system for distributed agent networks.\n• One runtime for spreadsheets, docs, slides, and PDFs—AI agents finally have real tools.\n• Configure and monitor Claude Code deployments without the CLI headache.\n• Google's Ax…",
+  "bluesky": "Google's agentic orchestration runtime just gained 2,324 stars in one day—here's what else is moving the needle in agent infrastructure.\nWhich of these would you plug into your stack first—orchestration backbone or agent tooling?",
+  "tagline": "The agent infrastructure moment is here.",
+  "cta_headline": "Don't miss tomorrow's surge.",
+  "cta_subtext": "Trending repos hit your feed before they hit HN. Follow for the real signal.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Google's agentic orchestration runtime just gained 2,324 stars in one day—here's what else is moving the needle in agent infrastructure.",
+    "repo_lines": [
+      "Anthropic's financial playbook: enterprise AI agents that actually handle money.",
+      "Agent Substrate is building the nervous system for distributed agent networks.",
+      "One runtime for spreadsheets, docs, slides, and PDFs—AI agents finally have real tools.",
+      "Configure and monitor Claude Code deployments without the CLI headache.",
+      "Google's Ax turns agent coordination from chaos into orchestrated execution."
+    ],
+    "closing_question": "Which of these would you plug into your stack first—orchestration backbone or agent tooling?",
+    "tagline": "The agent infrastructure moment is here.",
+    "cta_headline": "Don't miss tomorrow's surge.",
+    "cta_subtext": "Trending repos hit your feed before they hit HN. Follow for the real signal."
+  }
+}
