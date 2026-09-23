@@ -1,0 +1,22 @@
+{
+  "mastodon": "290K stars and climbing—one framework just proved agentic development doesn't have to be chaos.\n\n• Anthropic's playbook for financial AI that actually handles real money moves.\n• Google's orchestration layer that lets agents coordinate without melting your infra.\n• Stop wrestling with Claude Code configs—automate the whole setup.\n• TypeScript devs: build agent systems that don't collapse under their own complexity.\n• The methodology backing projects with nearly 300K stars—ba…",
+  "bluesky": "290K stars and climbing—one framework just proved agentic development doesn't have to be chaos.\nWhich one are you architecting with first?",
+  "tagline": "Five ways agents are shipping this week",
+  "cta_headline": "Get trending before lunch",
+  "cta_subtext": "Catch tomorrow's breakouts before they hit the zeitgeist—curated daily, zero noise.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "290K stars and climbing—one framework just proved agentic development doesn't have to be chaos.",
+    "repo_lines": [
+      "Anthropic's playbook for financial AI that actually handles real money moves.",
+      "Google's orchestration layer that lets agents coordinate without melting your infra.",
+      "Stop wrestling with Claude Code configs—automate the whole setup.",
+      "TypeScript devs: build agent systems that don't collapse under their own complexity.",
+      "The methodology backing projects with nearly 300K stars—battle-tested, production-ready."
+    ],
+    "closing_question": "Which one are you architecting with first?",
+    "tagline": "Five ways agents are shipping this week",
+    "cta_headline": "Get trending before lunch",
+    "cta_subtext": "Catch tomorrow's breakouts before they hit the zeitgeist—curated daily, zero noise."
+  }
+}
