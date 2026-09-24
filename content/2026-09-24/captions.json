@@ -1,0 +1,22 @@
+{
+  "mastodon": "Hindsight just gained 1,607 stars in a day—agent memory that actually learns is moving fast.\n\n• The missing manual: AI engineering fundamentals that actually ship to production.\n• Agents that remember. Not just context windows—real learning from past decisions.\n• One runtime for everything your AI needs: sheets, docs, slides, tables, PDFs.\n• Google's orchestration layer for agents that need to do real work, not toy demos.\n• Your models are bloated. This library makes them le…",
+  "bluesky": "Hindsight just gained 1,607 stars in a day—agent memory that actually learns is moving fast.\nWhich of these are you shipping with first—agent memory, model compression, or the unified workspace?",
+  "tagline": "Five repos reshaping how AI actually works",
+  "cta_headline": "New trending repos every morning",
+  "cta_subtext": "Catch the repos that jump 1000+ stars before they hit mainstream news cycles.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Hindsight just gained 1,607 stars in a day—agent memory that actually learns is moving fast.",
+    "repo_lines": [
+      "The missing manual: AI engineering fundamentals that actually ship to production.",
+      "Agents that remember. Not just context windows—real learning from past decisions.",
+      "One runtime for everything your AI needs: sheets, docs, slides, tables, PDFs.",
+      "Google's orchestration layer for agents that need to do real work, not toy demos.",
+      "Your models are bloated. This library makes them lean without sacrificing accuracy."
+    ],
+    "closing_question": "Which of these are you shipping with first—agent memory, model compression, or the unified workspace?",
+    "tagline": "Five repos reshaping how AI actually works",
+    "cta_headline": "New trending repos every morning",
+    "cta_subtext": "Catch the repos that jump 1000+ stars before they hit mainstream news cycles."
+  }
+}
