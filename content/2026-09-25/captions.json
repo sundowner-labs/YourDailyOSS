@@ -1,0 +1,22 @@
+{
+  "mastodon": "Paperclip hit +1,853 stars in 24 hours—the agent management layer everyone's been waiting for just went mainstream.\n\n• The app devs are actually using to wrangle AI agents at scale (not vaporware)\n• Anthropic's own curated plugin ecosystem—quality over quantity, finally\n• Agents that remember what they learned. Game changer for long-running tasks.\n• 291k stars and climbing: the most battle-tested agentic methodology out there\n• Straight from a real engineer's config—not a tu…",
+  "bluesky": "Paperclip hit +1,853 stars in 24 hours—the agent management layer everyone's been waiting for just went mainstream.\nWhich one are you spinning up first—agent management, plugins, or memory?",
+  "tagline": "The agent stack everyone's shipping with right now",
+  "cta_headline": "Stay ahead of the agent wave",
+  "cta_subtext": "Tomorrow's trending repos hit here first—plus the context most people miss.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Paperclip hit +1,853 stars in 24 hours—the agent management layer everyone's been waiting for just went mainstream.",
+    "repo_lines": [
+      "The app devs are actually using to wrangle AI agents at scale (not vaporware)",
+      "Anthropic's own curated plugin ecosystem—quality over quantity, finally",
+      "Agents that remember what they learned. Game changer for long-running tasks.",
+      "291k stars and climbing: the most battle-tested agentic methodology out there",
+      "Straight from a real engineer's config—not a tutorial, actual production skills"
+    ],
+    "closing_question": "Which one are you spinning up first—agent management, plugins, or memory?",
+    "tagline": "The agent stack everyone's shipping with right now",
+    "cta_headline": "Stay ahead of the agent wave",
+    "cta_subtext": "Tomorrow's trending repos hit here first—plus the context most people miss."
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "stars": 84720,
+    "stars_today": 1853,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 36891,
+    "stars_today": 62,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "full_name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "stars": 29729,
+    "stars_today": 1652,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "full_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 291627,
+    "stars_today": 465,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 269687,
+    "stars_today": 588,
+    "url": "https://github.com/mattpocock/skills"
+  }
+]
