@@ -1,0 +1,22 @@
+{
+  "mastodon": "Paperclip just crossed 87k stars and gained 2,589 in a single day—the agent management layer everyone's actually using.\n\n• The control plane for AI agents that teams are shipping to production today.\n• Your agents forget everything. This teaches them to actually learn from experience.\n• NVIDIA's compression playbook: make LLMs run 10x faster without the quality hit.\n• One runtime for spreadsheets, docs, slides, and PDFs—the OS agents actually need.\n• The foundation that powe…",
+  "bluesky": "Paperclip just crossed 87k stars and gained 2,589 in a single day—the agent management layer everyone's actually using.\nWhich one are you forking first—agent management, memory, or model optimization?",
+  "tagline": "The agent infra stack, all trending at once.",
+  "cta_headline": "Don't sleep on inference gains",
+  "cta_subtext": "Model Optimizer + TensorRT-LLM drops latency hard. Catch tomorrow's winners today.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Paperclip just crossed 87k stars and gained 2,589 in a single day—the agent management layer everyone's actually using.",
+    "repo_lines": [
+      "The control plane for AI agents that teams are shipping to production today.",
+      "Your agents forget everything. This teaches them to actually learn from experience.",
+      "NVIDIA's compression playbook: make LLMs run 10x faster without the quality hit.",
+      "One runtime for spreadsheets, docs, slides, and PDFs—the OS agents actually need.",
+      "The foundation that powers 99% of ML—still moving, still mattering."
+    ],
+    "closing_question": "Which one are you forking first—agent management, memory, or model optimization?",
+    "tagline": "The agent infra stack, all trending at once.",
+    "cta_headline": "Don't sleep on inference gains",
+    "cta_subtext": "Model Optimizer + TensorRT-LLM drops latency hard. Catch tomorrow's winners today."
+  }
+}
