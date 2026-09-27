@@ -1,0 +1,22 @@
+{
+  "mastodon": "Hindsight just gained 4,463 stars in one day—agents that actually remember what they learned are having a moment.\n\n• Paperclip is how teams actually wrangle multi-agent workflows without losing their minds.\n• Memory that compounds: your agents get smarter the more they work, not dumber.\n• Full voice cloning + dubbing + transcription in 646 languages, zero cloud dependency.\n• From zero to shipping: the exact curriculum people use to actually become AI engineers.\n• YouTube wit…",
+  "bluesky": "Hindsight just gained 4,463 stars in one day—agents that actually remember what they learned are having a moment.\nWhich one are you forking first—agent memory, voice workflows, or learning the fundamentals?",
+  "tagline": "The open tools reshaping how work actually gets done",
+  "cta_headline": "Stay ahead of the build",
+  "cta_subtext": "Every morning, the repos that matter—before they hit mainstream adoption.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Hindsight just gained 4,463 stars in one day—agents that actually remember what they learned are having a moment.",
+    "repo_lines": [
+      "Paperclip is how teams actually wrangle multi-agent workflows without losing their minds.",
+      "Memory that compounds: your agents get smarter the more they work, not dumber.",
+      "Full voice cloning + dubbing + transcription in 646 languages, zero cloud dependency.",
+      "From zero to shipping: the exact curriculum people use to actually become AI engineers.",
+      "YouTube without the corporate surveillance layer—privacy-first mobile browsing done right."
+    ],
+    "closing_question": "Which one are you forking first—agent memory, voice workflows, or learning the fundamentals?",
+    "tagline": "The open tools reshaping how work actually gets done",
+    "cta_headline": "Stay ahead of the build",
+    "cta_subtext": "Every morning, the repos that matter—before they hit mainstream adoption."
+  }
+}

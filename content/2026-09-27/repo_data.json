@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "stars": 89630,
+    "stars_today": 2527,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "full_name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "stars": 37121,
+    "stars_today": 4463,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 39875,
+    "stars_today": 3060,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "full_name": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "stars": 59190,
+    "stars_today": 848,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
+  },
+  {
+    "full_name": "InfinityLoop1308/PipePipe",
+    "description": "An open-source Android app to let you browse YouTube and other services freely.",
+    "language": "Shell",
+    "stars": 6539,
+    "stars_today": 139,
+    "url": "https://github.com/InfinityLoop1308/PipePipe"
+  }
+]
