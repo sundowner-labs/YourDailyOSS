@@ -1,0 +1,22 @@
+{
+  "mastodon": "A RADAR system gained 4,413 stars in one day—but that's not even the wildest thing trending right now.\n\n• Clone any voice in 646 languages without touching a cloud service\n• Manage your entire AI agent workforce from one dashboard\n• Teach agents to remember what they learn, not just what you tell them\n• Build a phased array RADAR for under $10k—open hardware is real\n• Free textbook rewriting systems programming from first principles\n\nWhich one are you building with first?",
+  "bluesky": "A RADAR system gained 4,413 stars in one day—but that's not even the wildest thing trending right now.\nWhich one are you building with first?",
+  "tagline": "Today's open source changed the game.",
+  "cta_headline": "Trending before you knew it",
+  "cta_subtext": "Follow for the repos moving fastest today, dropped before everyone else finds them.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A RADAR system gained 4,413 stars in one day—but that's not even the wildest thing trending right now.",
+    "repo_lines": [
+      "Clone any voice in 646 languages without touching a cloud service",
+      "Manage your entire AI agent workforce from one dashboard",
+      "Teach agents to remember what they learn, not just what you tell them",
+      "Build a phased array RADAR for under $10k—open hardware is real",
+      "Free textbook rewriting systems programming from first principles"
+    ],
+    "closing_question": "Which one are you building with first?",
+    "tagline": "Today's open source changed the game.",
+    "cta_headline": "Trending before you knew it",
+    "cta_subtext": "Follow for the repos moving fastest today, dropped before everyone else finds them."
+  }
+}

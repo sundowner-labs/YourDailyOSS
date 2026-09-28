@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 43946,
+    "stars_today": 3274,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "full_name": "paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "stars": 92721,
+    "stars_today": 3185,
+    "url": "https://github.com/paperclipai/paperclip"
+  },
+  {
+    "full_name": "vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "stars": 40923,
+    "stars_today": 4413,
+    "url": "https://github.com/vectorize-io/hindsight"
+  },
+  {
+    "full_name": "NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "language": "PLSQL",
+    "stars": 25746,
+    "stars_today": 145,
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR"
+  },
+  {
+    "full_name": "cs341-illinois/coursebook",
+    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "language": "TeX",
+    "stars": 2490,
+    "stars_today": 316,
+    "url": "https://github.com/cs341-illinois/coursebook"
+  }
+]
