@@ -1,0 +1,22 @@
+{
+  "mastodon": "94K stars: an open-source agent management platform just became *the* way teams are shipping AI at work.\n\n• Clone any voice in 646 languages, fully offline—ElevenLabs but actually yours.\n• The only runtime that lets AI agents run loose without burning your ops team.\n• Your agents forget nothing: memory that actually learns from what they do.\n• Stop wrestling Slack bots and spreadsheets—manage every agent from one dashboard.\n• 100+ databases, AI built-in, runs on a 25 MB inst…",
+  "bluesky": "94K stars: an open-source agent management platform just became *the* way teams are shipping AI at work.\nWhich one are you shipping into production first?",
+  "tagline": "Five repos reshaping how AI actually gets built",
+  "cta_headline": "Trending every single day",
+  "cta_subtext": "Get these before your team does—dropped fresh at 9am ET, nowhere else.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "94K stars: an open-source agent management platform just became *the* way teams are shipping AI at work.",
+    "repo_lines": [
+      "Clone any voice in 646 languages, fully offline—ElevenLabs but actually yours.",
+      "The only runtime that lets AI agents run loose without burning your ops team.",
+      "Your agents forget nothing: memory that actually learns from what they do.",
+      "Stop wrestling Slack bots and spreadsheets—manage every agent from one dashboard.",
+      "100+ databases, AI built-in, runs on a 25 MB install—database power without the bloat."
+    ],
+    "closing_question": "Which one are you shipping into production first?",
+    "tagline": "Five repos reshaping how AI actually gets built",
+    "cta_headline": "Trending every single day",
+    "cta_subtext": "Get these before your team does—dropped fresh at 9am ET, nowhere else."
+  }
+}
