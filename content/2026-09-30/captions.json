@@ -1,0 +1,22 @@
+{
+  "mastodon": "VoiceStudio just hit 50k stars and gained 3,481 in a single day—the open-source voice revolution is accelerating.\n\n• Safe sandbox runtime for AI agents that won't phone home or surprise you at 3am\n• Everything ElevenLabs does, local, free, and in 646 languages—no subscription required\n• Run Claude and Codex as a single coordinated coding system instead of picking sides\n• Shrink AI context bloat by 98% while keeping your agent's memory intact across platforms\n• Stop writing b…",
+  "bluesky": "VoiceStudio just hit 50k stars and gained 3,481 in a single day—the open-source voice revolution is accelerating.\nWhich one are you shipping with first—safety sandbox, voice cloning, or the lazy dev framework?",
+  "tagline": "The AI agent stack is getting real.",
+  "cta_headline": "Stay ahead of the wave",
+  "cta_subtext": "Tomorrow's production stack ships today. Follow for the repos that actually move the needle.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "VoiceStudio just hit 50k stars and gained 3,481 in a single day—the open-source voice revolution is accelerating.",
+    "repo_lines": [
+      "Safe sandbox runtime for AI agents that won't phone home or surprise you at 3am",
+      "Everything ElevenLabs does, local, free, and in 646 languages—no subscription required",
+      "Run Claude and Codex as a single coordinated coding system instead of picking sides",
+      "Shrink AI context bloat by 98% while keeping your agent's memory intact across platforms",
+      "Stop writing boilerplate. Let your AI agent be as lazy as you wish you could be"
+    ],
+    "closing_question": "Which one are you shipping with first—safety sandbox, voice cloning, or the lazy dev framework?",
+    "tagline": "The AI agent stack is getting real.",
+    "cta_headline": "Stay ahead of the wave",
+    "cta_subtext": "Tomorrow's production stack ships today. Follow for the repos that actually move the needle."
+  }
+}

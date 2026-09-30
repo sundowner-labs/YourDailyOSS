@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "stars": 12526,
+    "stars_today": 1280,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 50353,
+    "stars_today": 3481,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "full_name": "mvschwarz/openrig",
+    "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "language": "TypeScript",
+    "stars": 2987,
+    "stars_today": 622,
+    "url": "https://github.com/mvschwarz/openrig"
+  },
+  {
+    "full_name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 24471,
+    "stars_today": 88,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 149129,
+    "stars_today": 865,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  }
+]
