@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 150435,
+    "stars_today": 1179,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 273852,
+    "stars_today": 888,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "full_name": "NVIDIA/OpenShell",
+    "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "language": "Rust",
+    "stars": 13982,
+    "stars_today": 2503,
+    "url": "https://github.com/NVIDIA/OpenShell"
+  },
+  {
+    "full_name": "firebase/firebase-ios-sdk",
+    "description": "Firebase SDK for Apple App Development",
+    "language": "C++",
+    "stars": 6850,
+    "stars_today": 112,
+    "url": "https://github.com/firebase/firebase-ios-sdk"
+  },
+  {
+    "full_name": "mvschwarz/openrig",
+    "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+    "language": "TypeScript",
+    "stars": 3677,
+    "stars_today": 640,
+    "url": "https://github.com/mvschwarz/openrig"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "mastodon": "OpenShell just hit +2,503 stars in a day—NVIDIA's betting serious money that AI agents need guardrails.\n\n• Ponytail: teach your agent to ship less code, not more\n• Skills: what production-grade AI engineering actually looks like\n• OpenShell: the runtime that lets agents run without burning your infrastructure\n• Firebase iOS SDK: the boring dependency that's still loading every app you use\n• OpenRig: spin up entire agent teams with memory and actual job ownership\n\nWhich one a…",
+  "bluesky": "OpenShell just hit +2,503 stars in a day—NVIDIA's betting serious money that AI agents need guardrails.\nWhich one are you actually deploying first?",
+  "tagline": "The agent stack is getting real. Here's what's winning.",
+  "cta_headline": "Don't miss tomorrow's shift",
+  "cta_subtext": "Trending repos hit your feed before they hit HN. Follow for the early signal.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "OpenShell just hit +2,503 stars in a day—NVIDIA's betting serious money that AI agents need guardrails.",
+    "repo_lines": [
+      "Ponytail: teach your agent to ship less code, not more",
+      "Skills: what production-grade AI engineering actually looks like",
+      "OpenShell: the runtime that lets agents run without burning your infrastructure",
+      "Firebase iOS SDK: the boring dependency that's still loading every app you use",
+      "OpenRig: spin up entire agent teams with memory and actual job ownership"
+    ],
+    "closing_question": "Which one are you actually deploying first?",
+    "tagline": "The agent stack is getting real. Here's what's winning.",
+    "cta_headline": "Don't miss tomorrow's shift",
+    "cta_subtext": "Trending repos hit your feed before they hit HN. Follow for the early signal."
+  }
+}
