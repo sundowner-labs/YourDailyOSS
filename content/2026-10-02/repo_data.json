@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+    "language": "Python",
+    "stars": 88553,
+    "stars_today": 683,
+    "url": "https://github.com/Panniantong/Agent-Reach"
+  },
+  {
+    "full_name": "JuliusBrussee/caveman",
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "language": "Go",
+    "stars": 109068,
+    "stars_today": 271,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "full_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 294431,
+    "stars_today": 561,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 151719,
+    "stars_today": 1429,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "full_name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "stars": 74278,
+    "stars_today": 717,
+    "url": "https://github.com/pbakaus/impeccable"
+  }
+]

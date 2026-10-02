@@ -1,0 +1,22 @@
+{
+  "mastodon": "ponytail just gained 1,429 stars in one day—AI agents learning to code like they're getting paid to do the minimum.\n\n• Your AI just got internet vision: Twitter, Reddit, YouTube, all without burning through API quotas.\n• Cut your token spend by 65% by teaching your agent to grunt like a cave developer.\n• The framework that actually ships—agentic skills done right, no theory required.\n• Laziness as a feature: AI now knows when NOT to write code (radical).\n• Design systems tha…",
+  "bluesky": "ponytail just gained 1,429 stars in one day—AI agents learning to code like they're getting paid to do the minimum.\nWhich one are you wiring into your stack first?",
+  "tagline": "Five repos reshaping how agents actually work",
+  "cta_headline": "Don't miss tomorrow's moves",
+  "cta_subtext": "New trending repos hit your feed every morning—stay ahead of the agent wave.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "ponytail just gained 1,429 stars in one day—AI agents learning to code like they're getting paid to do the minimum.",
+    "repo_lines": [
+      "Your AI just got internet vision: Twitter, Reddit, YouTube, all without burning through API quotas.",
+      "Cut your token spend by 65% by teaching your agent to grunt like a cave developer.",
+      "The framework that actually ships—agentic skills done right, no theory required.",
+      "Laziness as a feature: AI now knows when NOT to write code (radical).",
+      "Design systems that speak AI's language—your harness stops hallucinating aesthetics."
+    ],
+    "closing_question": "Which one are you wiring into your stack first?",
+    "tagline": "Five repos reshaping how agents actually work",
+    "cta_headline": "Don't miss tomorrow's moves",
+    "cta_subtext": "New trending repos hit your feed every morning—stay ahead of the agent wave."
+  }
+}
