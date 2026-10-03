@@ -1,0 +1,22 @@
+{
+  "mastodon": "272K stars: the agent performance system that's quietly becoming the infrastructure layer for every AI coder.\n\n• Stop writing boilerplate. Let your AI agent embrace beautiful laziness.\n• Design systems were made for humans. Now they're made for AI.\n• Cut your token spend in half by teaching Claude to grunt instead of lecture.\n• TypeScript apps that actually survive production without constant firefighting.\n• Fewer tokens, same output: the compression trick agents didn't know…",
+  "bluesky": "272K stars: the agent performance system that's quietly becoming the infrastructure layer for every AI coder.\nWhich one's going into your stack first—the lazy agent or the token cutter?",
+  "tagline": "The infrastructure layer AI devs are actually using.",
+  "cta_headline": "AI dev moves fast here",
+  "cta_subtext": "Trending repos updated daily—catch the shifts before your feeds do.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "272K stars: the agent performance system that's quietly becoming the infrastructure layer for every AI coder.",
+    "repo_lines": [
+      "Stop writing boilerplate. Let your AI agent embrace beautiful laziness.",
+      "Design systems were made for humans. Now they're made for AI.",
+      "Cut your token spend in half by teaching Claude to grunt instead of lecture.",
+      "TypeScript apps that actually survive production without constant firefighting.",
+      "Fewer tokens, same output: the compression trick agents didn't know they needed."
+    ],
+    "closing_question": "Which one's going into your stack first—the lazy agent or the token cutter?",
+    "tagline": "The infrastructure layer AI devs are actually using.",
+    "cta_headline": "AI dev moves fast here",
+    "cta_subtext": "Trending repos updated daily—catch the shifts before your feeds do."
+  }
+}

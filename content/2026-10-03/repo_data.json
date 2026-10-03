@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 153262,
+    "stars_today": 1289,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "full_name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "stars": 75215,
+    "stars_today": 705,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "full_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 272178,
+    "stars_today": 954,
+    "url": "https://github.com/affaan-m/ECC"
+  },
+  {
+    "full_name": "Effect-TS/effect",
+    "description": "Build production-ready applications in TypeScript",
+    "language": "TypeScript",
+    "stars": 16787,
+    "stars_today": 302,
+    "url": "https://github.com/Effect-TS/effect"
+  },
+  {
+    "full_name": "JuliusBrussee/caveman",
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "language": "Go",
+    "stars": 109500,
+    "stars_today": 505,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  }
+]
