@@ -1,0 +1,22 @@
+{
+  "mastodon": "Ponytail just hit 154k stars and gained 1,894 in a single day—because devs are obsessed with AI that codes like they do (lazy, brilliant, minimal).\n\n• E2E testing just got a speed run—web AND mobile in one framework.\n• Your AI's design instincts just leveled up from intern to art director.\n• Claude can finally sell things. Growth loops, conversion rates, the whole stack.\n• The laziest code wins. Your agent just learned the senior dev's secret.\n• Type descriptions, get CAD ge…",
+  "bluesky": "Ponytail just hit 154k stars and gained 1,894 in a single day—because devs are obsessed with AI that codes like they do (lazy, brilliant, minimal).\nWhich one are you shipping with first?",
+  "tagline": "Five repos that make AI agents actually useful.",
+  "cta_headline": "Get these before tomorrow.",
+  "cta_subtext": "Trending repos land here first—bookmark now so you're never behind the wave.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Ponytail just hit 154k stars and gained 1,894 in a single day—because devs are obsessed with AI that codes like they do (lazy, brilliant, minimal).",
+    "repo_lines": [
+      "E2E testing just got a speed run—web AND mobile in one framework.",
+      "Your AI's design instincts just leveled up from intern to art director.",
+      "Claude can finally sell things. Growth loops, conversion rates, the whole stack.",
+      "The laziest code wins. Your agent just learned the senior dev's secret.",
+      "Type descriptions, get CAD geometry. No CAD experience required."
+    ],
+    "closing_question": "Which one are you shipping with first?",
+    "tagline": "Five repos that make AI agents actually useful.",
+    "cta_headline": "Get these before tomorrow.",
+    "cta_subtext": "Trending repos land here first—bookmark now so you're never behind the wave."
+  }
+}

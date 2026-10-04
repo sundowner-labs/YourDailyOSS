@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "language": "TypeScript",
+    "stars": 3003,
+    "stars_today": 344,
+    "url": "https://github.com/tester-army/e2e"
+  },
+  {
+    "full_name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "stars": 76231,
+    "stars_today": 1170,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "full_name": "coreyhaines31/marketingskills",
+    "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "language": "JavaScript",
+    "stars": 53022,
+    "stars_today": 270,
+    "url": "https://github.com/coreyhaines31/marketingskills"
+  },
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 154788,
+    "stars_today": 1894,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "full_name": "earthtojake/text-to-cad",
+    "description": "Give your agent CAD superpowers.",
+    "language": "Python",
+    "stars": 16833,
+    "stars_today": 75,
+    "url": "https://github.com/earthtojake/text-to-cad"
+  }
+]
