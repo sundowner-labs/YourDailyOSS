@@ -1,0 +1,22 @@
+{
+  "mastodon": "A persistent memory layer for AI agents just hit 96k stars—and it's reshaping how every major LLM framework handles context.\n\n• E2E testing that actually scales to mobile without the usual DevOps nightmare.\n• Stop losing your agent's institutional knowledge between sessions.\n• Turning natural language into CAD models is no longer a pipe dream.\n• The T3 stack's spiritual successor—built for the modern AI era.\n• PS5 games running on Windows and Linux natively? The emulation wa…",
+  "bluesky": "A persistent memory layer for AI agents just hit 96k stars—and it's reshaping how every major LLM framework handles context.\nWhich one are you dropping into a project first—the testing framework or the agent memory layer?",
+  "tagline": "Five tools that just rewrote the rulebook.",
+  "cta_headline": "Stay ahead of the shift",
+  "cta_subtext": "Trending repos hit different when you see them before they reshape your entire stack.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A persistent memory layer for AI agents just hit 96k stars—and it's reshaping how every major LLM framework handles context.",
+    "repo_lines": [
+      "E2E testing that actually scales to mobile without the usual DevOps nightmare.",
+      "Stop losing your agent's institutional knowledge between sessions.",
+      "Turning natural language into CAD models is no longer a pipe dream.",
+      "The T3 stack's spiritual successor—built for the modern AI era.",
+      "PS5 games running on Windows and Linux natively? The emulation war just changed."
+    ],
+    "closing_question": "Which one are you dropping into a project first—the testing framework or the agent memory layer?",
+    "tagline": "Five tools that just rewrote the rulebook.",
+    "cta_headline": "Stay ahead of the shift",
+    "cta_subtext": "Trending repos hit different when you see them before they reshape your entire stack."
+  }
+}
