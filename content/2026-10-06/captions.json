@@ -1,22 +1,22 @@
 {
-  "mastodon": "A persistent memory layer for AI agents just hit 96k stars—and it's reshaping how every major LLM framework handles context.\n\n• E2E testing that actually scales to mobile without the usual DevOps nightmare.\n• Stop losing your agent's institutional knowledge between sessions.\n• Turning natural language into CAD models is no longer a pipe dream.\n• The T3 stack's spiritual successor—built for the modern AI era.\n• PS5 games running on Windows and Linux natively? The emulation wa…",
-  "bluesky": "A persistent memory layer for AI agents just hit 96k stars—and it's reshaping how every major LLM framework handles context.\nWhich one are you dropping into a project first—the testing framework or the agent memory layer?",
-  "tagline": "Five tools that just rewrote the rulebook.",
-  "cta_headline": "Stay ahead of the shift",
-  "cta_subtext": "Trending repos hit different when you see them before they reshape your entire stack.",
+  "mastodon": "Matt Pocock's skills repo just hit 278K stars—that's nearly 1K today alone.\n\n• E2E testing got a speed upgrade. Web + mobile in one framework.\n• Real engineer playbook, straight from the source. Study his actual workflow.\n• Text prompts → CAD files. Your AI just became a design tool.\n• PS5 games running on PC without a recompile. That's the dream.\n• Design systems built for AI output. Make your agent's work actually ship.\n\nWhich one are you shipping with first?",
+  "bluesky": "Matt Pocock's skills repo just hit 278K stars—that's nearly 1K today alone.\nWhich one are you shipping with first?",
+  "tagline": "Five tools rewriting what's possible today",
+  "cta_headline": "Trending repos before they blow up",
+  "cta_subtext": "New high-signal repos land daily. Follow to catch the next 278K-star moment.",
   "_meta": {
     "mode": "llm (claude-haiku-4-5-20251001)",
-    "hook": "A persistent memory layer for AI agents just hit 96k stars—and it's reshaping how every major LLM framework handles context.",
+    "hook": "Matt Pocock's skills repo just hit 278K stars—that's nearly 1K today alone.",
     "repo_lines": [
-      "E2E testing that actually scales to mobile without the usual DevOps nightmare.",
-      "Stop losing your agent's institutional knowledge between sessions.",
-      "Turning natural language into CAD models is no longer a pipe dream.",
-      "The T3 stack's spiritual successor—built for the modern AI era.",
-      "PS5 games running on Windows and Linux natively? The emulation war just changed."
+      "E2E testing got a speed upgrade. Web + mobile in one framework.",
+      "Real engineer playbook, straight from the source. Study his actual workflow.",
+      "Text prompts → CAD files. Your AI just became a design tool.",
+      "PS5 games running on PC without a recompile. That's the dream.",
+      "Design systems built for AI output. Make your agent's work actually ship."
     ],
-    "closing_question": "Which one are you dropping into a project first—the testing framework or the agent memory layer?",
-    "tagline": "Five tools that just rewrote the rulebook.",
-    "cta_headline": "Stay ahead of the shift",
-    "cta_subtext": "Trending repos hit different when you see them before they reshape your entire stack."
+    "closing_question": "Which one are you shipping with first?",
+    "tagline": "Five tools rewriting what's possible today",
+    "cta_headline": "Trending repos before they blow up",
+    "cta_subtext": "New high-signal repos land daily. Follow to catch the next 278K-star moment."
   }
 }
