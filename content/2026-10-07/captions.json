@@ -1,0 +1,22 @@
+{
+  "mastodon": "279,543 stars and counting—one engineer just open-sourced their entire .agents playbook.\n\n• Reverse-engineer closed apps and binaries with AI agents doing the tedious work for you.\n• Real engineer wisdom distilled into reproducible patterns you can actually use today.\n• Play PS5 games on Linux/Windows without emulation hell—native ports, automated.\n• Stop your coding agent from writing 50-line essays when you need one answer.\n• 42 diagram types, zero design debt—copy-paste H…",
+  "bluesky": "279,543 stars and counting—one engineer just open-sourced their entire .agents playbook.\nWhich of these are you shipping with first?",
+  "tagline": "Five tools from engineers who got tired of waiting.",
+  "cta_headline": "Don't miss the next wave.",
+  "cta_subtext": "Trending repos hit different here—no hype, just code that's moving fast today.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "279,543 stars and counting—one engineer just open-sourced their entire .agents playbook.",
+    "repo_lines": [
+      "Reverse-engineer closed apps and binaries with AI agents doing the tedious work for you.",
+      "Real engineer wisdom distilled into reproducible patterns you can actually use today.",
+      "Play PS5 games on Linux/Windows without emulation hell—native ports, automated.",
+      "Stop your coding agent from writing 50-line essays when you need one answer.",
+      "42 diagram types, zero design debt—copy-paste HTML+SVG for AI tools that actually work."
+    ],
+    "closing_question": "Which of these are you shipping with first?",
+    "tagline": "Five tools from engineers who got tired of waiting.",
+    "cta_headline": "Don't miss the next wave.",
+    "cta_subtext": "Trending repos hit different here—no hype, just code that's moving fast today."
+  }
+}

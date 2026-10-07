@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 14820,
+    "stars_today": 4666,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 279543,
+    "stars_today": 1406,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "full_name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 10428,
+    "stars_today": 2725,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "full_name": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "stars": 55081,
+    "stars_today": 620,
+    "url": "https://github.com/ayghri/i-have-adhd"
+  },
+  {
+    "full_name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 44930,
+    "stars_today": 828,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  }
+]
