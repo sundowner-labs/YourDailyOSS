@@ -1,0 +1,22 @@
+{
+  "mastodon": "A TypeScript agent framework just jumped 7,744 stars in one day—reverse engineering anything from apps to binaries.\n\n• PS5 games on Linux/Windows without the porting headache. Automation that actually works.\n• 42 diagram types, pure HTML/SVG, zero bloat. Design systems finally done right.\n• Agents that can dissect any black box—binaries, apps, behavior. Actual reverse engineering at scale.\n• Matt Pocock's full playbook for building real production systems. Not theory, not hy…",
+  "bluesky": "A TypeScript agent framework just jumped 7,744 stars in one day—reverse engineering anything from apps to binaries.\nWhich one are you spinning up first—the reverse engineer or the persistent memory layer?",
+  "tagline": "Today's tools actually ship what they promise",
+  "cta_headline": "Don't miss tomorrow's surge",
+  "cta_subtext": "We catch repos before they hit mainstream. Follow for early signal on what's actually moving.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A TypeScript agent framework just jumped 7,744 stars in one day—reverse engineering anything from apps to binaries.",
+    "repo_lines": [
+      "PS5 games on Linux/Windows without the porting headache. Automation that actually works.",
+      "42 diagram types, pure HTML/SVG, zero bloat. Design systems finally done right.",
+      "Agents that can dissect any black box—binaries, apps, behavior. Actual reverse engineering at scale.",
+      "Matt Pocock's full playbook for building real production systems. Not theory, not hype.",
+      "Your agent remembers everything. Context persists, compresses, and comes back smarter next session."
+    ],
+    "closing_question": "Which one are you spinning up first—the reverse engineer or the persistent memory layer?",
+    "tagline": "Today's tools actually ship what they promise",
+    "cta_headline": "Don't miss tomorrow's surge",
+    "cta_subtext": "We catch repos before they hit mainstream. Follow for early signal on what's actually moving."
+  }
+}
