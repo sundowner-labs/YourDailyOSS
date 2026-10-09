@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 44571,
+    "stars_today": 15335,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "full_name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 22048,
+    "stars_today": 5925,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "full_name": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 282602,
+    "stars_today": 1696,
+    "url": "https://github.com/mattpocock/skills"
+  },
+  {
+    "full_name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 47813,
+    "stars_today": 1744,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "full_name": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars": 45159,
+    "stars_today": 323,
+    "url": "https://github.com/alibaba/open-code-review"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "mastodon": "Someone reverse-engineered an entire app down to native binaries with AI agents and gained 15k stars in one day.\n\n• Agents that can actually reverse-engineer app behavior and binaries—not just generate docs.\n• Play PS5 games on Linux and Windows automatically. The port that Valve wished they built.\n• 282k stars: the engineering skills playbook from someone who actually ships at scale.\n• 42 diagram types designed for Claude/Copilot workflows—finally something that isn't Merma…",
+  "bluesky": "Someone reverse-engineered an entire app down to native binaries with AI agents and gained 15k stars in one day.\nWhich one are you cloning into a personal project first?",
+  "tagline": "The repos engineers are actually building with right now.",
+  "cta_headline": "Don't miss tomorrow's wave",
+  "cta_subtext": "New high-velocity repos hit daily—stay ahead of what's shipping in your stack.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Someone reverse-engineered an entire app down to native binaries with AI agents and gained 15k stars in one day.",
+    "repo_lines": [
+      "Agents that can actually reverse-engineer app behavior and binaries—not just generate docs.",
+      "Play PS5 games on Linux and Windows automatically. The port that Valve wished they built.",
+      "282k stars: the engineering skills playbook from someone who actually ships at scale.",
+      "42 diagram types designed for Claude/Copilot workflows—finally something that isn't Mermaid.",
+      "Alibaba's code review tool catches NPE, XSS, and thread-safety bugs before humans miss them."
+    ],
+    "closing_question": "Which one are you cloning into a personal project first?",
+    "tagline": "The repos engineers are actually building with right now.",
+    "cta_headline": "Don't miss tomorrow's wave",
+    "cta_subtext": "New high-velocity repos hit daily—stay ahead of what's shipping in your stack."
+  }
+}
