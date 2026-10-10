@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 70556,
+    "stars_today": 25784,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "full_name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 26514,
+    "stars_today": 5831,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "full_name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 14263,
+    "stars_today": 3217,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "full_name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 48862,
+    "stars_today": 1189,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "full_name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 26274,
+    "stars_today": 178,
+    "url": "https://github.com/mksglu/context-mode"
+  }
+]

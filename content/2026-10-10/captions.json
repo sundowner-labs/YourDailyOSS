@@ -1,0 +1,22 @@
+{
+  "mastodon": "+25,784 stars in 24 hours—REA just dropped a reverse-engineering agent that goes from app behavior straight down to native binaries.\n\n• Agents that actually understand how software works, not just guess.\n• PS5 ports to Linux/Windows without the manual pain. Automation that scales.\n• Designers finally get a parametric engine built for iteration, not compromise.\n• Stop fighting Mermaid. 44 diagram types, pure HTML+SVG, zero visual debt.\n• AI coding agents that don't choke. 98%…",
+  "bluesky": "+25,784 stars in 24 hours—REA just dropped a reverse-engineering agent that goes from app behavior straight down to native binaries.\nWhich one are you deploying first—reverse-engineering, porting, or design acceleration?",
+  "tagline": "Five repos reshaping how we build, design, and understand software.",
+  "cta_headline": "Don't miss tomorrow's wave",
+  "cta_subtext": "Trending repos with real impact, every morning. Subscribe for the ones that move fast.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "+25,784 stars in 24 hours—REA just dropped a reverse-engineering agent that goes from app behavior straight down to native binaries.",
+    "repo_lines": [
+      "Agents that actually understand how software works, not just guess.",
+      "PS5 ports to Linux/Windows without the manual pain. Automation that scales.",
+      "Designers finally get a parametric engine built for iteration, not compromise.",
+      "Stop fighting Mermaid. 44 diagram types, pure HTML+SVG, zero visual debt.",
+      "AI coding agents that don't choke. 98% output reduction, persistent memory, routing magic."
+    ],
+    "closing_question": "Which one are you deploying first—reverse-engineering, porting, or design acceleration?",
+    "tagline": "Five repos reshaping how we build, design, and understand software.",
+    "cta_headline": "Don't miss tomorrow's wave",
+    "cta_subtext": "Trending repos with real impact, every morning. Subscribe for the ones that move fast."
+  }
+}
