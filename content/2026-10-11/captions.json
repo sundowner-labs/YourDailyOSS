@@ -1,0 +1,22 @@
+{
+  "mastodon": "One repo gained 25k stars in a single day by letting you reverse-engineer literally anything—binaries, apps, the whole stack.\n\n• AI agents that dissect apps and binaries so you don't have to manually trace every function call\n• PS5 games on Linux/Windows without waiting for official ports; the emulation gap just got smaller\n• Stop fighting your tools—a rendering engine that thinks like a creative, not a game engine\n• Diagrams that actually work with AI code assistants; 44 ty…",
+  "bluesky": "One repo gained 25k stars in a single day by letting you reverse-engineer literally anything—binaries, apps, the whole stack.\nWhich one are you diving into first—the reverse engineering toolkit or the spy satellite sim?",
+  "tagline": "Five repos reshaping what code can do today",
+  "cta_headline": "Don't miss tomorrow's wave",
+  "cta_subtext": "New trending repos hit your feed before Hacker News wakes up. Follow for the raw edge.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "One repo gained 25k stars in a single day by letting you reverse-engineer literally anything—binaries, apps, the whole stack.",
+    "repo_lines": [
+      "AI agents that dissect apps and binaries so you don't have to manually trace every function call",
+      "PS5 games on Linux/Windows without waiting for official ports; the emulation gap just got smaller",
+      "Stop fighting your tools—a rendering engine that thinks like a creative, not a game engine",
+      "Diagrams that actually work with AI code assistants; 44 types, zero Mermaid bloat",
+      "Real satellite imagery, real-time, playable in your browser like a geopolitics game that isn't fiction"
+    ],
+    "closing_question": "Which one are you diving into first—the reverse engineering toolkit or the spy satellite sim?",
+    "tagline": "Five repos reshaping what code can do today",
+    "cta_headline": "Don't miss tomorrow's wave",
+    "cta_subtext": "New trending repos hit your feed before Hacker News wakes up. Follow for the raw edge."
+  }
+}

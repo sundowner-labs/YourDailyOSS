@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 101857,
+    "stars_today": 25585,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "full_name": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 29894,
+    "stars_today": 3977,
+    "url": "https://github.com/boykopovar/AnyPS5"
+  },
+  {
+    "full_name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 17667,
+    "stars_today": 2956,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "full_name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 50239,
+    "stars_today": 1083,
+    "url": "https://github.com/cathrynlavery/diagram-design"
+  },
+  {
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 51548,
+    "stars_today": 872,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  }
+]
