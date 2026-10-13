@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 158176,
+    "stars_today": 45327,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "language": "JavaScript",
+    "stars": 53706,
+    "stars_today": 1895,
+    "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "full_name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 27300,
+    "stars_today": 246,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "full_name": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 22086,
+    "stars_today": 4095,
+    "url": "https://github.com/storytold/artcraft"
+  },
+  {
+    "full_name": "open-webui/open-webui",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "language": "Python",
+    "stars": 155020,
+    "stars_today": 157,
+    "url": "https://github.com/open-webui/open-webui"
+  }
+]
