@@ -3,40 +3,40 @@
     "full_name": "morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "language": "TypeScript",
-    "stars": 158176,
-    "stars_today": 45327,
+    "stars": 205598,
+    "stars_today": 54706,
     "url": "https://github.com/morluto/rea"
   },
   {
     "full_name": "bilawalsidhu/gods-eye-view",
     "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
     "language": "JavaScript",
-    "stars": 53706,
-    "stars_today": 1895,
+    "stars": 55294,
+    "stars_today": 1961,
     "url": "https://github.com/bilawalsidhu/gods-eye-view"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 63116,
+    "stars_today": 2277,
+    "url": "https://github.com/debpalash/VoiceStudio"
   },
   {
     "full_name": "mksglu/context-mode",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
     "language": "TypeScript",
-    "stars": 27300,
-    "stars_today": 246,
+    "stars": 28187,
+    "stars_today": 978,
     "url": "https://github.com/mksglu/context-mode"
   },
   {
-    "full_name": "storytold/artcraft",
-    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-    "language": "Rust",
-    "stars": 22086,
-    "stars_today": 4095,
-    "url": "https://github.com/storytold/artcraft"
-  },
-  {
-    "full_name": "open-webui/open-webui",
-    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-    "language": "Python",
-    "stars": 155020,
-    "stars_today": 157,
-    "url": "https://github.com/open-webui/open-webui"
+    "full_name": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 54027,
+    "stars_today": 1813,
+    "url": "https://github.com/cathrynlavery/diagram-design"
   }
 ]

@@ -1,22 +1,22 @@
 {
-  "mastodon": "45K stars in a single day: rea just crossed 158K by letting agents reverse-engineer literally anything, from app UIs down to compiled binaries.\n\n• Stop guessing how apps work—agents do the reversing for you, binaries included.\n• Real satellite data, real-time, rendered on a photorealistic globe. Spy tech, open source.\n• AI agents drowning in context? This compresses tool output by 98% while keeping memory sharp.\n• Rust-powered crafting engine built specifically for artists w…",
-  "bluesky": "45K stars in a single day: rea just crossed 158K by letting agents reverse-engineer literally anything, from app UIs down to compiled binaries.\nWhich of these are you spinning up first—the reverse engineering lab or the satellite tracker?",
-  "tagline": "Five repos redefining what's possible",
-  "cta_headline": "New trending drop every morning",
-  "cta_subtext": "Catch repos hitting 40K+ stars before they blow up everywhere else.",
+  "mastodon": "54,706 stars in a single day: rea just became the fastest-climbing repo on GitHub, and it's a complete game-changer for reverse engineering.\n\n• Agents that autonomously dissect apps and binaries—no manual RE work.\n• Live satellite imagery + real geospatial data in a browser. Spying made accessible.\n• Drop ElevenLabs entirely. Local voice cloning, dubbing, and transcription in 646 languages.\n• AI agents that fit their entire context window without losing memory or trashing to…",
+  "bluesky": "54,706 stars in a single day: rea just became the fastest-climbing repo on GitHub, and it's a complete game-changer for reverse engineering.\nWhich one are you shipping with first—the agent toolkit or the satellite globe?",
+  "tagline": "Five repos reshaping how we build, analyze, and create",
+  "cta_headline": "Trending hits your inbox daily",
+  "cta_subtext": "Get repos like these before they explode, curated for builders and architects who move fast.",
   "_meta": {
     "mode": "llm (claude-haiku-4-5-20251001)",
-    "hook": "45K stars in a single day: rea just crossed 158K by letting agents reverse-engineer literally anything, from app UIs down to compiled binaries.",
+    "hook": "54,706 stars in a single day: rea just became the fastest-climbing repo on GitHub, and it's a complete game-changer for reverse engineering.",
     "repo_lines": [
-      "Stop guessing how apps work—agents do the reversing for you, binaries included.",
-      "Real satellite data, real-time, rendered on a photorealistic globe. Spy tech, open source.",
-      "AI agents drowning in context? This compresses tool output by 98% while keeping memory sharp.",
-      "Rust-powered crafting engine built specifically for artists who want procedural intentionality.",
-      "One interface to rule them all—connect Ollama, OpenAI, or anything MCP-compatible instantly."
+      "Agents that autonomously dissect apps and binaries—no manual RE work.",
+      "Live satellite imagery + real geospatial data in a browser. Spying made accessible.",
+      "Drop ElevenLabs entirely. Local voice cloning, dubbing, and transcription in 646 languages.",
+      "AI agents that fit their entire context window without losing memory or trashing tools.",
+      "44 diagram templates built for Claude, Copilot, Cursor—clean, semantic, zero bloat."
     ],
-    "closing_question": "Which of these are you spinning up first—the reverse engineering lab or the satellite tracker?",
-    "tagline": "Five repos redefining what's possible",
-    "cta_headline": "New trending drop every morning",
-    "cta_subtext": "Catch repos hitting 40K+ stars before they blow up everywhere else."
+    "closing_question": "Which one are you shipping with first—the agent toolkit or the satellite globe?",
+    "tagline": "Five repos reshaping how we build, analyze, and create",
+    "cta_headline": "Trending hits your inbox daily",
+    "cta_subtext": "Get repos like these before they explode, curated for builders and architects who move fast."
   }
 }
