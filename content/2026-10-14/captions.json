@@ -1,0 +1,22 @@
+{
+  "mastodon": "41K stars in a single day: rea just showed the world how to reverse-engineer anything with AI agents.\n\n• Black-box app behavior → full native binary breakdown. The reverse-engineering speedrun.\n• Local voice cloning that doesn't phone home. 646 languages, zero subscription.\n• Your AI coder's brain was too big for the task. Context Mode just made it 98% smaller.\n• nvm is still the reason half your team doesn't have Node version hell. Still winning.\n• 177 validated skills + 10…",
+  "bluesky": "41K stars in a single day: rea just showed the world how to reverse-engineer anything with AI agents.\nWhich one are you spinning up in the next hour?",
+  "tagline": "AI agents level up today",
+  "cta_headline": "Stay ahead of the surge",
+  "cta_subtext": "Trending hits your feed before they hit HN. New batch every morning at 9am UTC.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "41K stars in a single day: rea just showed the world how to reverse-engineer anything with AI agents.",
+    "repo_lines": [
+      "Black-box app behavior → full native binary breakdown. The reverse-engineering speedrun.",
+      "Local voice cloning that doesn't phone home. 646 languages, zero subscription.",
+      "Your AI coder's brain was too big for the task. Context Mode just made it 98% smaller.",
+      "nvm is still the reason half your team doesn't have Node version hell. Still winning.",
+      "177 validated skills + 100+ scientific DBs. Your AI just became a research lab."
+    ],
+    "closing_question": "Which one are you spinning up in the next hour?",
+    "tagline": "AI agents level up today",
+    "cta_headline": "Stay ahead of the surge",
+    "cta_subtext": "Trending hits your feed before they hit HN. New batch every morning at 9am UTC."
+  }
+}

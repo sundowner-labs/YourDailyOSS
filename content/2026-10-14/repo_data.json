@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 239601,
+    "stars_today": 41187,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 66086,
+    "stars_today": 3547,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  },
+  {
+    "full_name": "mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 29036,
+    "stars_today": 946,
+    "url": "https://github.com/mksglu/context-mode"
+  },
+  {
+    "full_name": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "language": "Shell",
+    "stars": 95440,
+    "stars_today": 70,
+    "url": "https://github.com/nvm-sh/nvm"
+  },
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 49257,
+    "stars_today": 146,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  }
+]
