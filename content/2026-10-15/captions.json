@@ -1,0 +1,22 @@
+{
+  "mastodon": "250,000+ scientists are already using one of these five repos—and one just gained 3,027 stars in a day.\n\n• Reverse engineer any app or binary with AI agents doing the detective work for you.\n• Claude's official plugin library just hit 39k stars—the canonical place to build.\n• Stop reinventing the wheel: 177 validated science skills + 100+ databases in one package.\n• Agents talking like cavemen save 65% of your tokens. Yes, really.\n• Clone voices in 646 languages locally—no v…",
+  "bluesky": "250,000+ scientists are already using one of these five repos—and one just gained 3,027 stars in a day.\nWhich one are you shipping with first?",
+  "tagline": "Five repos reshaping what agents can actually do.",
+  "cta_headline": "Get trending repos before everyone else.",
+  "cta_subtext": "Daily carousel with the repos gaining real momentum—not just high star counts.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "250,000+ scientists are already using one of these five repos—and one just gained 3,027 stars in a day.",
+    "repo_lines": [
+      "Reverse engineer any app or binary with AI agents doing the detective work for you.",
+      "Claude's official plugin library just hit 39k stars—the canonical place to build.",
+      "Stop reinventing the wheel: 177 validated science skills + 100+ databases in one package.",
+      "Agents talking like cavemen save 65% of your tokens. Yes, really.",
+      "Clone voices in 646 languages locally—no vendor lock-in, full control."
+    ],
+    "closing_question": "Which one are you shipping with first?",
+    "tagline": "Five repos reshaping what agents can actually do.",
+    "cta_headline": "Get trending repos before everyone else.",
+    "cta_subtext": "Daily carousel with the repos gaining real momentum—not just high star counts."
+  }
+}

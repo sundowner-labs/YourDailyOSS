@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 268230,
+    "stars_today": 32282,
+    "url": "https://github.com/morluto/rea"
+  },
+  {
+    "full_name": "anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 38978,
+    "stars_today": 525,
+    "url": "https://github.com/anthropics/claude-plugins-official"
+  },
+  {
+    "full_name": "K-Dense-AI/scientific-agent-skills",
+    "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "language": "Python",
+    "stars": 50383,
+    "stars_today": 1091,
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+  },
+  {
+    "full_name": "JuliusBrussee/caveman",
+    "description": "\ud83e\udea8 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "language": "Go",
+    "stars": 112466,
+    "stars_today": 530,
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  {
+    "full_name": "debpalash/VoiceStudio",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "stars": 68882,
+    "stars_today": 3027,
+    "url": "https://github.com/debpalash/VoiceStudio"
+  }
+]
