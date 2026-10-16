@@ -1,0 +1,22 @@
+{
+  "mastodon": "250,000+ scientists are using one library to turn any AI into a research powerhouse—and it just hit 51k stars.\n\n• Anthropic's official plugin ecosystem is growing fast—the vetted foundation everyone's building on.\n• 177 validated skills + 100+ scientific databases: the cheat code for AI-driven research at scale.\n• Performance optimization so aggressive it cuts agent tool bloat by 98%—your context window will thank you.\n• Stop building CLI tools manually. Make every software…",
+  "bluesky": "250,000+ scientists are using one library to turn any AI into a research powerhouse—and it just hit 51k stars.\nWhich of these are you dropping into your workflow first?",
+  "tagline": "The agent stack leveling up right now",
+  "cta_headline": "Don't miss tomorrow's breakthroughs",
+  "cta_subtext": "We surface the repos actually reshaping AI development—before they hit mainstream.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "250,000+ scientists are using one library to turn any AI into a research powerhouse—and it just hit 51k stars.",
+    "repo_lines": [
+      "Anthropic's official plugin ecosystem is growing fast—the vetted foundation everyone's building on.",
+      "177 validated skills + 100+ scientific databases: the cheat code for AI-driven research at scale.",
+      "Performance optimization so aggressive it cuts agent tool bloat by 98%—your context window will thank you.",
+      "Stop building CLI tools manually. Make every software natively agent-compatible in minutes.",
+      "Memory that sticks, routing that scales, and context that doesn't explode—across 17 platforms."
+    ],
+    "closing_question": "Which of these are you dropping into your workflow first?",
+    "tagline": "The agent stack leveling up right now",
+    "cta_headline": "Don't miss tomorrow's breakthroughs",
+    "cta_subtext": "We surface the repos actually reshaping AI development—before they hit mainstream."
+  }
+}
