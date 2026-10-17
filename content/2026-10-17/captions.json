@@ -1,0 +1,22 @@
+{
+  "mastodon": "282K stars and climbing: the agent optimization system that's redefining how Claude, Cursor, and Codex actually perform in production.\n\n• Anthropic's official plugin directory—the vetted stuff your Claude setup is actually missing.\n• Your CV gets auto-tailored, cover letters write themselves, interviews prep in real-time. Job search on autopilot.\n• Performance tuning for AI agents at scale. Skills, memory, security, research—the ops layer nobody built until now.\n• Every soft…",
+  "bluesky": "282K stars and climbing: the agent optimization system that's redefining how Claude, Cursor, and Codex actually perform in production.\nWhich one are you deploying first—the job hunt automation or the agent performance layer?",
+  "tagline": "The AI agent infrastructure era just got real",
+  "cta_headline": "Agent stacks move fast here",
+  "cta_subtext": "New frameworks, plugins, and optimizations hit daily—stay ahead of the curve.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "282K stars and climbing: the agent optimization system that's redefining how Claude, Cursor, and Codex actually perform in production.",
+    "repo_lines": [
+      "Anthropic's official plugin directory—the vetted stuff your Claude setup is actually missing.",
+      "Your CV gets auto-tailored, cover letters write themselves, interviews prep in real-time. Job search on autopilot.",
+      "Performance tuning for AI agents at scale. Skills, memory, security, research—the ops layer nobody built until now.",
+      "Every software tool becomes agent-native overnight. CLI-Anything bridges the gap between agents and the real world.",
+      "177 validated research skills + 100+ scientific databases. Turns any agent into a working scientist. 250K+ already using it."
+    ],
+    "closing_question": "Which one are you deploying first—the job hunt automation or the agent performance layer?",
+    "tagline": "The AI agent infrastructure era just got real",
+    "cta_headline": "Agent stacks move fast here",
+    "cta_subtext": "New frameworks, plugins, and optimizations hit daily—stay ahead of the curve."
+  }
+}
