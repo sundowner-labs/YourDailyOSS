@@ -1,0 +1,22 @@
+{
+  "mastodon": "A TypeScript coding agent just hit 216k stars—that's the entire top 5 combined, and it's still climbing.\n\n• Stop applying manually. Your CV rewrites itself while you sleep.\n• Anthropic just dropped the canonical plugin playbook. Go read it.\n• The agent that started it all. Now watching 1,400+ devs fork it today.\n• Cursor's plugin ecosystem is real. Here's the spec that makes it work.\n• Deploy entire AI swarms, not single chatbots. Memory + reasoning included.\n\nWhich one are…",
+  "bluesky": "A TypeScript coding agent just hit 216k stars—that's the entire top 5 combined, and it's still climbing.\nWhich one are you spinning up first—the job hunt automator or a full agent swarm?",
+  "tagline": "The agent moment is here. Five ways to build it.",
+  "cta_headline": "Join 50k+ daily",
+  "cta_subtext": "Real repos, real stars, real code moving fast. New trending stack every morning.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A TypeScript coding agent just hit 216k stars—that's the entire top 5 combined, and it's still climbing.",
+    "repo_lines": [
+      "Stop applying manually. Your CV rewrites itself while you sleep.",
+      "Anthropic just dropped the canonical plugin playbook. Go read it.",
+      "The agent that started it all. Now watching 1,400+ devs fork it today.",
+      "Cursor's plugin ecosystem is real. Here's the spec that makes it work.",
+      "Deploy entire AI swarms, not single chatbots. Memory + reasoning included."
+    ],
+    "closing_question": "Which one are you spinning up first—the job hunt automator or a full agent swarm?",
+    "tagline": "The agent moment is here. Five ways to build it.",
+    "cta_headline": "Join 50k+ daily",
+    "cta_subtext": "Real repos, real stars, real code moving fast. New trending stack every morning."
+  }
+}
