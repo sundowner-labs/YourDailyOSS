@@ -1,0 +1,22 @@
+{
+  "mastodon": "217K stars and climbing: the open source coding agent that's replacing junior devs is trending *hard* today.\n\n• Stop applying manually. This runs your entire job hunt while you sleep.\n• One repo to rule them all—the agent framework companies are actually shipping.\n• Agents forget things. This gives them a real memory between conversations.\n• Local image generation so fast it makes cloud inference look quaint.\n• Multi-agent orchestration that actually works. Deploy swarms, no…",
+  "bluesky": "217K stars and climbing: the open source coding agent that's replacing junior devs is trending *hard* today.\nWhich one are you deploying first—the job bot, the coding agent, or the swarm?",
+  "tagline": "Five repos redefining what code can do.",
+  "cta_headline": "Stay ahead of the shift.",
+  "cta_subtext": "Trending repos land here before anywhere else. Don't get left behind.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "217K stars and climbing: the open source coding agent that's replacing junior devs is trending *hard* today.",
+    "repo_lines": [
+      "Stop applying manually. This runs your entire job hunt while you sleep.",
+      "One repo to rule them all—the agent framework companies are actually shipping.",
+      "Agents forget things. This gives them a real memory between conversations.",
+      "Local image generation so fast it makes cloud inference look quaint.",
+      "Multi-agent orchestration that actually works. Deploy swarms, not scripts."
+    ],
+    "closing_question": "Which one are you deploying first—the job bot, the coding agent, or the swarm?",
+    "tagline": "Five repos redefining what code can do.",
+    "cta_headline": "Stay ahead of the shift.",
+    "cta_subtext": "Trending repos land here before anywhere else. Don't get left behind."
+  }
+}
