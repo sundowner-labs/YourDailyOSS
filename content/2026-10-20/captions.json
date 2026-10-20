@@ -1,0 +1,22 @@
+{
+  "mastodon": "A TypeScript agent orchestrator just hit 99k stars in a single day—and it's not even the fastest trending repo here.\n\n• Your CV auto-tailors itself. Job hunting gets a Claude-powered co-pilot that actually ships applications.\n• Security audits that write their own reports. Machine-readable findings you can actually trust and verify.\n• Stop switching between five agent platforms. Orca runs any coding agent with your API keys, no vendor lock-in.\n• Rubber-duck debugging meets l…",
+  "bluesky": "A TypeScript agent orchestrator just hit 99k stars in a single day—and it's not even the fastest trending repo here.\nWhich one are you spinning up first—the job automation angle or the agent fleet multiplayer?",
+  "tagline": "Five repos reshaping how we work with AI today",
+  "cta_headline": "Trending repos, every single day",
+  "cta_subtext": "Get five high-signal repos before your feed buries them. New carousel every morning at 7am UTC.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A TypeScript agent orchestrator just hit 99k stars in a single day—and it's not even the fastest trending repo here.",
+    "repo_lines": [
+      "Your CV auto-tailors itself. Job hunting gets a Claude-powered co-pilot that actually ships applications.",
+      "Security audits that write their own reports. Machine-readable findings you can actually trust and verify.",
+      "Stop switching between five agent platforms. Orca runs any coding agent with your API keys, no vendor lock-in.",
+      "Rubber-duck debugging meets laziness. Generates the minimum viable code—because refactoring is for people with time.",
+      "Local diffusion inference that laps everything else. If you're running image models, this is your new backbone."
+    ],
+    "closing_question": "Which one are you spinning up first—the job automation angle or the agent fleet multiplayer?",
+    "tagline": "Five repos reshaping how we work with AI today",
+    "cta_headline": "Trending repos, every single day",
+    "cta_subtext": "Get five high-signal repos before your feed buries them. New carousel every morning at 7am UTC."
+  }
+}

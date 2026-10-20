@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "MadsLorentzen/ai-job-search",
+    "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+    "language": "Python",
+    "stars": 60348,
+    "stars_today": 3890,
+    "url": "https://github.com/MadsLorentzen/ai-job-search"
+  },
+  {
+    "full_name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 33989,
+    "stars_today": 1680,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "full_name": "stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "stars": 99643,
+    "stars_today": 1559,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 169504,
+    "stars_today": 1396,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
+    "full_name": "Comfy-Org/ComfyUI",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "language": "Python",
+    "stars": 140695,
+    "stars_today": 1201,
+    "url": "https://github.com/Comfy-Org/ComfyUI"
+  }
+]
