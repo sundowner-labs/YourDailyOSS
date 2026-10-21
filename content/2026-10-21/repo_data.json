@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 36129,
+    "stars_today": 1997,
+    "url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "full_name": "vllm-project/vllm",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "language": "Python",
+    "stars": 94827,
+    "stars_today": 439,
+    "url": "https://github.com/vllm-project/vllm"
+  },
+  {
+    "full_name": "stablyai/orca",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "stars": 101139,
+    "stars_today": 1543,
+    "url": "https://github.com/stablyai/orca"
+  },
+  {
+    "full_name": "headroomlabs-ai/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "stars": 77207,
+    "stars_today": 477,
+    "url": "https://github.com/headroomlabs-ai/headroom"
+  },
+  {
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 171465,
+    "stars_today": 2051,
+    "url": "https://github.com/DietrichGebert/ponytail"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "mastodon": "Someone just added 2,051 stars to a repo about writing less code—and it's actually the move.\n\n• Security audits that run themselves, findings you can actually trust and parse\n• The inference engine that's quietly powering half the AI startups you've heard of\n• Stop juggling Claude, Grok, and whatever else—orchestrate your entire agent fleet here\n• Your LLM is drowning in token spam. This cuts JSON bloat by 60-95%. Ship faster.\n• Laziness as a feature: the best refactor is th…",
+  "bluesky": "Someone just added 2,051 stars to a repo about writing less code—and it's actually the move.\nWhich one are you shipping with first—the audit, the inference layer, or the agent multiplayer?",
+  "tagline": "today's repos are building the infrastructure",
+  "cta_headline": "Don't miss tomorrow's wave",
+  "cta_subtext": "Fresh trending repos hit your feed daily—stay ahead of what's actually shipping.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Someone just added 2,051 stars to a repo about writing less code—and it's actually the move.",
+    "repo_lines": [
+      "Security audits that run themselves, findings you can actually trust and parse",
+      "The inference engine that's quietly powering half the AI startups you've heard of",
+      "Stop juggling Claude, Grok, and whatever else—orchestrate your entire agent fleet here",
+      "Your LLM is drowning in token spam. This cuts JSON bloat by 60-95%. Ship faster.",
+      "Laziness as a feature: the best refactor is the one your AI agent skips entirely"
+    ],
+    "closing_question": "Which one are you shipping with first—the audit, the inference layer, or the agent multiplayer?",
+    "tagline": "today's repos are building the infrastructure",
+    "cta_headline": "Don't miss tomorrow's wave",
+    "cta_subtext": "Fresh trending repos hit your feed daily—stay ahead of what's actually shipping."
+  }
+}
