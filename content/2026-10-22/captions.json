@@ -1,0 +1,22 @@
+{
+  "mastodon": "A security audit tool just gained 2,979 stars in 24 hours—here's what else hit GitHub trending today.\n\n• The language powering half the web just got 423 fresh commits. Core interpreter dev moves fast.\n• Claude's plugin ecosystem just opened up. Knowledge workers are about to automate their entire workflow.\n• One dev figured out how to make AI agents write way less code. Laziness as a feature, not a bug.\n• Multi-phase security audits that actually prove what they found. No mo…",
+  "bluesky": "A security audit tool just gained 2,979 stars in 24 hours—here's what else hit GitHub trending today.\nWhich one are you installing in your stack first?",
+  "tagline": "Five repos reshaping how we build and ship.",
+  "cta_headline": "New trending repos daily.",
+  "cta_subtext": "We surface the tools and patterns shipping right now—before they blow up.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A security audit tool just gained 2,979 stars in 24 hours—here's what else hit GitHub trending today.",
+    "repo_lines": [
+      "The language powering half the web just got 423 fresh commits. Core interpreter dev moves fast.",
+      "Claude's plugin ecosystem just opened up. Knowledge workers are about to automate their entire workflow.",
+      "One dev figured out how to make AI agents write way less code. Laziness as a feature, not a bug.",
+      "Multi-phase security audits that actually prove what they found. No more hand-waving threat reports.",
+      "Skip vector stores forever. Turn your entire codebase into a graph Claude can actually reason about."
+    ],
+    "closing_question": "Which one are you installing in your stack first?",
+    "tagline": "Five repos reshaping how we build and ship.",
+    "cta_headline": "New trending repos daily.",
+    "cta_subtext": "We surface the tools and patterns shipping right now—before they blow up."
+  }
+}
