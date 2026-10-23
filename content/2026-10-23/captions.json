@@ -1,0 +1,22 @@
+{
+  "mastodon": "A security audit agent gained 2,706 stars overnight—here's what else moved the needle today.\n\n• AI that audits code faster than humans, with cryptographically verified proof it found real bugs.\n• PHP powers 77% of the web—this is where the magic actually happens.\n• Claude just got a plugin ecosystem. Knowledge workers are about to work very differently.\n• Runtime sandbox for AI agents that actually lets them run without burning your infrastructure down.\n• Open-source fortune…",
+  "bluesky": "A security audit agent gained 2,706 stars overnight—here's what else moved the needle today.\nWhich repo are you cloning first—the security one or the agent runtime?",
+  "tagline": "When AI audits code, PHP goes runtime, Claude gets plugins",
+  "cta_headline": "Trending daily, right here",
+  "cta_subtext": "Get the repos moving the needle before they hit mainstream—fresh intel every 24h.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A security audit agent gained 2,706 stars overnight—here's what else moved the needle today.",
+    "repo_lines": [
+      "AI that audits code faster than humans, with cryptographically verified proof it found real bugs.",
+      "PHP powers 77% of the web—this is where the magic actually happens.",
+      "Claude just got a plugin ecosystem. Knowledge workers are about to work very differently.",
+      "Runtime sandbox for AI agents that actually lets them run without burning your infrastructure down.",
+      "Open-source fortune-telling engine: classical Chinese astronomy meets modern algorithm design."
+    ],
+    "closing_question": "Which repo are you cloning first—the security one or the agent runtime?",
+    "tagline": "When AI audits code, PHP goes runtime, Claude gets plugins",
+    "cta_headline": "Trending daily, right here",
+    "cta_subtext": "Get the repos moving the needle before they hit mainstream—fresh intel every 24h."
+  }
+}
