@@ -1,0 +1,22 @@
+{
+  "mastodon": "Cloudflare's security audit agent jumped 2,271 stars in one day—and it's forcing a reckoning with how we actually verify AI-generated code.\n\n• Autonomous security audits that produce machine-readable proof. No hand-waving.\n• Runtime sandbox for AI agents that actually locks things down before they break prod.\n• AWS just shipped the official toolkit—means agents can now provision infrastructure safely.\n• Stops Claude from hallucinating your design system into oblivion. Yes, i…",
+  "bluesky": "Cloudflare's security audit agent jumped 2,271 stars in one day—and it's forcing a reckoning with how we actually verify AI-generated code.\nWhich one are you dropping into your stack first—the audit layer or the runtime?",
+  "tagline": "AI agents go from sketchy to production-ready",
+  "cta_headline": "Get tomorrow's agent repos early",
+  "cta_subtext": "New trending repos land here 6 hours before Twitter. Built for people shipping, not scrolling.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Cloudflare's security audit agent jumped 2,271 stars in one day—and it's forcing a reckoning with how we actually verify AI-generated code.",
+    "repo_lines": [
+      "Autonomous security audits that produce machine-readable proof. No hand-waving.",
+      "Runtime sandbox for AI agents that actually locks things down before they break prod.",
+      "AWS just shipped the official toolkit—means agents can now provision infrastructure safely.",
+      "Stops Claude from hallucinating your design system into oblivion. Yes, it's necessary.",
+      "44k+ stars: the blueprint everyone's copying for building agents that don't need babysitting."
+    ],
+    "closing_question": "Which one are you dropping into your stack first—the audit layer or the runtime?",
+    "tagline": "AI agents go from sketchy to production-ready",
+    "cta_headline": "Get tomorrow's agent repos early",
+    "cta_subtext": "New trending repos land here 6 hours before Twitter. Built for people shipping, not scrolling."
+  }
+}
