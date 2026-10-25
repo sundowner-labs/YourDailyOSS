@@ -1,0 +1,22 @@
+{
+  "mastodon": "VoiceStudio just hit 1,588 new stars in a single day—the fully-local alternative that kills the ElevenLabs subscription model.\n\n• Cindy: AI agents that actually ship without the engineering tax\n• Hallmark: Design taste for code—Claude's taste, in your editor\n• VoiceStudio: Clone voices in 646 languages, own it forever\n• Impeccable: The design language that makes AI UIs actually coherent\n• Microduck: A bipedal duck robot small enough to fit your palm 🦆\n\nWhich one are you depl…",
+  "bluesky": "VoiceStudio just hit 1,588 new stars in a single day—the fully-local alternative that kills the ElevenLabs subscription model.\nWhich one are you deploying first—the voice clone, the AI agent, or the tiny robot?",
+  "tagline": "Today's build stack just got a whole lot sharper.",
+  "cta_headline": "New repos ship every 24h",
+  "cta_subtext": "Catch the ones trending before they hit the front page—follow for daily wins.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "VoiceStudio just hit 1,588 new stars in a single day—the fully-local alternative that kills the ElevenLabs subscription model.",
+    "repo_lines": [
+      "Cindy: AI agents that actually ship without the engineering tax",
+      "Hallmark: Design taste for code—Claude's taste, in your editor",
+      "VoiceStudio: Clone voices in 646 languages, own it forever",
+      "Impeccable: The design language that makes AI UIs actually coherent",
+      "Microduck: A bipedal duck robot small enough to fit your palm 🦆"
+    ],
+    "closing_question": "Which one are you deploying first—the voice clone, the AI agent, or the tiny robot?",
+    "tagline": "Today's build stack just got a whole lot sharper.",
+    "cta_headline": "New repos ship every 24h",
+    "cta_subtext": "Catch the ones trending before they hit the front page—follow for daily wins."
+  }
+}
