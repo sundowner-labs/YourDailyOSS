@@ -1,0 +1,22 @@
+{
+  "mastodon": "A JavaScript repo just hit 289K stars—and it's redefining how AI agents actually perform at scale.\n\n• Stop your Claude/Cursor from cooking up visual garbage—design taste as a skill now ships.\n• Multi-agent financial trading that actually works; the LLM finance framework everyone's building on.\n• JetBrains made an IDE that learns your coding style instead of forcing theirs on you.\n• Open-source AI agent that doesn't require a PhD to deploy—works today, in Chinese and English.…",
+  "bluesky": "A JavaScript repo just hit 289K stars—and it's redefining how AI agents actually perform at scale.\nWhich one are you spinning up first—the design-conscious Claude setup or the agent that just works?",
+  "tagline": "Five repos reshaping how AI actually builds",
+  "cta_headline": "Follow for the next wave",
+  "cta_subtext": "Daily repos that are shipping now, not hype—catch the ones that move fastest before they're everywhere.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A JavaScript repo just hit 289K stars—and it's redefining how AI agents actually perform at scale.",
+    "repo_lines": [
+      "Stop your Claude/Cursor from cooking up visual garbage—design taste as a skill now ships.",
+      "Multi-agent financial trading that actually works; the LLM finance framework everyone's building on.",
+      "JetBrains made an IDE that learns your coding style instead of forcing theirs on you.",
+      "Open-source AI agent that doesn't require a PhD to deploy—works today, in Chinese and English.",
+      "Performance harness for agent memory, security, and instincts across every major coder AI platform."
+    ],
+    "closing_question": "Which one are you spinning up first—the design-conscious Claude setup or the agent that just works?",
+    "tagline": "Five repos reshaping how AI actually builds",
+    "cta_headline": "Follow for the next wave",
+    "cta_subtext": "Daily repos that are shipping now, not hype—catch the ones that move fastest before they're everywhere."
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 36174,
+    "stars_today": 2235,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "full_name": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars": 116010,
+    "stars_today": 1376,
+    "url": "https://github.com/TauricResearch/TradingAgents"
+  },
+  {
+    "full_name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 2838,
+    "stars_today": 1156,
+    "url": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "full_name": "makecindy/cindy",
+    "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+    "language": "TypeScript",
+    "stars": 6396,
+    "stars_today": 1268,
+    "url": "https://github.com/makecindy/cindy"
+  },
+  {
+    "full_name": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 289790,
+    "stars_today": 987,
+    "url": "https://github.com/affaan-m/ECC"
+  }
+]
