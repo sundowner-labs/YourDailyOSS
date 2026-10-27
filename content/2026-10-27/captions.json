@@ -1,0 +1,22 @@
+{
+  "mastodon": "306K stars for a framework that actually ships working AI agents—and it gained 600+ stars today alone.\n\n• Design skills for AI systems that don't look like they were made by an algorithm\n• The anti-bloatware playbook: craft Claude prompts that actually produce usable code\n• Stop context-switching between tools—persistent AI teammates in one desktop workspace\n• The methodology that convinced 300K+ devs that agentic AI can be reliable\n• Stop your AI from designing like a desig…",
+  "bluesky": "306K stars for a framework that actually ships working AI agents—and it gained 600+ stars today alone.\nWhich one are you spinning up in the next 48 hours?",
+  "tagline": "AI that ships. Today's proof.",
+  "cta_headline": "Don't miss tomorrow's bets",
+  "cta_subtext": "Trending repos hit your feed before they hit HackerNews—follow for the signal.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "306K stars for a framework that actually ships working AI agents—and it gained 600+ stars today alone.",
+    "repo_lines": [
+      "Design skills for AI systems that don't look like they were made by an algorithm",
+      "The anti-bloatware playbook: craft Claude prompts that actually produce usable code",
+      "Stop context-switching between tools—persistent AI teammates in one desktop workspace",
+      "The methodology that convinced 300K+ devs that agentic AI can be reliable",
+      "Stop your AI from designing like a design tool—it learns how humans actually think"
+    ],
+    "closing_question": "Which one are you spinning up in the next 48 hours?",
+    "tagline": "AI that ships. Today's proof.",
+    "cta_headline": "Don't miss tomorrow's bets",
+    "cta_subtext": "Trending repos hit your feed before they hit HackerNews—follow for the signal."
+  }
+}

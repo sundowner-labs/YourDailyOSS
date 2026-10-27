@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "elayadesign/ai-design-skills",
+    "description": "",
+    "language": null,
+    "stars": 9218,
+    "stars_today": 1395,
+    "url": "https://github.com/elayadesign/ai-design-skills"
+  },
+  {
+    "full_name": "Nutlope/hallmark",
+    "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "language": "CSS",
+    "stars": 38897,
+    "stars_today": 2859,
+    "url": "https://github.com/Nutlope/hallmark"
+  },
+  {
+    "full_name": "nightly-labs/openbot",
+    "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "language": "TypeScript",
+    "stars": 2365,
+    "stars_today": 794,
+    "url": "https://github.com/nightly-labs/openbot"
+  },
+  {
+    "full_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 306383,
+    "stars_today": 608,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "full_name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "Rust",
+    "stars": 90436,
+    "stars_today": 1458,
+    "url": "https://github.com/pbakaus/impeccable"
+  }
+]
