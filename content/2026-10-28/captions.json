@@ -1,0 +1,22 @@
+{
+  "mastodon": "DeepTutor just gained 2,376 stars in 24 hours—personalized AI tutoring that actually scales.\n\n• IDE that learns your coding style and rewires itself to match.\n• 11k stars overnight: the design skills playbook AI actually uses.\n• 307k stars and climbing—the framework that made agentic dev real.\n• Lifelong tutoring that adapts to *you*, not the other way around.\n• Email + chat + docs + tasks + agents in one workspace with shared memory.\n\nWhich one are you spinning up first—the…",
+  "bluesky": "DeepTutor just gained 2,376 stars in 24 hours—personalized AI tutoring that actually scales.\nWhich one are you spinning up first—the IDE, the tutoring system, or the unified workspace?",
+  "tagline": "Five repos reshaping how we build, learn, and ship.",
+  "cta_headline": "Stay ahead of shipping trends.",
+  "cta_subtext": "Fresh trending repos hit your feed daily—catch the next wave before your team does.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "DeepTutor just gained 2,376 stars in 24 hours—personalized AI tutoring that actually scales.",
+    "repo_lines": [
+      "IDE that learns your coding style and rewires itself to match.",
+      "11k stars overnight: the design skills playbook AI actually uses.",
+      "307k stars and climbing—the framework that made agentic dev real.",
+      "Lifelong tutoring that adapts to *you*, not the other way around.",
+      "Email + chat + docs + tasks + agents in one workspace with shared memory."
+    ],
+    "closing_question": "Which one are you spinning up first—the IDE, the tutoring system, or the unified workspace?",
+    "tagline": "Five repos reshaping how we build, learn, and ship.",
+    "cta_headline": "Stay ahead of shipping trends.",
+    "cta_subtext": "Fresh trending repos hit your feed daily—catch the next wave before your team does."
+  }
+}
