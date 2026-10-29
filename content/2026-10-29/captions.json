@@ -1,0 +1,22 @@
+{
+  "mastodon": "Shell framework just hit 308k stars with 1k gains today—this is what happens when you nail the workflow problem.\n\n• Your students' AI tutor that actually learns who they are.\n• The methodology that makes agentic coding actually stick.\n• Before your AI ships broken code, this catches it.\n• IDE that shapes itself to how you already work.\n• Grok alternative that lets bots run their own code.\n\nWhich one are you spinning up first—the tutor, the framework, or the bot runtime?",
+  "bluesky": "Shell framework just hit 308k stars with 1k gains today—this is what happens when you nail the workflow problem.\nWhich one are you spinning up first—the tutor, the framework, or the bot runtime?",
+  "tagline": "The stack actually shipping today.",
+  "cta_headline": "Don't miss the shift.",
+  "cta_subtext": "We surface the repos moving fast before they're everywhere else.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Shell framework just hit 308k stars with 1k gains today—this is what happens when you nail the workflow problem.",
+    "repo_lines": [
+      "Your students' AI tutor that actually learns who they are.",
+      "The methodology that makes agentic coding actually stick.",
+      "Before your AI ships broken code, this catches it.",
+      "IDE that shapes itself to how you already work.",
+      "Grok alternative that lets bots run their own code."
+    ],
+    "closing_question": "Which one are you spinning up first—the tutor, the framework, or the bot runtime?",
+    "tagline": "The stack actually shipping today.",
+    "cta_headline": "Don't miss the shift.",
+    "cta_subtext": "We surface the repos moving fast before they're everywhere else."
+  }
+}

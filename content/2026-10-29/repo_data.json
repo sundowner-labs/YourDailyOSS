@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+    "language": "Python",
+    "stars": 49948,
+    "stars_today": 1926,
+    "url": "https://github.com/HKUDS/DeepTutor"
+  },
+  {
+    "full_name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 308491,
+    "stars_today": 1037,
+    "url": "https://github.com/obra/superpowers"
+  },
+  {
+    "full_name": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "stars": 95225,
+    "stars_today": 2881,
+    "url": "https://github.com/pbakaus/impeccable"
+  },
+  {
+    "full_name": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work \u2014 The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 5969,
+    "stars_today": 1116,
+    "url": "https://github.com/JetBrains/thinkrail"
+  },
+  {
+    "full_name": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 7426,
+    "stars_today": 1190,
+    "url": "https://github.com/milind-soni/OpenMausBot"
+  }
+]
