@@ -1,0 +1,22 @@
+{
+  "mastodon": "A Rust design system for AI agents just hit +2,300 stars in a single day—here's what's actually trending in agent infrastructure right now.\n\n• Your AI agent now remembers everything across sessions—no more relearning the same context twice.\n• Run a Grok competitor with a full VM sandbox inside it. Yes, really.\n• Stop shipping AI hallucinations: this is the design language that catches slop before production.\n• Give your AI coworker an actual computer—browser, files, tools, f…",
+  "bluesky": "A Rust design system for AI agents just hit +2,300 stars in a single day—here's what's actually trending in agent infrastructure right now.\nWhich of these would actually save you the most time in your workflow right now?",
+  "tagline": "Agent infrastructure just leveled up",
+  "cta_headline": "Agent architecture moves fast",
+  "cta_subtext": "New frameworks like these ship daily—follow for the tools before they hit mainstream.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A Rust design system for AI agents just hit +2,300 stars in a single day—here's what's actually trending in agent infrastructure right now.",
+    "repo_lines": [
+      "Your AI agent now remembers everything across sessions—no more relearning the same context twice.",
+      "Run a Grok competitor with a full VM sandbox inside it. Yes, really.",
+      "Stop shipping AI hallucinations: this is the design language that catches slop before production.",
+      "Give your AI coworker an actual computer—browser, files, tools, full transparency on every move.",
+      "Open-source Chinese astrology engine with complete algorithm libraries and classical text data."
+    ],
+    "closing_question": "Which of these would actually save you the most time in your workflow right now?",
+    "tagline": "Agent infrastructure just leveled up",
+    "cta_headline": "Agent architecture moves fast",
+    "cta_subtext": "New frameworks like these ship daily—follow for the tools before they hit mainstream."
+  }
+}
