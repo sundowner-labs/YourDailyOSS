@@ -1,0 +1,22 @@
+{
+  "mastodon": "308k stars pulling from one engineer's personal .agents directory—here's what actually ships in production.\n\n• Your AI agent forgets everything. This makes it remember across sessions.\n• Not tutorials. Actual patterns from someone shipping real work daily.\n• 49 agents + 72 skills = treating Claude like a real studio pipeline.\n• T3 stack but make it AI-native. The unopinionated glue everyone needs.\n• 紫微斗数engine: open-source divination math that's actually rigorous.\n\nWhich one…",
+  "bluesky": "308k stars pulling from one engineer's personal .agents directory—here's what actually ships in production.\nWhich one are you spinning up first—agent memory or the full studio stack?",
+  "tagline": "Production-grade AI tooling, no marketing speak",
+  "cta_headline": "Don't miss the daily shift",
+  "cta_subtext": "Repos hit 1k+ stars before most people notice—follow for the real momentum.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "308k stars pulling from one engineer's personal .agents directory—here's what actually ships in production.",
+    "repo_lines": [
+      "Your AI agent forgets everything. This makes it remember across sessions.",
+      "Not tutorials. Actual patterns from someone shipping real work daily.",
+      "49 agents + 72 skills = treating Claude like a real studio pipeline.",
+      "T3 stack but make it AI-native. The unopinionated glue everyone needs.",
+      "紫微斗数engine: open-source divination math that's actually rigorous."
+    ],
+    "closing_question": "Which one are you spinning up first—agent memory or the full studio stack?",
+    "tagline": "Production-grade AI tooling, no marketing speak",
+    "cta_headline": "Don't miss the daily shift",
+    "cta_subtext": "Repos hit 1k+ stars before most people notice—follow for the real momentum."
+  }
+}
