@@ -1,0 +1,22 @@
+{
+  "mastodon": "One repo jumped 3,100 stars in a day—and it has no description. Here's what's actually happening in today's trending.\n\n• Your AI agent finally remembers what it did yesterday.\n• Browsers built for bots, not humans—and it shows.\n• Train on market data like a quant fund would.\n• TypeScript mystery box with explosive momentum.\n• Automate like Grok without the Elon tax.\n\nWhich one are you spinning up first—memory layer, browser, or the mystery box?",
+  "bluesky": "One repo jumped 3,100 stars in a day—and it has no description. Here's what's actually happening in today's trending.\nWhich one are you spinning up first—memory layer, browser, or the mystery box?",
+  "tagline": "Five tools reshaping how AI actually works.",
+  "cta_headline": "Get the scoop before launch",
+  "cta_subtext": "Every morning: trending repos, why they matter, and who's building with them.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "One repo jumped 3,100 stars in a day—and it has no description. Here's what's actually happening in today's trending.",
+    "repo_lines": [
+      "Your AI agent finally remembers what it did yesterday.",
+      "Browsers built for bots, not humans—and it shows.",
+      "Train on market data like a quant fund would.",
+      "TypeScript mystery box with explosive momentum.",
+      "Automate like Grok without the Elon tax."
+    ],
+    "closing_question": "Which one are you spinning up first—memory layer, browser, or the mystery box?",
+    "tagline": "Five tools reshaping how AI actually works.",
+    "cta_headline": "Get the scoop before launch",
+    "cta_subtext": "Every morning: trending repos, why they matter, and who's building with them."
+  }
+}
