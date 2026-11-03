@@ -1,22 +1,22 @@
 {
-  "mastodon": "Claude-mem just hit 110k stars in weeks—AI agents can now remember everything across sessions.\n\n• Desktop CLI that gives AI agents actual computer control—no more API-only limitations.\n• Your agent's long-term memory problem solved: compress session history, inject context intelligently.\n• Web scraping at any scale without drowning in config—one framework, infinite crawl depth.\n• Wayland compositor that proves tiling WMs don't have to choose between power and beauty.\n• 49 co…",
-  "bluesky": "Claude-mem just hit 110k stars in weeks—AI agents can now remember everything across sessions.\nWhich one are you shipping with first—agent autonomy, memory, or the full studio stack?",
-  "tagline": "AI agents just leveled up. Here's how.",
-  "cta_headline": "Fresh trending drops daily",
-  "cta_subtext": "Follow to catch repos the moment they explode—before they hit mainstream hacker news.",
+  "mastodon": "311K stars for an engineer's personal agent playbook—and it gained 1,164 stars today alone.\n\n• Your AI agent finally remembers what it learned. Context compression that actually scales.\n• Forget API-only agents. Now your AI can actually see and control your desktop.\n• Parallel agent work without the Git branch nightmare. Worktree automation for the impatient.\n• Run frontier MoE models on your GPU + RAM + NVMe. No cloud required.\n• Not tutorials. Real, battle-tested workflows…",
+  "bluesky": "311K stars for an engineer's personal agent playbook—and it gained 1,164 stars today alone.\nWhich one are you deploying to production first?",
+  "tagline": "The agent infra layer nobody's talking about yet",
+  "cta_headline": "Agent workflows ship faster",
+  "cta_subtext": "Get tomorrow's repos before they hit 10K stars—fresh daily, no noise.",
   "_meta": {
     "mode": "llm (claude-haiku-4-5-20251001)",
-    "hook": "Claude-mem just hit 110k stars in weeks—AI agents can now remember everything across sessions.",
+    "hook": "311K stars for an engineer's personal agent playbook—and it gained 1,164 stars today alone.",
     "repo_lines": [
-      "Desktop CLI that gives AI agents actual computer control—no more API-only limitations.",
-      "Your agent's long-term memory problem solved: compress session history, inject context intelligently.",
-      "Web scraping at any scale without drowning in config—one framework, infinite crawl depth.",
-      "Wayland compositor that proves tiling WMs don't have to choose between power and beauty.",
-      "49 coordinated AI agents working like a real game studio—Claude Code just became a team."
+      "Your AI agent finally remembers what it learned. Context compression that actually scales.",
+      "Forget API-only agents. Now your AI can actually see and control your desktop.",
+      "Parallel agent work without the Git branch nightmare. Worktree automation for the impatient.",
+      "Run frontier MoE models on your GPU + RAM + NVMe. No cloud required.",
+      "Not tutorials. Real, battle-tested workflows stolen from someone who ships constantly."
     ],
-    "closing_question": "Which one are you shipping with first—agent autonomy, memory, or the full studio stack?",
-    "tagline": "AI agents just leveled up. Here's how.",
-    "cta_headline": "Fresh trending drops daily",
-    "cta_subtext": "Follow to catch repos the moment they explode—before they hit mainstream hacker news."
+    "closing_question": "Which one are you deploying to production first?",
+    "tagline": "The agent infra layer nobody's talking about yet",
+    "cta_headline": "Agent workflows ship faster",
+    "cta_subtext": "Get tomorrow's repos before they hit 10K stars—fresh daily, no noise."
   }
 }
