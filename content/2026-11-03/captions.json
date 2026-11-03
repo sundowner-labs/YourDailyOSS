@@ -1,0 +1,22 @@
+{
+  "mastodon": "Claude-mem just hit 110k stars in weeks—AI agents can now remember everything across sessions.\n\n• Desktop CLI that gives AI agents actual computer control—no more API-only limitations.\n• Your agent's long-term memory problem solved: compress session history, inject context intelligently.\n• Web scraping at any scale without drowning in config—one framework, infinite crawl depth.\n• Wayland compositor that proves tiling WMs don't have to choose between power and beauty.\n• 49 co…",
+  "bluesky": "Claude-mem just hit 110k stars in weeks—AI agents can now remember everything across sessions.\nWhich one are you shipping with first—agent autonomy, memory, or the full studio stack?",
+  "tagline": "AI agents just leveled up. Here's how.",
+  "cta_headline": "Fresh trending drops daily",
+  "cta_subtext": "Follow to catch repos the moment they explode—before they hit mainstream hacker news.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Claude-mem just hit 110k stars in weeks—AI agents can now remember everything across sessions.",
+    "repo_lines": [
+      "Desktop CLI that gives AI agents actual computer control—no more API-only limitations.",
+      "Your agent's long-term memory problem solved: compress session history, inject context intelligently.",
+      "Web scraping at any scale without drowning in config—one framework, infinite crawl depth.",
+      "Wayland compositor that proves tiling WMs don't have to choose between power and beauty.",
+      "49 coordinated AI agents working like a real game studio—Claude Code just became a team."
+    ],
+    "closing_question": "Which one are you shipping with first—agent autonomy, memory, or the full studio stack?",
+    "tagline": "AI agents just leveled up. Here's how.",
+    "cta_headline": "Fresh trending drops daily",
+    "cta_subtext": "Follow to catch repos the moment they explode—before they hit mainstream hacker news."
+  }
+}
