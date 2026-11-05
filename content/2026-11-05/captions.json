@@ -1,0 +1,22 @@
+{
+  "mastodon": "A single repo just hit 313k stars—and it's literally someone's agent configs dumped into public.\n\n• Graph reasoning that actually explains its decisions: no more black-box LLM queries\n• Finally, a worktree CLI that doesn't make you want to alias everything to death\n• The .dotfiles moment for AI: what happens when expertise becomes reproducible\n• AWS emulation that won't ghost your local tests or drain your patience\n• Your agent's memory now persists across sessions—context b…",
+  "bluesky": "A single repo just hit 313k stars—and it's literally someone's agent configs dumped into public.\nWhich one are you spinning up first—the reasoning layer or the memory system?",
+  "tagline": "Today's repos are shipping agent infrastructure.",
+  "cta_headline": "AI tooling moves fast. Stay ahead.",
+  "cta_subtext": "Get the repos that matter before they hit mainstream—daily, no noise.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A single repo just hit 313k stars—and it's literally someone's agent configs dumped into public.",
+    "repo_lines": [
+      "Graph reasoning that actually explains its decisions: no more black-box LLM queries",
+      "Finally, a worktree CLI that doesn't make you want to alias everything to death",
+      "The .dotfiles moment for AI: what happens when expertise becomes reproducible",
+      "AWS emulation that won't ghost your local tests or drain your patience",
+      "Your agent's memory now persists across sessions—context bleeding solved"
+    ],
+    "closing_question": "Which one are you spinning up first—the reasoning layer or the memory system?",
+    "tagline": "Today's repos are shipping agent infrastructure.",
+    "cta_headline": "AI tooling moves fast. Stay ahead.",
+    "cta_subtext": "Get the repos that matter before they hit mainstream—daily, no noise."
+  }
+}
