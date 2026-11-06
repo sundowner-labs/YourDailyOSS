@@ -1,22 +1,22 @@
 {
-  "mastodon": "315K stars and climbing: one engineer's entire agent playbook just dropped and the internet is losing it.\n\n• NVIDIA's semantic reasoning layer that makes LLMs actually explain their work instead of hallucinating.\n• The actual shell scripts and dotfiles a senior engineer uses daily—not a tutorial, the real deal.\n• 23 pre-wired Claude tools that turn your IDE into a full startup org chart, ready to ship.\n• AI-powered Xianyu monitor that finds deals in the noise before bots do—…",
-  "bluesky": "315K stars and climbing: one engineer's entire agent playbook just dropped and the internet is losing it.\nWhich one are you spinning up first—the reasoning layer or the agent toolkit?",
-  "tagline": "Today's trending repos are actually production-ready.",
-  "cta_headline": "Get the repos before they peak",
-  "cta_subtext": "Every repo here hit 500+ stars today—follow now for tomorrow's breakout before it's everywhere.",
+  "mastodon": "Auto Ontology just gained 2,000 stars in 24 hours—here's what's breaking through the noise today.\n\n• Zed's speed is making people question why their editor feels slow\n• Your LLM just got a reasoning layer that actually explains itself\n• Rails is still here, still shipping real apps, no drama needed\n• mpv does one thing so well that VLC users keep one eye on it\n• Rust's safety guarantees just proved they're not going anywhere\n\nWhich one are you actually going to clone and try…",
+  "bluesky": "Auto Ontology just gained 2,000 stars in 24 hours—here's what's breaking through the noise today.\nWhich one are you actually going to clone and try this week?",
+  "tagline": "Five repos reshaping how we build.",
+  "cta_headline": "Never miss a breakout.",
+  "cta_subtext": "Get GitHub Trending before Hacker News. Weekdays in your feed.",
   "_meta": {
     "mode": "llm (claude-haiku-4-5-20251001)",
-    "hook": "315K stars and climbing: one engineer's entire agent playbook just dropped and the internet is losing it.",
+    "hook": "Auto Ontology just gained 2,000 stars in 24 hours—here's what's breaking through the noise today.",
     "repo_lines": [
-      "NVIDIA's semantic reasoning layer that makes LLMs actually explain their work instead of hallucinating.",
-      "The actual shell scripts and dotfiles a senior engineer uses daily—not a tutorial, the real deal.",
-      "23 pre-wired Claude tools that turn your IDE into a full startup org chart, ready to ship.",
-      "AI-powered Xianyu monitor that finds deals in the noise before bots do—real-time hunting.",
-      "Web scraper that scales from \"grab one thing\" to \"crawl the internet\"—one framework, zero headaches."
+      "Zed's speed is making people question why their editor feels slow",
+      "Your LLM just got a reasoning layer that actually explains itself",
+      "Rails is still here, still shipping real apps, no drama needed",
+      "mpv does one thing so well that VLC users keep one eye on it",
+      "Rust's safety guarantees just proved they're not going anywhere"
     ],
-    "closing_question": "Which one are you spinning up first—the reasoning layer or the agent toolkit?",
-    "tagline": "Today's trending repos are actually production-ready.",
-    "cta_headline": "Get the repos before they peak",
-    "cta_subtext": "Every repo here hit 500+ stars today—follow now for tomorrow's breakout before it's everywhere."
+    "closing_question": "Which one are you actually going to clone and try this week?",
+    "tagline": "Five repos reshaping how we build.",
+    "cta_headline": "Never miss a breakout.",
+    "cta_subtext": "Get GitHub Trending before Hacker News. Weekdays in your feed."
   }
 }
