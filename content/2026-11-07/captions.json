@@ -1,0 +1,22 @@
+{
+  "mastodon": "Cloudflare's security audit skill picked up 2,088 stars in one day—the entire AI agent ecosystem is accelerating.\n\n• Vercel's headless browser for AI. Finally, agents that can actually see and click.\n• Automated security audits at scale. Machine-readable findings you can trust.\n• Google's official playbook for agents. Integrate Workspace, Search, Analytics into workflows.\n• 317k stars and climbing—Matt Pocock's engineer-first agent skills are the real deal.\n• Anthropic's can…",
+  "bluesky": "Cloudflare's security audit skill picked up 2,088 stars in one day—the entire AI agent ecosystem is accelerating.\nWhich skill are you plugging into your agent first?",
+  "tagline": "The agent toolbox is getting serious.",
+  "cta_headline": "Stay ahead of the build.",
+  "cta_subtext": "Trending repos hit your feed first, before HN and Reddit catch up.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Cloudflare's security audit skill picked up 2,088 stars in one day—the entire AI agent ecosystem is accelerating.",
+    "repo_lines": [
+      "Vercel's headless browser for AI. Finally, agents that can actually see and click.",
+      "Automated security audits at scale. Machine-readable findings you can trust.",
+      "Google's official playbook for agents. Integrate Workspace, Search, Analytics into workflows.",
+      "317k stars and climbing—Matt Pocock's engineer-first agent skills are the real deal.",
+      "Anthropic's canonical skill library. The foundation everyone's building on top of."
+    ],
+    "closing_question": "Which skill are you plugging into your agent first?",
+    "tagline": "The agent toolbox is getting serious.",
+    "cta_headline": "Stay ahead of the build.",
+    "cta_subtext": "Trending repos hit your feed first, before HN and Reddit catch up."
+  }
+}
