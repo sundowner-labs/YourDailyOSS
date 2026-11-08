@@ -1,0 +1,22 @@
+{
+  "mastodon": "Sherlock just gained 2,372 stars in a single day—turns out finding anyone's social footprint across the internet is *very* popular right now.\n\n• The OSINT tool that actually works. Find someone's Twitter, TikTok, Instagram handles in seconds.\n• GPU scheduling for Kubernetes just got a management layer. Your bare metal cluster just leveled up.\n• Grok but open-source and running in a sandbox VM. Jailbreak-proof bot alternative that scales.\n• Claude projects are finally copy-pa…",
+  "bluesky": "Sherlock just gained 2,372 stars in a single day—turns out finding anyone's social footprint across the internet is *very* popular right now.\nWhich one are you spinning up first—the social hunter or the AI agent toolkit?",
+  "tagline": "Five repos redefining what's possible today",
+  "cta_headline": "Don't miss tomorrow's surge",
+  "cta_subtext": "We surface repos *before* they blow up. Follow for first-mover advantage on what's next.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Sherlock just gained 2,372 stars in a single day—turns out finding anyone's social footprint across the internet is *very* popular right now.",
+    "repo_lines": [
+      "The OSINT tool that actually works. Find someone's Twitter, TikTok, Instagram handles in seconds.",
+      "GPU scheduling for Kubernetes just got a management layer. Your bare metal cluster just leveled up.",
+      "Grok but open-source and running in a sandbox VM. Jailbreak-proof bot alternative that scales.",
+      "Claude projects are finally copy-paste ready. Stop wrestling with API docs, start building.",
+      "AI agents need a browser they can actually control. This is the CLI they've been waiting for."
+    ],
+    "closing_question": "Which one are you spinning up first—the social hunter or the AI agent toolkit?",
+    "tagline": "Five repos redefining what's possible today",
+    "cta_headline": "Don't miss tomorrow's surge",
+    "cta_subtext": "We surface repos *before* they blow up. Follow for first-mover advantage on what's next."
+  }
+}
