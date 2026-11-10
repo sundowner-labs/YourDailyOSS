@@ -1,0 +1,22 @@
+{
+  "mastodon": "Astryx just pulled in 3,278 stars in a single day—here's what else shipped while you were sleeping.\n\n• Anthropic's shipping agent skills as open source—the infrastructure layer everyone's building on\n• Design system built for AI agents, not just humans—fully customizable and already production-ready\n• Find anyone's digital footprint across 400+ networks in seconds; recon that actually scales\n• Physics simulation so precise it powers robotics research—now with contact dynamic…",
+  "bluesky": "Astryx just pulled in 3,278 stars in a single day—here's what else shipped while you were sleeping.\nWhich one are you actually installing first?",
+  "tagline": "agent-ready infrastructure dropping fast",
+  "cta_headline": "trending every morning",
+  "cta_subtext": "Get the repos climbing hardest before they hit Hacker News—five lines, no noise, daily.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Astryx just pulled in 3,278 stars in a single day—here's what else shipped while you were sleeping.",
+    "repo_lines": [
+      "Anthropic's shipping agent skills as open source—the infrastructure layer everyone's building on",
+      "Design system built for AI agents, not just humans—fully customizable and already production-ready",
+      "Find anyone's digital footprint across 400+ networks in seconds; recon that actually scales",
+      "Physics simulation so precise it powers robotics research—now with contact dynamics that actually work",
+      "Claude quickstarts go from zero to deployed in an afternoon—no architecture bikeshedding required"
+    ],
+    "closing_question": "Which one are you actually installing first?",
+    "tagline": "agent-ready infrastructure dropping fast",
+    "cta_headline": "trending every morning",
+    "cta_subtext": "Get the repos climbing hardest before they hit Hacker News—five lines, no noise, daily."
+  }
+}

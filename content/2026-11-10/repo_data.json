@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 191047,
+    "stars_today": 1038,
+    "url": "https://github.com/anthropics/skills"
+  },
+  {
+    "full_name": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 20209,
+    "stars_today": 3278,
+    "url": "https://github.com/meta/astryx"
+  },
+  {
+    "full_name": "sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "stars": 107166,
+    "stars_today": 4267,
+    "url": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "full_name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars": 16935,
+    "stars_today": 574,
+    "url": "https://github.com/google-deepmind/mujoco"
+  },
+  {
+    "full_name": "anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "stars": 20040,
+    "stars_today": 551,
+    "url": "https://github.com/anthropics/claude-quickstarts"
+  }
+]
