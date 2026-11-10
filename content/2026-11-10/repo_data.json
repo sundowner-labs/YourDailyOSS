@@ -1,42 +1,42 @@
 [
   {
-    "full_name": "anthropics/skills",
-    "description": "Public repository for Agent Skills",
-    "language": "Python",
-    "stars": 191047,
-    "stars_today": 1038,
-    "url": "https://github.com/anthropics/skills"
-  },
-  {
     "full_name": "meta/astryx",
     "description": "An open source design system that's fully customizable and agent ready",
     "language": "TypeScript",
-    "stars": 20209,
-    "stars_today": 3278,
+    "stars": 22724,
+    "stars_today": 3111,
     "url": "https://github.com/meta/astryx"
   },
   {
-    "full_name": "sherlock-project/sherlock",
-    "description": "Hunt down social media accounts by username across social networks",
+    "full_name": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
     "language": "Python",
-    "stars": 107166,
-    "stars_today": 4267,
-    "url": "https://github.com/sherlock-project/sherlock"
+    "stars": 192281,
+    "stars_today": 1676,
+    "url": "https://github.com/anthropics/skills"
   },
   {
-    "full_name": "google-deepmind/mujoco",
-    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-    "language": "C++",
-    "stars": 16935,
-    "stars_today": 574,
-    "url": "https://github.com/google-deepmind/mujoco"
+    "full_name": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 115131,
+    "stars_today": 465,
+    "url": "https://github.com/addyosmani/agent-skills"
   },
   {
     "full_name": "anthropics/claude-quickstarts",
     "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
     "language": "Python",
-    "stars": 20040,
-    "stars_today": 551,
+    "stars": 20477,
+    "stars_today": 530,
     "url": "https://github.com/anthropics/claude-quickstarts"
+  },
+  {
+    "full_name": "google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars": 17338,
+    "stars_today": 453,
+    "url": "https://github.com/google-deepmind/mujoco"
   }
 ]
