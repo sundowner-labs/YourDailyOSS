@@ -1,0 +1,22 @@
+{
+  "mastodon": "115K stars: AI agents just got a production-grade skill set—and the ecosystem around them is moving *fast*.\n\n• Design systems built for AI to actually use, not just humans to admire.\n• Stop paying for market analysis—this LLM system runs free on a schedule.\n• Chrome's bet on what modern web development actually needs right now.\n• Audit your code with your smartest model, fix it with your cheapest one.\n• The engineering toolkit that turns AI from prototype risk into deployed…",
+  "bluesky": "115K stars: AI agents just got a production-grade skill set—and the ecosystem around them is moving *fast*.\nWhich one are you implementing first—the agent framework or the free stock analyzer?",
+  "tagline": "Five repos reshaping how AI actually ships code.",
+  "cta_headline": "Don't miss the agent revolution",
+  "cta_subtext": "We surface the repos shipping production AI every single day. Follow for the edge.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "115K stars: AI agents just got a production-grade skill set—and the ecosystem around them is moving *fast*.",
+    "repo_lines": [
+      "Design systems built for AI to actually use, not just humans to admire.",
+      "Stop paying for market analysis—this LLM system runs free on a schedule.",
+      "Chrome's bet on what modern web development actually needs right now.",
+      "Audit your code with your smartest model, fix it with your cheapest one.",
+      "The engineering toolkit that turns AI from prototype risk into deployed reality."
+    ],
+    "closing_question": "Which one are you implementing first—the agent framework or the free stock analyzer?",
+    "tagline": "Five repos reshaping how AI actually ships code.",
+    "cta_headline": "Don't miss the agent revolution",
+    "cta_subtext": "We surface the repos shipping production AI every single day. Follow for the edge."
+  }
+}
