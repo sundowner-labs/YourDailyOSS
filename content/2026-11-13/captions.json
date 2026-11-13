@@ -1,0 +1,22 @@
+{
+  "mastodon": "A personal finance app just hit 14k stars with a 967-star surge—turns out everyone really does want to manage money together.\n\n• Web devs are finally getting a single source of truth for modern best practices (no more conflicting advice threads)\n• OpenAI's security scanner catches vulnerabilities your linter misses—and actually tells you how to fix them\n• 96k stars proves this 15-year-old Node version manager is still the only tool that actually works\n• Jailbreak your Apple…",
+  "bluesky": "A personal finance app just hit 14k stars with a 967-star surge—turns out everyone really does want to manage money together.\nWhich of these are you installing in the next hour?",
+  "tagline": "Five repos that just got way more interesting",
+  "cta_headline": "Get trending before everyone else",
+  "cta_subtext": "Real repos, real wins, no algorithm noise—every morning in your feed before work starts.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A personal finance app just hit 14k stars with a 967-star surge—turns out everyone really does want to manage money together.",
+    "repo_lines": [
+      "Web devs are finally getting a single source of truth for modern best practices (no more conflicting advice threads)",
+      "OpenAI's security scanner catches vulnerabilities your linter misses—and actually tells you how to fix them",
+      "96k stars proves this 15-year-old Node version manager is still the only tool that actually works",
+      "Jailbreak your Apple Watch to use any Hermès face you want—because $17k shouldn't gate aesthetics",
+      "Collaborative budgeting that doesn't suck means couples stop fighting about money (radical concept, apparently)"
+    ],
+    "closing_question": "Which of these are you installing in the next hour?",
+    "tagline": "Five repos that just got way more interesting",
+    "cta_headline": "Get trending before everyone else",
+    "cta_subtext": "Real repos, real wins, no algorithm noise—every morning in your feed before work starts."
+  }
+}
