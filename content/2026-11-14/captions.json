@@ -1,22 +1,22 @@
 {
-  "mastodon": "71k stars and climbing: an LLM-powered stock analyzer just hit the trending charts, proving AI's ready to manage your money.\n\n• Alibaba's code review secret sauce: deterministic + AI agents catch bugs humans miss at massive scale.\n• Your web dev practices just got an expiration date—Chrome's keeping you honest with living best practices.\n• OpenAI's security CLI turns \"maybe vulnerable\" into \"definitely fixed\" with one command.\n• Real-time market data, AI analysis, zero subsc…",
-  "bluesky": "71k stars and climbing: an LLM-powered stock analyzer just hit the trending charts, proving AI's ready to manage your money.\nWhich one's shipping to your stack first?",
-  "tagline": "Code smarter. Invest sharper. Ship safer.",
-  "cta_headline": "Never miss a breakthrough tool",
-  "cta_subtext": "Tomorrow's trending hits your feed first—plus context on why they actually matter.",
+  "mastodon": "Chrome DevTools just hit 56K stars and +673 today—coding agents are officially leveling up their debugging game.\n\n• One-click feedback loops that actually close the gap between agents and humans\n• Your coding agent's cheat sheet for staying ahead of web standards\n• Turn Claude into a trading analyst without writing a single indicator from scratch\n• The debugger agents didn't know they needed until right now\n• Alibaba's battle-hardened code review engine, now open and LLM-rea…",
+  "bluesky": "Chrome DevTools just hit 56K stars and +673 today—coding agents are officially leveling up their debugging game.\nWhich one are you spinning up first—the agent workspace or the trading toolkit?",
+  "tagline": "Agents are eating code. Here's what they're using.",
+  "cta_headline": "Agent tools ship daily here",
+  "cta_subtext": "These repos moved thousands of stars *today*. Follow for the ones that actually ship.",
   "_meta": {
     "mode": "llm (claude-haiku-4-5-20251001)",
-    "hook": "71k stars and climbing: an LLM-powered stock analyzer just hit the trending charts, proving AI's ready to manage your money.",
+    "hook": "Chrome DevTools just hit 56K stars and +673 today—coding agents are officially leveling up their debugging game.",
     "repo_lines": [
-      "Alibaba's code review secret sauce: deterministic + AI agents catch bugs humans miss at massive scale.",
-      "Your web dev practices just got an expiration date—Chrome's keeping you honest with living best practices.",
-      "OpenAI's security CLI turns \"maybe vulnerable\" into \"definitely fixed\" with one command.",
-      "Real-time market data, AI analysis, zero subscription fees—your personal trading dashboard finally exists.",
-      "Personal finance built by regular people, not fintech bros—mutual aid meets money management."
+      "One-click feedback loops that actually close the gap between agents and humans",
+      "Your coding agent's cheat sheet for staying ahead of web standards",
+      "Turn Claude into a trading analyst without writing a single indicator from scratch",
+      "The debugger agents didn't know they needed until right now",
+      "Alibaba's battle-hardened code review engine, now open and LLM-ready"
     ],
-    "closing_question": "Which one's shipping to your stack first?",
-    "tagline": "Code smarter. Invest sharper. Ship safer.",
-    "cta_headline": "Never miss a breakthrough tool",
-    "cta_subtext": "Tomorrow's trending hits your feed first—plus context on why they actually matter."
+    "closing_question": "Which one are you spinning up first—the agent workspace or the trading toolkit?",
+    "tagline": "Agents are eating code. Here's what they're using.",
+    "cta_headline": "Agent tools ship daily here",
+    "cta_subtext": "These repos moved thousands of stars *today*. Follow for the ones that actually ship."
   }
 }
