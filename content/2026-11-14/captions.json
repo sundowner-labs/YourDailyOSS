@@ -1,0 +1,22 @@
+{
+  "mastodon": "71k stars and climbing: an LLM-powered stock analyzer just hit the trending charts, proving AI's ready to manage your money.\n\n• Alibaba's code review secret sauce: deterministic + AI agents catch bugs humans miss at massive scale.\n• Your web dev practices just got an expiration date—Chrome's keeping you honest with living best practices.\n• OpenAI's security CLI turns \"maybe vulnerable\" into \"definitely fixed\" with one command.\n• Real-time market data, AI analysis, zero subsc…",
+  "bluesky": "71k stars and climbing: an LLM-powered stock analyzer just hit the trending charts, proving AI's ready to manage your money.\nWhich one's shipping to your stack first?",
+  "tagline": "Code smarter. Invest sharper. Ship safer.",
+  "cta_headline": "Never miss a breakthrough tool",
+  "cta_subtext": "Tomorrow's trending hits your feed first—plus context on why they actually matter.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "71k stars and climbing: an LLM-powered stock analyzer just hit the trending charts, proving AI's ready to manage your money.",
+    "repo_lines": [
+      "Alibaba's code review secret sauce: deterministic + AI agents catch bugs humans miss at massive scale.",
+      "Your web dev practices just got an expiration date—Chrome's keeping you honest with living best practices.",
+      "OpenAI's security CLI turns \"maybe vulnerable\" into \"definitely fixed\" with one command.",
+      "Real-time market data, AI analysis, zero subscription fees—your personal trading dashboard finally exists.",
+      "Personal finance built by regular people, not fintech bros—mutual aid meets money management."
+    ],
+    "closing_question": "Which one's shipping to your stack first?",
+    "tagline": "Code smarter. Invest sharper. Ship safer.",
+    "cta_headline": "Never miss a breakthrough tool",
+    "cta_subtext": "Tomorrow's trending hits your feed first—plus context on why they actually matter."
+  }
+}
