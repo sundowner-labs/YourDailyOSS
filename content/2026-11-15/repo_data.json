@@ -1,0 +1,42 @@
+[
+  {
+    "full_name": "dream-num/univer",
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "language": "TypeScript",
+    "stars": 25577,
+    "stars_today": 1041,
+    "url": "https://github.com/dream-num/univer"
+  },
+  {
+    "full_name": "ag-ui-protocol/ag-ui",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "language": "TypeScript",
+    "stars": 17813,
+    "stars_today": 393,
+    "url": "https://github.com/ag-ui-protocol/ag-ui"
+  },
+  {
+    "full_name": "google-labs-code/stitch-skills",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "stars": 9265,
+    "stars_today": 248,
+    "url": "https://github.com/google-labs-code/stitch-skills"
+  },
+  {
+    "full_name": "backnotprop/plannotator",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "stars": 11806,
+    "stars_today": 860,
+    "url": "https://github.com/backnotprop/plannotator"
+  },
+  {
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "stars": 56886,
+    "stars_today": 718,
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
+  }
+]

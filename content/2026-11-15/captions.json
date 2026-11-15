@@ -1,0 +1,22 @@
+{
+  "mastodon": "Chrome DevTools just hit 56k stars with nearly 1,000 new fans in 24 hours—and it's not even the biggest mover here.\n\n• The office suite your AI actually wants to use—not a toy.\n• Stop bolting agents onto your UI like an afterthought.\n• Copy-paste agent skills that work across every coding AI.\n• Your team's command center for keeping agents honest.\n• DevTools for agents that catch bugs before they ship.\n\nWhich one are you shipping first—the agent backbone or the team oversigh…",
+  "bluesky": "Chrome DevTools just hit 56k stars with nearly 1,000 new fans in 24 hours—and it's not even the biggest mover here.\nWhich one are you shipping first—the agent backbone or the team oversight layer?",
+  "tagline": "Agent-native infrastructure is here.",
+  "cta_headline": "Stay ahead of agent shipping",
+  "cta_subtext": "Trending repos hit your feed every morning before they flood Reddit.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Chrome DevTools just hit 56k stars with nearly 1,000 new fans in 24 hours—and it's not even the biggest mover here.",
+    "repo_lines": [
+      "The office suite your AI actually wants to use—not a toy.",
+      "Stop bolting agents onto your UI like an afterthought.",
+      "Copy-paste agent skills that work across every coding AI.",
+      "Your team's command center for keeping agents honest.",
+      "DevTools for agents that catch bugs before they ship."
+    ],
+    "closing_question": "Which one are you shipping first—the agent backbone or the team oversight layer?",
+    "tagline": "Agent-native infrastructure is here.",
+    "cta_headline": "Stay ahead of agent shipping",
+    "cta_subtext": "Trending repos hit your feed every morning before they flood Reddit."
+  }
+}
