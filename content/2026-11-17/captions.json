@@ -1,0 +1,22 @@
+{
+  "mastodon": "Univer just gained 1,828 stars in one day—the AI office SDK that's redefining how agents and humans build together.\n\n• Stop bolting agents onto UI like an afterthought—AG-UI makes them native.\n• The control center for teams actually shipping with AI, not just talking about it.\n• Spreadsheets, docs, and calculations meet AI in one extensible platform.\n• Claude just got a finance degree—full market analysis and trading strategy toolkit.\n• Docker management for people who don't…",
+  "bluesky": "Univer just gained 1,828 stars in one day—the AI office SDK that's redefining how agents and humans build together.\nWhich of these are you shipping with first—the agent layer or the agent workspace?",
+  "tagline": "where agents stop being experiments",
+  "cta_headline": "Don't miss the daily wave",
+  "cta_subtext": "Get trending repos before your team discovers them in the wrong order.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Univer just gained 1,828 stars in one day—the AI office SDK that's redefining how agents and humans build together.",
+    "repo_lines": [
+      "Stop bolting agents onto UI like an afterthought—AG-UI makes them native.",
+      "The control center for teams actually shipping with AI, not just talking about it.",
+      "Spreadsheets, docs, and calculations meet AI in one extensible platform.",
+      "Claude just got a finance degree—full market analysis and trading strategy toolkit.",
+      "Docker management for people who don't want to become Docker experts."
+    ],
+    "closing_question": "Which of these are you shipping with first—the agent layer or the agent workspace?",
+    "tagline": "where agents stop being experiments",
+    "cta_headline": "Don't miss the daily wave",
+    "cta_subtext": "Get trending repos before your team discovers them in the wrong order."
+  }
+}
