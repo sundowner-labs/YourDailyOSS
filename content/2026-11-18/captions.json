@@ -1,0 +1,22 @@
+{
+  "mastodon": "Univer just gained 1,774 stars in a day—here's why AI office suites are suddenly everyone's build target.\n\n• Claude hunting 681 vulnerability patterns at once. Red-teamers' new best friend.\n• One agent. Six platforms. Instant synthesis of what the internet actually thinks right now.\n• Alibaba's code review at your scale: deterministic + LLM, zero guessing on security.\n• Hook your coding agents into production without crossing your fingers.\n• Stop embedding spreadsheets. Star…",
+  "bluesky": "Univer just gained 1,774 stars in a day—here's why AI office suites are suddenly everyone's build target.\nWhich one are you shipping with first—offense, defense, or infrastructure?",
+  "tagline": "Five repos redefining how AI actually ships.",
+  "cta_headline": "New trending drops tomorrow.",
+  "cta_subtext": "Get repos with real traction velocity before they hit the mainstream cycle.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "Univer just gained 1,774 stars in a day—here's why AI office suites are suddenly everyone's build target.",
+    "repo_lines": [
+      "Claude hunting 681 vulnerability patterns at once. Red-teamers' new best friend.",
+      "One agent. Six platforms. Instant synthesis of what the internet actually thinks right now.",
+      "Alibaba's code review at your scale: deterministic + LLM, zero guessing on security.",
+      "Hook your coding agents into production without crossing your fingers.",
+      "Stop embedding spreadsheets. Start embedding entire office workflows into your app."
+    ],
+    "closing_question": "Which one are you shipping with first—offense, defense, or infrastructure?",
+    "tagline": "Five repos redefining how AI actually ships.",
+    "cta_headline": "New trending drops tomorrow.",
+    "cta_subtext": "Get repos with real traction velocity before they hit the mainstream cycle."
+  }
+}
