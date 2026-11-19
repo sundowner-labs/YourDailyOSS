@@ -1,0 +1,22 @@
+{
+  "mastodon": "One repo gained over 1,000 stars in 24 hours—and it's teaching AI agents to actually research like humans.\n\n• Cursor's plugin ecosystem just got a formal spec—extensibility that scales.\n• Turn any software into an agent-first CLI tool. The bridge between old and new.\n• AI agents that *actually* synthesize research instead of hallucinating answers.\n• Docker management stripped down to what developers actually need—no bloat.\n• The testing framework nobody knew they needed: mea…",
+  "bluesky": "One repo gained over 1,000 stars in 24 hours—and it's teaching AI agents to actually research like humans.\nWhich of these would unlock your workflow first?",
+  "tagline": "Five projects reshaping how agents build, learn, and ship.",
+  "cta_headline": "Get the deep cuts first.",
+  "cta_subtext": "Trending repos hit your feed before they hit the front page. Stay ahead.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "One repo gained over 1,000 stars in 24 hours—and it's teaching AI agents to actually research like humans.",
+    "repo_lines": [
+      "Cursor's plugin ecosystem just got a formal spec—extensibility that scales.",
+      "Turn any software into an agent-first CLI tool. The bridge between old and new.",
+      "AI agents that *actually* synthesize research instead of hallucinating answers.",
+      "Docker management stripped down to what developers actually need—no bloat.",
+      "The testing framework nobody knew they needed: measure if agent skills actually work."
+    ],
+    "closing_question": "Which of these would unlock your workflow first?",
+    "tagline": "Five projects reshaping how agents build, learn, and ship.",
+    "cta_headline": "Get the deep cuts first.",
+    "cta_subtext": "Trending repos hit your feed before they hit the front page. Stay ahead."
+  }
+}
