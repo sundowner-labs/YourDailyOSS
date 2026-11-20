@@ -1,0 +1,22 @@
+{
+  "mastodon": "322K stars and 2K gained today: superpowers just became the most-watched development framework on GitHub.\n\n• Claude's red-team arsenal: 681 attack patterns ready to find what you missed\n• The methodology that actually ships—not another framework promise\n• Every CLI tool on Earth just became AI-native whether it knew it or not\n• Train a working LLM from zero in 120 minutes (yes, really)\n• Build Cursor plugins that feel native—spec + examples included\n\nWhich one are you spinni…",
+  "bluesky": "322K stars and 2K gained today: superpowers just became the most-watched development framework on GitHub.\nWhich one are you spinning up first—the red team toolkit or your own 64M model?",
+  "tagline": "Five repos rewriting what's possible in one day",
+  "cta_headline": "Trending daily—never miss the shift",
+  "cta_subtext": "Get 5 repos that actually changed something, every morning before the hype hits.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "322K stars and 2K gained today: superpowers just became the most-watched development framework on GitHub.",
+    "repo_lines": [
+      "Claude's red-team arsenal: 681 attack patterns ready to find what you missed",
+      "The methodology that actually ships—not another framework promise",
+      "Every CLI tool on Earth just became AI-native whether it knew it or not",
+      "Train a working LLM from zero in 120 minutes (yes, really)",
+      "Build Cursor plugins that feel native—spec + examples included"
+    ],
+    "closing_question": "Which one are you spinning up first—the red team toolkit or your own 64M model?",
+    "tagline": "Five repos rewriting what's possible in one day",
+    "cta_headline": "Trending daily—never miss the shift",
+    "cta_subtext": "Get 5 repos that actually changed something, every morning before the hype hits."
+  }
+}
