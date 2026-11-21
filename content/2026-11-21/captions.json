@@ -1,0 +1,22 @@
+{
+  "mastodon": "322K stars and climbing: the agentic framework that's quietly redefining how software actually gets built.\n\n• Claude's red-teaming arsenal: 82 battle-tested skills to find vulns before attackers do.\n• Stop debating methodology. This framework works because it's built on what actually ships.\n• Every CLI tool on your system just became an AI-native agent. No rewrites needed.\n• Train a production LLM from zero in 120 minutes. No GPU farm required.\n• The plugin ecosystem for Cur…",
+  "bluesky": "322K stars and climbing: the agentic framework that's quietly redefining how software actually gets built.\nWhich one are you spinning up first—the red-team toolchain or your own tiny LLM?",
+  "tagline": "Five repos that just leveled up everything.",
+  "cta_headline": "New trending repos every morning",
+  "cta_subtext": "Get them before your team does—delivered while you're still drinking coffee.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "322K stars and climbing: the agentic framework that's quietly redefining how software actually gets built.",
+    "repo_lines": [
+      "Claude's red-teaming arsenal: 82 battle-tested skills to find vulns before attackers do.",
+      "Stop debating methodology. This framework works because it's built on what actually ships.",
+      "Every CLI tool on your system just became an AI-native agent. No rewrites needed.",
+      "Train a production LLM from zero in 120 minutes. No GPU farm required.",
+      "The plugin ecosystem for Cursor is finally here—extend your IDE's superpowers."
+    ],
+    "closing_question": "Which one are you spinning up first—the red-team toolchain or your own tiny LLM?",
+    "tagline": "Five repos that just leveled up everything.",
+    "cta_headline": "New trending repos every morning",
+    "cta_subtext": "Get them before your team does—delivered while you're still drinking coffee."
+  }
+}
