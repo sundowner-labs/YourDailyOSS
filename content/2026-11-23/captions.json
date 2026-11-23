@@ -1,0 +1,22 @@
+{
+  "mastodon": "324k stars for a shell framework that claims to have finally cracked the code on agentic development—and 788 people agreed today.\n\n• Claude's red-team playbook: 82 attack skills + 681 vulnerability patterns in one bundle.\n• The methodology behind those 324k stars—actual software that ships, not just theory.\n• Turn any CLI into an agent-native interface. No rewrites. Just infrastructure.\n• Build a production LLM from scratch in 120 minutes. Yes, really.\n• Cursor's plugin syst…",
+  "bluesky": "324k stars for a shell framework that claims to have finally cracked the code on agentic development—and 788 people agreed today.\nWhich one are you spinning up first—the red-teamer's toolkit or your own LLM?",
+  "tagline": "Five repos redefining what AI tooling actually means.",
+  "cta_headline": "Don't miss tomorrow's wave",
+  "cta_subtext": "New high-velocity repos hit daily. Subscribe to catch the ones that move the needle.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "324k stars for a shell framework that claims to have finally cracked the code on agentic development—and 788 people agreed today.",
+    "repo_lines": [
+      "Claude's red-team playbook: 82 attack skills + 681 vulnerability patterns in one bundle.",
+      "The methodology behind those 324k stars—actual software that ships, not just theory.",
+      "Turn any CLI into an agent-native interface. No rewrites. Just infrastructure.",
+      "Build a production LLM from scratch in 120 minutes. Yes, really.",
+      "Cursor's plugin system: the missing piece between IDE and AI coding partners."
+    ],
+    "closing_question": "Which one are you spinning up first—the red-teamer's toolkit or your own LLM?",
+    "tagline": "Five repos redefining what AI tooling actually means.",
+    "cta_headline": "Don't miss tomorrow's wave",
+    "cta_subtext": "New high-velocity repos hit daily. Subscribe to catch the ones that move the needle."
+  }
+}
