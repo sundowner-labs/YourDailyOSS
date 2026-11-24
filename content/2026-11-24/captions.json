@@ -1,0 +1,22 @@
+{
+  "mastodon": "325K stars and climbing: the agentic framework that's quietly rewiring how software actually gets built.\n\n• Claude just got 84 bug-hunting skills. Red teamers are going to have a field day.\n• If superpowers has 325K stars, it's solving a problem everyone pretended didn't exist.\n• Every CLI tool on your machine could be agent-native. This is the blueprint.\n• Train a 64M LLM from scratch in 2 hours. No GPU flex needed.\n• Cursor's plugin ecosystem just went official. The IDE ar…",
+  "bluesky": "325K stars and climbing: the agentic framework that's quietly rewiring how software actually gets built.\nWhich one are you spinning up first—the red team arsenal or your own tiny LLM?",
+  "tagline": "Five repos redefining what AI can actually build",
+  "cta_headline": "Don't miss the next wave",
+  "cta_subtext": "New trending repos hit your feed daily—catch the patterns before they're everywhere.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "325K stars and climbing: the agentic framework that's quietly rewiring how software actually gets built.",
+    "repo_lines": [
+      "Claude just got 84 bug-hunting skills. Red teamers are going to have a field day.",
+      "If superpowers has 325K stars, it's solving a problem everyone pretended didn't exist.",
+      "Every CLI tool on your machine could be agent-native. This is the blueprint.",
+      "Train a 64M LLM from scratch in 2 hours. No GPU flex needed.",
+      "Cursor's plugin ecosystem just went official. The IDE arms race is real."
+    ],
+    "closing_question": "Which one are you spinning up first—the red team arsenal or your own tiny LLM?",
+    "tagline": "Five repos redefining what AI can actually build",
+    "cta_headline": "Don't miss the next wave",
+    "cta_subtext": "New trending repos hit your feed daily—catch the patterns before they're everywhere."
+  }
+}
