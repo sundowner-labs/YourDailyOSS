@@ -1,0 +1,22 @@
+{
+  "mastodon": "325k stars for a Shell framework that's making developers actually ship faster—and 1k new stars landed today.\n\n• Claude's red-team playbook: 84 skills + 681 vulnerability patterns in one bundle.\n• The methodology that turned agentic development from hype into something that actually works.\n• Every CLI tool on Earth just became agent-native without rewriting a thing.\n• Train a full LLM from zero in 120 minutes—no GPU farm required.\n• Cursor's plugin ecosystem is suddenly open…",
+  "bluesky": "325k stars for a Shell framework that's making developers actually ship faster—and 1k new stars landed today.\nWhich one are you spinning up first—the LLM trainer or the red-team toolkit?",
+  "tagline": "Five repos shipping today. One question: which moves your needle?",
+  "cta_headline": "New repos. Every single day.",
+  "cta_subtext": "Tomorrow's tools are trending today. Don't miss the ones that stick.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "325k stars for a Shell framework that's making developers actually ship faster—and 1k new stars landed today.",
+    "repo_lines": [
+      "Claude's red-team playbook: 84 skills + 681 vulnerability patterns in one bundle.",
+      "The methodology that turned agentic development from hype into something that actually works.",
+      "Every CLI tool on Earth just became agent-native without rewriting a thing.",
+      "Train a full LLM from zero in 120 minutes—no GPU farm required.",
+      "Cursor's plugin ecosystem is suddenly open: build the IDE extensions you've been waiting for."
+    ],
+    "closing_question": "Which one are you spinning up first—the LLM trainer or the red-team toolkit?",
+    "tagline": "Five repos shipping today. One question: which moves your needle?",
+    "cta_headline": "New repos. Every single day.",
+    "cta_subtext": "Tomorrow's tools are trending today. Don't miss the ones that stick."
+  }
+}
