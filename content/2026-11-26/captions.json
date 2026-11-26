@@ -1,0 +1,22 @@
+{
+  "mastodon": "A 326K-star framework just proved that agentic development actually works—and the speed gains are wild.\n\n• Claude's red-team playbook: 681 attack patterns + 85 skills to find what your security missed.\n• The methodology that made agents stop being vaporware. Now 326K devs are shipping with it.\n• Every CLI tool on Earth just became AI-native. Your terminal is about to get very interesting.\n• Train a full LLM in 2 hours on your laptop. No GPU farm required. No compromise on ca…",
+  "bluesky": "A 326K-star framework just proved that agentic development actually works—and the speed gains are wild.\nWhich one are you spinning up first—the red-team arsenal or your own 64M model?",
+  "tagline": "Five repos redefining what's possible right now.",
+  "cta_headline": "Don't miss tomorrow's shift.",
+  "cta_subtext": "New high-velocity repos drop daily. Subscribe for the stuff that actually changes your workflow.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A 326K-star framework just proved that agentic development actually works—and the speed gains are wild.",
+    "repo_lines": [
+      "Claude's red-team playbook: 681 attack patterns + 85 skills to find what your security missed.",
+      "The methodology that made agents stop being vaporware. Now 326K devs are shipping with it.",
+      "Every CLI tool on Earth just became AI-native. Your terminal is about to get very interesting.",
+      "Train a full LLM in 2 hours on your laptop. No GPU farm required. No compromise on capability.",
+      "Cursor's plugin ecosystem is live. Extend the editor that's already eating VSCode's lunch."
+    ],
+    "closing_question": "Which one are you spinning up first—the red-team arsenal or your own 64M model?",
+    "tagline": "Five repos redefining what's possible right now.",
+    "cta_headline": "Don't miss tomorrow's shift.",
+    "cta_subtext": "New high-velocity repos drop daily. Subscribe for the stuff that actually changes your workflow."
+  }
+}
