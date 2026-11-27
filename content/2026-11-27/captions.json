@@ -1,0 +1,22 @@
+{
+  "mastodon": "A shell framework just crossed 327k stars—and it's rewriting how teams actually ship software.\n\n• Claude's red-team arsenal: 85 skills to hunt bugs before attackers do\n• The methodology that made 327k devs rethink their entire workflow\n• Turn every CLI tool into an agent—no rewrites, no waiting\n• Train a full LLM in 2 hours on your laptop. Seriously.\n• Build AI features faster—Cursor's plugin system just got real\n\nWhich one are you spinning up first—the red-teamer, the LLM t…",
+  "bluesky": "A shell framework just crossed 327k stars—and it's rewriting how teams actually ship software.\nWhich one are you spinning up first—the red-teamer, the LLM trainer, or the agent framework?",
+  "tagline": "Five repos that change how you work today.",
+  "cta_headline": "Don't miss tomorrow's wave",
+  "cta_subtext": "New high-velocity repos hit daily—follow for the ones that actually move the needle.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A shell framework just crossed 327k stars—and it's rewriting how teams actually ship software.",
+    "repo_lines": [
+      "Claude's red-team arsenal: 85 skills to hunt bugs before attackers do",
+      "The methodology that made 327k devs rethink their entire workflow",
+      "Turn every CLI tool into an agent—no rewrites, no waiting",
+      "Train a full LLM in 2 hours on your laptop. Seriously.",
+      "Build AI features faster—Cursor's plugin system just got real"
+    ],
+    "closing_question": "Which one are you spinning up first—the red-teamer, the LLM trainer, or the agent framework?",
+    "tagline": "Five repos that change how you work today.",
+    "cta_headline": "Don't miss tomorrow's wave",
+    "cta_subtext": "New high-velocity repos hit daily—follow for the ones that actually move the needle."
+  }
+}
