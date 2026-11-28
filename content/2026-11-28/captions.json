@@ -1,0 +1,22 @@
+{
+  "mastodon": "A framework with 328K stars just proved agentic development actually works—and it's reshaping how teams ship.\n\n• 85 bug-hunting skills + 681 vulnerability patterns: Claude just became your red team\n• Shell-based agent methodology with 328K stars—this is how production AI actually works\n• Every CLI tool on your system just became agent-native. No rewrites needed.\n• Train a 64M LLM from zero in 120 minutes. The barrier to entry just collapsed.\n• Build AI coding assistants fast…",
+  "bluesky": "A framework with 328K stars just proved agentic development actually works—and it's reshaping how teams ship.\nWhich of these are you shipping with first—the red-team automation or your own fine-tuned model?",
+  "tagline": "Five ways AI actually ships this week",
+  "cta_headline": "Get the unfiltered trending list",
+  "cta_subtext": "New high-signal repos every morning, before the hype machine finds them. No algorithm.",
+  "_meta": {
+    "mode": "llm (claude-haiku-4-5-20251001)",
+    "hook": "A framework with 328K stars just proved agentic development actually works—and it's reshaping how teams ship.",
+    "repo_lines": [
+      "85 bug-hunting skills + 681 vulnerability patterns: Claude just became your red team",
+      "Shell-based agent methodology with 328K stars—this is how production AI actually works",
+      "Every CLI tool on your system just became agent-native. No rewrites needed.",
+      "Train a 64M LLM from zero in 120 minutes. The barrier to entry just collapsed.",
+      "Build AI coding assistants faster than you can deploy them. Cursor's plugin layer is the missing piece."
+    ],
+    "closing_question": "Which of these are you shipping with first—the red-team automation or your own fine-tuned model?",
+    "tagline": "Five ways AI actually ships this week",
+    "cta_headline": "Get the unfiltered trending list",
+    "cta_subtext": "New high-signal repos every morning, before the hype machine finds them. No algorithm."
+  }
+}
